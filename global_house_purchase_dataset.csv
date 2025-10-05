@@ -1,0 +1,2001 @@
+House_ID,Location,Bedrooms,Bathrooms,Balconies,Area_sqft,Furnishing,Parking,Age_of_Property,Floor,Total_Floors,House_Type,Price_INR
+H0001,Kolkata,4,4,3,1398,Semi-Furnished,2,14,14,12,Apartment,20132337
+H0002,Mumbai,3,4,2,1387,Semi-Furnished,2,5,7,8,Independent House,2218954
+H0003,Pune,5,2,2,3395,Semi-Furnished,2,26,4,19,Independent House,24140486
+H0004,Kolkata,1,4,3,3854,Furnished,1,25,5,11,Independent House,16444877
+H0005,Hyderabad,5,4,2,808,Semi-Furnished,0,3,8,14,Independent House,10363441
+H0006,Coimbatore,1,4,0,1092,Semi-Furnished,1,7,4,5,Independent House,16578997
+H0007,Pune,2,2,3,3801,Semi-Furnished,1,18,4,10,Villa,13898586
+H0008,Pune,1,2,1,3312,Unfurnished,0,26,8,10,Apartment,5610891
+H0009,Kolkata,4,2,3,3684,Semi-Furnished,2,4,5,10,Independent House,24545201
+H0010,Bangalore,3,4,0,2257,Furnished,1,12,13,16,Apartment,8395481
+H0011,Hyderabad,2,2,0,3518,Furnished,0,15,6,6,Independent House,15155894
+H0012,Kolkata,1,4,0,1331,Semi-Furnished,2,0,12,12,Villa,21938848
+H0013,Hyderabad,5,1,0,1729,Furnished,2,12,11,18,Villa,1727894
+H0014,Hyderabad,2,4,0,2205,Unfurnished,1,21,14,19,Independent House,2561449
+H0015,Coimbatore,2,3,1,3345,Semi-Furnished,2,10,5,19,Independent House,12111572
+H0016,Pune,1,2,2,3770,Furnished,2,20,1,9,Independent House,4465632
+H0017,Mumbai,2,2,0,1193,Furnished,0,7,7,9,Villa,12399686
+H0018,Coimbatore,5,3,0,3533,Semi-Furnished,0,24,6,6,Villa,23474512
+H0019,Coimbatore,2,4,3,3499,Furnished,2,7,2,8,Apartment,14096360
+H0020,Hyderabad,5,1,1,1815,Semi-Furnished,0,23,11,16,Villa,15670974
+H0021,Delhi,1,3,1,924,Furnished,2,27,7,13,Independent House,12583206
+H0022,Pune,3,3,2,1578,Unfurnished,1,13,6,13,Apartment,10388208
+H0023,Bangalore,2,4,1,2349,Furnished,0,12,5,10,Villa,13495490
+H0024,Coimbatore,3,2,3,2450,Furnished,2,2,8,15,Villa,8489823
+H0025,Mumbai,5,4,3,3603,Semi-Furnished,2,3,5,19,Independent House,14148382
+H0026,Delhi,2,3,2,2090,Furnished,0,26,11,13,Apartment,3093603
+H0027,Delhi,4,3,3,1493,Semi-Furnished,0,19,2,8,Villa,19646122
+H0028,Bangalore,3,2,0,1990,Unfurnished,1,14,6,19,Villa,3623699
+H0029,Coimbatore,2,2,0,3989,Semi-Furnished,2,14,14,15,Independent House,3420831
+H0030,Mumbai,3,2,3,743,Semi-Furnished,1,29,12,5,Apartment,17335527
+H0031,Pune,2,4,2,983,Furnished,1,26,1,6,Apartment,21081159
+H0032,Chennai,1,2,1,2863,Unfurnished,1,20,5,17,Apartment,19220196
+H0033,Mumbai,3,3,2,2971,Semi-Furnished,0,12,14,5,Apartment,19074334
+H0034,Bangalore,4,3,1,3686,Furnished,1,8,6,12,Independent House,14231520
+H0035,Delhi,4,1,3,816,Furnished,0,27,7,13,Villa,23816302
+H0036,Pune,5,4,3,2115,Semi-Furnished,0,24,14,14,Villa,9133829
+H0037,Mumbai,2,1,0,3598,Furnished,1,9,2,16,Apartment,21968905
+H0038,Chennai,3,3,1,2830,Semi-Furnished,1,28,1,10,Apartment,12127199
+H0039,Chennai,5,1,2,2917,Semi-Furnished,2,11,6,6,Apartment,13053965
+H0040,Hyderabad,3,3,3,3592,Semi-Furnished,1,13,3,10,Villa,10533652
+H0041,Hyderabad,2,1,2,2090,Unfurnished,2,0,5,13,Villa,6700444
+H0042,Kolkata,4,2,0,3517,Semi-Furnished,1,13,12,16,Apartment,6159710
+H0043,Bangalore,1,1,1,2235,Furnished,1,13,11,7,Independent House,12272967
+H0044,Coimbatore,4,2,1,3114,Unfurnished,1,7,13,13,Villa,6434210
+H0045,Mumbai,5,2,3,2952,Furnished,1,15,2,6,Villa,6203157
+H0046,Mumbai,1,4,1,1767,Unfurnished,2,13,1,15,Apartment,15271801
+H0047,Coimbatore,5,2,3,710,Unfurnished,2,0,1,9,Independent House,18700210
+H0048,Kolkata,2,2,0,1613,Unfurnished,1,15,13,15,Apartment,5010251
+H0049,Delhi,1,1,1,831,Unfurnished,1,17,11,6,Apartment,9639115
+H0050,Delhi,5,3,3,2314,Furnished,2,6,4,11,Independent House,6375630
+H0051,Kolkata,2,4,2,2355,Semi-Furnished,0,14,10,15,Independent House,10684315
+H0052,Delhi,4,2,3,3242,Furnished,0,23,13,14,Independent House,6788486
+H0053,Hyderabad,2,4,1,2177,Semi-Furnished,0,16,2,19,Villa,18278874
+H0054,Mumbai,3,1,0,1896,Furnished,2,18,1,13,Apartment,3822723
+H0055,Kolkata,2,2,1,2820,Unfurnished,2,22,6,11,Villa,11344648
+H0056,Mumbai,2,1,1,1572,Unfurnished,0,12,14,16,Independent House,17646293
+H0057,Coimbatore,3,4,3,1630,Semi-Furnished,0,8,4,9,Villa,8989305
+H0058,Chennai,5,1,2,3826,Semi-Furnished,1,23,10,19,Independent House,20127223
+H0059,Hyderabad,5,4,1,3193,Furnished,2,23,13,8,Independent House,23771871
+H0060,Pune,2,1,2,3195,Semi-Furnished,2,14,12,16,Apartment,11251001
+H0061,Hyderabad,3,4,3,1117,Furnished,0,24,7,8,Apartment,4104878
+H0062,Kolkata,3,3,2,1513,Semi-Furnished,0,25,11,19,Apartment,8669157
+H0063,Pune,4,1,3,2862,Semi-Furnished,2,2,6,14,Villa,4219771
+H0064,Chennai,5,1,0,2781,Semi-Furnished,1,23,5,12,Apartment,12521212
+H0065,Kolkata,1,3,2,2932,Unfurnished,0,0,10,14,Independent House,14908660
+H0066,Bangalore,5,3,2,3797,Unfurnished,2,15,12,17,Apartment,24244016
+H0067,Mumbai,5,1,0,2544,Furnished,2,7,13,14,Villa,14408024
+H0068,Chennai,4,3,2,2062,Semi-Furnished,1,28,12,18,Apartment,7407287
+H0069,Mumbai,1,2,0,2472,Furnished,1,22,12,14,Apartment,23723291
+H0070,Delhi,4,4,1,3333,Semi-Furnished,0,12,12,14,Apartment,23996483
+H0071,Bangalore,1,4,3,3823,Unfurnished,0,7,2,14,Villa,3207806
+H0072,Bangalore,2,4,0,2978,Unfurnished,0,16,5,5,Independent House,12544142
+H0073,Chennai,1,2,2,3786,Semi-Furnished,2,21,9,9,Independent House,20691841
+H0074,Bangalore,4,3,0,3541,Semi-Furnished,0,22,9,18,Independent House,22087521
+H0075,Pune,5,3,2,1907,Unfurnished,2,13,2,6,Apartment,23504073
+H0076,Bangalore,1,1,1,1498,Unfurnished,0,26,7,17,Apartment,23865378
+H0077,Mumbai,1,3,0,1698,Furnished,1,20,10,15,Villa,16246205
+H0078,Mumbai,3,1,1,1789,Unfurnished,1,29,14,13,Independent House,16333479
+H0079,Kolkata,5,2,3,1812,Semi-Furnished,2,20,4,11,Apartment,22129126
+H0080,Mumbai,2,4,2,2725,Furnished,1,6,13,14,Apartment,17730649
+H0081,Kolkata,4,4,2,3594,Semi-Furnished,2,26,13,12,Apartment,21848249
+H0082,Mumbai,2,4,1,1287,Furnished,2,14,3,10,Villa,1661101
+H0083,Pune,5,3,3,2668,Semi-Furnished,1,15,11,13,Independent House,4200463
+H0084,Coimbatore,1,1,0,1165,Unfurnished,2,18,1,10,Villa,15576028
+H0085,Kolkata,1,1,0,1807,Semi-Furnished,1,5,3,11,Independent House,19115610
+H0086,Hyderabad,5,2,2,2494,Furnished,0,22,11,11,Independent House,24131985
+H0087,Delhi,1,3,1,3893,Semi-Furnished,0,0,9,13,Apartment,1969596
+H0088,Chennai,1,2,1,1426,Furnished,1,11,14,15,Apartment,2633435
+H0089,Mumbai,1,1,0,1951,Semi-Furnished,1,17,9,12,Apartment,13080293
+H0090,Bangalore,4,1,3,2826,Unfurnished,1,15,7,17,Apartment,13903632
+H0091,Coimbatore,4,4,3,2411,Unfurnished,1,11,3,5,Apartment,5558518
+H0092,Mumbai,3,3,0,3783,Semi-Furnished,0,19,13,8,Independent House,23301691
+H0093,Bangalore,2,1,0,1682,Semi-Furnished,2,12,3,11,Apartment,14383789
+H0094,Delhi,5,4,1,1950,Semi-Furnished,2,7,4,15,Apartment,20944045
+H0095,Delhi,5,3,3,3552,Furnished,0,26,7,12,Villa,14926266
+H0096,Delhi,5,2,0,2244,Semi-Furnished,2,28,7,11,Villa,21872411
+H0097,Bangalore,3,3,0,3316,Semi-Furnished,0,29,12,16,Independent House,23450818
+H0098,Mumbai,4,3,2,790,Furnished,2,25,12,7,Independent House,3614732
+H0099,Delhi,3,1,0,1823,Unfurnished,1,21,14,19,Villa,14460956
+H0100,Pune,5,1,0,1935,Semi-Furnished,1,0,2,8,Villa,24962711
+H0101,Kolkata,2,3,3,1307,Semi-Furnished,1,25,12,16,Apartment,23779169
+H0102,Bangalore,1,1,1,3706,Unfurnished,0,20,5,11,Apartment,1723080
+H0103,Bangalore,4,1,3,978,Unfurnished,0,6,7,12,Independent House,16973580
+H0104,Mumbai,4,1,1,986,Furnished,2,14,7,11,Villa,5049551
+H0105,Bangalore,3,4,2,2884,Semi-Furnished,2,28,6,10,Independent House,8398199
+H0106,Bangalore,4,4,0,1215,Semi-Furnished,2,21,10,13,Apartment,23894780
+H0107,Delhi,5,3,2,2142,Furnished,0,12,10,13,Independent House,4599586
+H0108,Mumbai,5,1,1,2930,Unfurnished,2,12,12,15,Independent House,3973836
+H0109,Delhi,3,4,3,2648,Furnished,1,27,8,17,Independent House,8785315
+H0110,Kolkata,5,3,3,2354,Unfurnished,2,8,3,11,Apartment,21041697
+H0111,Coimbatore,2,1,2,1063,Furnished,1,23,1,12,Independent House,18209203
+H0112,Kolkata,3,2,1,3901,Unfurnished,0,14,3,10,Apartment,4067604
+H0113,Coimbatore,2,1,2,1566,Furnished,1,3,11,5,Villa,5035054
+H0114,Delhi,1,1,2,771,Unfurnished,1,12,2,5,Independent House,8545663
+H0115,Kolkata,2,4,0,3758,Unfurnished,1,26,2,10,Independent House,14643868
+H0116,Mumbai,1,3,2,1746,Unfurnished,0,11,14,6,Apartment,10686985
+H0117,Chennai,1,3,0,1442,Unfurnished,0,4,14,18,Independent House,20420894
+H0118,Delhi,2,4,0,1921,Unfurnished,0,6,2,12,Apartment,12557765
+H0119,Coimbatore,3,1,3,2508,Semi-Furnished,0,7,5,5,Independent House,13486978
+H0120,Pune,5,2,0,1289,Unfurnished,2,4,13,17,Villa,24276626
+H0121,Coimbatore,5,1,0,3222,Semi-Furnished,0,8,1,6,Villa,4860966
+H0122,Pune,1,1,3,2107,Unfurnished,1,13,10,12,Villa,8301196
+H0123,Bangalore,1,2,2,2812,Semi-Furnished,0,25,4,16,Independent House,9077676
+H0124,Kolkata,3,4,1,2624,Semi-Furnished,2,11,14,10,Independent House,4998352
+H0125,Pune,4,3,1,2322,Furnished,2,3,10,16,Villa,19807904
+H0126,Coimbatore,2,4,1,982,Unfurnished,2,19,5,14,Villa,10921148
+H0127,Bangalore,1,4,2,2856,Furnished,1,28,2,6,Apartment,4781401
+H0128,Chennai,5,1,0,2012,Furnished,0,7,5,6,Apartment,24319458
+H0129,Mumbai,3,3,1,2183,Unfurnished,0,16,10,15,Villa,9368653
+H0130,Mumbai,2,3,2,2871,Furnished,0,7,4,18,Villa,13154720
+H0131,Mumbai,3,4,0,2650,Unfurnished,1,20,8,11,Independent House,17246479
+H0132,Pune,2,2,3,971,Furnished,1,28,1,9,Villa,10726377
+H0133,Chennai,2,4,1,2310,Unfurnished,2,29,12,9,Apartment,20394563
+H0134,Pune,1,2,0,2069,Unfurnished,2,26,5,12,Apartment,13455400
+H0135,Kolkata,3,3,1,1210,Unfurnished,0,0,14,16,Apartment,6307821
+H0136,Pune,3,4,1,715,Semi-Furnished,1,19,14,16,Apartment,16031171
+H0137,Chennai,5,1,1,3941,Furnished,1,1,11,11,Apartment,23692022
+H0138,Chennai,5,4,0,1046,Semi-Furnished,0,3,12,16,Apartment,13922754
+H0139,Kolkata,1,3,2,1991,Furnished,0,23,10,18,Villa,13347478
+H0140,Chennai,1,1,0,3924,Furnished,2,20,1,13,Apartment,20115209
+H0141,Coimbatore,4,1,1,1940,Furnished,2,0,10,8,Apartment,22271170
+H0142,Chennai,5,2,0,1014,Semi-Furnished,2,6,10,14,Apartment,18320801
+H0143,Mumbai,2,1,3,3766,Furnished,0,0,4,8,Apartment,23735982
+H0144,Coimbatore,3,1,2,2408,Semi-Furnished,0,8,8,6,Villa,22773928
+H0145,Coimbatore,1,4,0,3539,Unfurnished,2,2,1,7,Independent House,8217998
+H0146,Kolkata,3,3,3,1647,Furnished,2,11,11,5,Independent House,16002736
+H0147,Hyderabad,3,2,2,3310,Furnished,1,18,2,5,Independent House,11913949
+H0148,Hyderabad,4,4,3,2473,Unfurnished,1,14,1,11,Independent House,11589617
+H0149,Chennai,5,1,2,1673,Unfurnished,2,21,11,18,Apartment,17053687
+H0150,Coimbatore,1,1,0,1317,Furnished,2,15,7,18,Independent House,2427510
+H0151,Hyderabad,3,2,3,1958,Unfurnished,1,9,2,9,Independent House,14416875
+H0152,Hyderabad,1,3,1,3750,Semi-Furnished,2,21,1,7,Villa,18715508
+H0153,Chennai,2,2,3,2205,Semi-Furnished,1,28,12,11,Villa,19525725
+H0154,Hyderabad,4,4,2,3698,Furnished,1,26,6,18,Villa,8543135
+H0155,Pune,2,2,0,2918,Semi-Furnished,1,26,6,6,Apartment,13477945
+H0156,Bangalore,1,1,2,1161,Semi-Furnished,0,5,10,7,Apartment,16969639
+H0157,Kolkata,1,4,3,3451,Furnished,0,28,2,5,Apartment,19033917
+H0158,Bangalore,5,1,3,2894,Unfurnished,2,16,1,12,Villa,17548289
+H0159,Chennai,3,3,1,986,Furnished,1,20,14,6,Independent House,24731044
+H0160,Mumbai,3,1,0,1301,Semi-Furnished,0,27,10,19,Villa,24529662
+H0161,Kolkata,2,1,0,3206,Furnished,2,21,3,11,Apartment,13806165
+H0162,Chennai,4,2,3,1572,Furnished,2,23,10,15,Villa,2861349
+H0163,Coimbatore,3,1,0,1984,Semi-Furnished,2,28,14,13,Independent House,9260854
+H0164,Mumbai,5,4,1,1583,Semi-Furnished,2,16,5,10,Apartment,19889996
+H0165,Bangalore,2,4,2,2111,Furnished,2,20,6,6,Independent House,18338546
+H0166,Chennai,2,3,0,951,Semi-Furnished,1,18,3,6,Independent House,12779743
+H0167,Coimbatore,5,4,3,2324,Semi-Furnished,2,17,9,13,Apartment,7775178
+H0168,Kolkata,4,2,2,2551,Semi-Furnished,1,10,11,14,Independent House,18640332
+H0169,Kolkata,5,3,2,1879,Semi-Furnished,0,23,5,12,Villa,2930343
+H0170,Delhi,4,4,1,3893,Semi-Furnished,2,6,13,18,Independent House,17737708
+H0171,Coimbatore,5,2,3,2507,Semi-Furnished,0,9,2,18,Independent House,3972512
+H0172,Pune,5,4,0,1352,Unfurnished,1,6,10,18,Independent House,22456293
+H0173,Hyderabad,1,4,3,3428,Furnished,1,4,6,13,Villa,8118991
+H0174,Mumbai,2,1,2,1624,Semi-Furnished,0,11,12,8,Independent House,7390714
+H0175,Coimbatore,5,4,3,1145,Furnished,2,15,8,8,Independent House,13945774
+H0176,Delhi,5,4,0,2069,Unfurnished,2,28,11,19,Villa,2087699
+H0177,Hyderabad,3,2,0,678,Semi-Furnished,0,24,6,19,Apartment,2264797
+H0178,Hyderabad,2,2,1,1859,Furnished,0,20,4,6,Apartment,13107521
+H0179,Chennai,3,1,0,2981,Semi-Furnished,0,17,6,18,Apartment,14582873
+H0180,Hyderabad,2,4,0,1488,Semi-Furnished,2,2,8,14,Independent House,7399128
+H0181,Pune,3,1,3,3769,Semi-Furnished,2,19,8,5,Apartment,22972255
+H0182,Kolkata,5,4,3,1705,Semi-Furnished,2,14,13,14,Villa,22599094
+H0183,Delhi,5,3,2,3149,Semi-Furnished,0,4,10,17,Independent House,5358223
+H0184,Hyderabad,1,3,1,2590,Semi-Furnished,2,12,2,8,Independent House,19355216
+H0185,Chennai,3,1,3,2100,Semi-Furnished,1,18,8,14,Independent House,13075895
+H0186,Pune,4,1,0,3412,Unfurnished,0,11,6,14,Apartment,22982446
+H0187,Bangalore,1,1,2,1520,Unfurnished,2,29,2,15,Apartment,18525506
+H0188,Kolkata,3,2,3,1149,Semi-Furnished,0,22,1,12,Apartment,16595979
+H0189,Kolkata,3,2,1,2661,Semi-Furnished,1,20,6,6,Independent House,9543364
+H0190,Delhi,1,2,1,991,Unfurnished,1,4,13,17,Villa,19835760
+H0191,Kolkata,5,1,2,2957,Unfurnished,0,5,7,16,Independent House,22083717
+H0192,Hyderabad,3,4,2,3033,Unfurnished,0,6,14,15,Villa,4119189
+H0193,Chennai,5,3,2,3880,Semi-Furnished,1,25,14,12,Independent House,7858234
+H0194,Kolkata,1,1,2,1980,Furnished,0,9,10,5,Villa,5004179
+H0195,Kolkata,5,2,2,1573,Furnished,1,15,5,19,Independent House,10767214
+H0196,Bangalore,2,2,0,3765,Furnished,1,7,14,5,Independent House,2598168
+H0197,Bangalore,4,1,0,3764,Furnished,2,8,10,8,Villa,11125589
+H0198,Mumbai,3,1,3,939,Semi-Furnished,0,26,8,11,Villa,4129479
+H0199,Pune,4,2,1,3244,Furnished,0,3,11,13,Villa,20513638
+H0200,Hyderabad,5,4,0,1356,Unfurnished,2,20,13,9,Villa,12151186
+H0201,Kolkata,3,2,0,1645,Unfurnished,1,20,12,6,Villa,24290969
+H0202,Coimbatore,5,2,0,2938,Furnished,0,7,9,16,Villa,23786064
+H0203,Kolkata,2,1,3,2953,Unfurnished,2,24,4,11,Villa,20377804
+H0204,Chennai,1,4,2,3281,Semi-Furnished,2,6,7,15,Villa,23167737
+H0205,Mumbai,3,2,3,3799,Furnished,0,14,8,6,Independent House,8856089
+H0206,Pune,2,2,1,3272,Furnished,2,20,13,13,Villa,6219902
+H0207,Coimbatore,2,3,1,1538,Semi-Furnished,1,2,6,13,Villa,17879841
+H0208,Mumbai,3,1,1,3944,Unfurnished,2,16,2,7,Independent House,11706313
+H0209,Delhi,5,3,1,1447,Semi-Furnished,1,10,7,17,Independent House,24299372
+H0210,Pune,2,3,0,1041,Semi-Furnished,1,8,13,12,Apartment,5236029
+H0211,Kolkata,4,2,0,3150,Unfurnished,0,4,9,15,Apartment,19123670
+H0212,Kolkata,2,1,3,729,Semi-Furnished,2,24,5,8,Villa,21038634
+H0213,Pune,5,4,2,3803,Unfurnished,1,9,2,7,Villa,24185324
+H0214,Kolkata,5,2,1,1196,Unfurnished,1,14,4,5,Apartment,20917202
+H0215,Hyderabad,4,4,3,2558,Semi-Furnished,2,27,3,9,Apartment,6740888
+H0216,Pune,2,4,0,2105,Unfurnished,1,28,4,17,Villa,4154589
+H0217,Mumbai,5,1,0,1461,Semi-Furnished,2,13,10,18,Apartment,21621397
+H0218,Pune,3,3,2,3240,Unfurnished,0,3,7,15,Villa,9132034
+H0219,Coimbatore,1,1,2,1598,Furnished,1,20,10,8,Independent House,23565426
+H0220,Kolkata,1,4,2,2972,Unfurnished,1,19,8,5,Independent House,3327916
+H0221,Hyderabad,1,2,3,3740,Unfurnished,2,1,1,14,Apartment,2214564
+H0222,Hyderabad,2,4,0,3095,Semi-Furnished,2,11,13,12,Independent House,9194379
+H0223,Delhi,4,2,0,2151,Unfurnished,2,0,8,12,Independent House,11991464
+H0224,Mumbai,5,2,2,3466,Furnished,2,23,5,17,Independent House,11070032
+H0225,Bangalore,3,1,1,2240,Furnished,1,19,12,12,Independent House,4834055
+H0226,Bangalore,3,4,2,3836,Unfurnished,0,4,7,7,Villa,19439324
+H0227,Pune,2,3,3,2111,Unfurnished,0,5,11,10,Villa,1924452
+H0228,Delhi,1,4,2,2336,Furnished,0,29,11,16,Apartment,24635452
+H0229,Chennai,2,4,2,3356,Semi-Furnished,0,23,1,16,Independent House,21293205
+H0230,Pune,4,3,3,2049,Furnished,2,10,2,11,Independent House,6943157
+H0231,Delhi,4,1,2,2457,Furnished,1,7,1,13,Independent House,17473595
+H0232,Mumbai,5,4,0,864,Unfurnished,1,6,5,9,Apartment,9157509
+H0233,Mumbai,5,4,1,3259,Unfurnished,1,3,14,13,Villa,10571245
+H0234,Mumbai,4,2,2,3479,Furnished,2,5,14,10,Independent House,7400173
+H0235,Mumbai,4,4,3,3949,Semi-Furnished,1,15,6,14,Villa,8480330
+H0236,Mumbai,4,3,1,3321,Furnished,2,19,10,14,Apartment,5947434
+H0237,Delhi,2,2,3,2062,Furnished,1,14,9,14,Villa,20612776
+H0238,Delhi,4,1,1,756,Semi-Furnished,0,13,8,8,Independent House,11685151
+H0239,Hyderabad,3,2,1,2045,Furnished,2,22,7,17,Villa,6773724
+H0240,Coimbatore,1,3,2,2898,Furnished,1,11,12,5,Villa,18653861
+H0241,Bangalore,4,3,0,3525,Unfurnished,0,28,5,5,Apartment,13911968
+H0242,Kolkata,1,2,2,2232,Semi-Furnished,0,11,14,18,Apartment,18710127
+H0243,Mumbai,2,1,3,3177,Unfurnished,0,15,3,14,Apartment,17836115
+H0244,Chennai,1,2,3,2974,Unfurnished,2,14,9,9,Apartment,24611182
+H0245,Kolkata,2,1,1,3608,Semi-Furnished,2,28,13,17,Villa,2980929
+H0246,Delhi,3,2,1,1494,Semi-Furnished,1,12,5,18,Villa,21536048
+H0247,Chennai,2,3,0,2744,Furnished,0,10,3,7,Apartment,7744994
+H0248,Chennai,2,4,2,1112,Unfurnished,1,29,3,9,Apartment,3277346
+H0249,Chennai,5,4,3,815,Semi-Furnished,1,16,3,9,Independent House,22249008
+H0250,Hyderabad,4,1,1,3803,Unfurnished,0,20,14,5,Independent House,22115094
+H0251,Delhi,4,1,0,3931,Unfurnished,1,14,6,18,Apartment,17221852
+H0252,Chennai,3,1,3,2772,Semi-Furnished,2,13,1,12,Villa,7088592
+H0253,Mumbai,3,3,1,3753,Furnished,1,9,11,9,Apartment,5069829
+H0254,Pune,4,2,3,3954,Unfurnished,0,11,4,9,Villa,8905246
+H0255,Chennai,5,3,0,2306,Semi-Furnished,2,15,13,13,Villa,21368416
+H0256,Hyderabad,4,4,0,2706,Furnished,2,14,8,12,Independent House,5214886
+H0257,Kolkata,5,1,3,2167,Unfurnished,1,9,3,17,Apartment,21157945
+H0258,Delhi,3,2,2,2808,Semi-Furnished,1,3,5,5,Apartment,23568206
+H0259,Coimbatore,1,4,3,2931,Unfurnished,2,26,2,7,Villa,11833030
+H0260,Hyderabad,3,4,1,2753,Semi-Furnished,1,22,2,16,Apartment,13557874
+H0261,Chennai,3,4,2,1728,Semi-Furnished,0,28,11,11,Independent House,14743443
+H0262,Delhi,2,3,1,827,Unfurnished,1,8,13,5,Independent House,5834965
+H0263,Pune,2,1,3,2965,Unfurnished,1,20,7,5,Apartment,20392445
+H0264,Chennai,2,4,2,2087,Semi-Furnished,2,19,10,9,Apartment,8642762
+H0265,Hyderabad,2,1,1,1401,Furnished,1,8,3,13,Independent House,17707628
+H0266,Bangalore,5,3,3,2222,Unfurnished,1,20,5,10,Apartment,15539641
+H0267,Mumbai,4,4,3,2505,Semi-Furnished,1,24,3,14,Villa,4390632
+H0268,Coimbatore,1,3,2,3521,Semi-Furnished,0,23,6,6,Apartment,11221896
+H0269,Kolkata,3,3,3,1071,Furnished,1,19,13,15,Villa,21366891
+H0270,Hyderabad,5,1,0,1679,Furnished,0,10,10,13,Apartment,4007913
+H0271,Delhi,1,4,1,3272,Furnished,0,10,3,10,Apartment,5646181
+H0272,Coimbatore,5,3,1,2660,Unfurnished,0,6,8,9,Independent House,9983057
+H0273,Coimbatore,5,4,3,1641,Semi-Furnished,0,20,2,9,Villa,8360961
+H0274,Coimbatore,3,1,3,3341,Semi-Furnished,2,9,3,19,Independent House,5688851
+H0275,Chennai,4,3,0,3620,Semi-Furnished,0,3,8,16,Apartment,17751688
+H0276,Mumbai,2,1,2,2760,Furnished,1,4,8,7,Independent House,5859122
+H0277,Chennai,4,4,3,828,Semi-Furnished,0,4,1,18,Apartment,15009125
+H0278,Delhi,3,4,3,770,Unfurnished,1,10,8,10,Apartment,17356513
+H0279,Chennai,3,1,3,894,Furnished,0,8,10,19,Apartment,17516142
+H0280,Bangalore,3,2,3,788,Furnished,2,27,2,19,Villa,5808368
+H0281,Mumbai,1,3,1,1025,Furnished,0,15,12,17,Villa,5443183
+H0282,Mumbai,4,4,3,1576,Furnished,0,8,7,8,Villa,23091195
+H0283,Delhi,4,4,1,1702,Unfurnished,2,21,6,17,Independent House,21058484
+H0284,Kolkata,5,3,3,3305,Semi-Furnished,0,29,2,16,Apartment,24500775
+H0285,Bangalore,5,1,2,1518,Unfurnished,1,3,5,14,Independent House,7452521
+H0286,Hyderabad,5,1,0,3853,Semi-Furnished,0,1,7,18,Independent House,12952553
+H0287,Chennai,3,1,2,1098,Unfurnished,0,13,8,19,Apartment,17155665
+H0288,Pune,4,2,3,2421,Furnished,0,2,3,6,Independent House,6921211
+H0289,Chennai,3,2,3,3409,Furnished,2,17,1,17,Apartment,24194295
+H0290,Coimbatore,1,4,3,1465,Unfurnished,0,20,13,7,Apartment,19431488
+H0291,Chennai,5,1,2,1425,Unfurnished,0,5,7,13,Apartment,1773591
+H0292,Hyderabad,3,3,3,2458,Semi-Furnished,1,10,13,15,Apartment,23638050
+H0293,Chennai,3,4,2,2718,Unfurnished,0,20,5,15,Independent House,3683721
+H0294,Bangalore,1,3,1,2895,Unfurnished,0,17,5,13,Independent House,1737963
+H0295,Bangalore,2,4,0,745,Semi-Furnished,0,11,7,10,Independent House,22305270
+H0296,Mumbai,4,2,0,2241,Semi-Furnished,0,4,1,14,Villa,8485012
+H0297,Delhi,2,4,2,1919,Semi-Furnished,1,8,8,14,Independent House,12925633
+H0298,Kolkata,5,2,1,3229,Unfurnished,1,19,12,18,Independent House,23221897
+H0299,Pune,3,4,2,1069,Semi-Furnished,2,27,14,13,Villa,6766440
+H0300,Coimbatore,1,1,1,792,Furnished,0,25,10,8,Apartment,20115258
+H0301,Chennai,1,3,3,1691,Furnished,2,17,5,15,Apartment,16311305
+H0302,Chennai,4,1,1,3141,Furnished,2,18,8,9,Apartment,15748225
+H0303,Hyderabad,2,4,1,651,Unfurnished,0,2,10,14,Villa,13561863
+H0304,Delhi,4,4,1,3529,Furnished,1,8,10,10,Independent House,12464464
+H0305,Bangalore,3,4,0,3010,Unfurnished,1,3,5,17,Independent House,7059011
+H0306,Pune,4,2,1,2420,Unfurnished,0,16,12,19,Independent House,7257662
+H0307,Mumbai,1,3,3,3564,Furnished,0,16,7,13,Independent House,3265040
+H0308,Bangalore,1,3,3,3121,Semi-Furnished,1,22,10,17,Villa,3880232
+H0309,Coimbatore,5,4,3,2469,Unfurnished,0,22,3,9,Independent House,10770573
+H0310,Delhi,5,4,1,3168,Furnished,0,1,2,12,Apartment,12350173
+H0311,Coimbatore,3,2,2,2386,Unfurnished,0,8,6,15,Villa,2345377
+H0312,Kolkata,2,1,2,2054,Semi-Furnished,1,8,5,5,Villa,15399012
+H0313,Mumbai,4,1,3,2467,Semi-Furnished,2,4,9,9,Apartment,11642842
+H0314,Kolkata,3,3,0,3969,Furnished,2,14,10,14,Apartment,2105109
+H0315,Hyderabad,5,2,2,3338,Unfurnished,0,14,4,5,Independent House,18424431
+H0316,Coimbatore,4,4,1,3869,Unfurnished,1,2,11,14,Apartment,12821936
+H0317,Hyderabad,5,3,2,3799,Unfurnished,0,18,3,18,Villa,11256659
+H0318,Chennai,4,2,3,3179,Unfurnished,1,27,9,10,Villa,14699751
+H0319,Kolkata,2,1,0,2607,Furnished,0,2,8,11,Villa,18078887
+H0320,Delhi,3,2,2,2034,Semi-Furnished,1,5,6,16,Independent House,13105855
+H0321,Coimbatore,4,1,2,1439,Furnished,1,3,1,18,Independent House,8990282
+H0322,Pune,1,2,3,3736,Unfurnished,2,23,14,9,Apartment,20466894
+H0323,Mumbai,1,3,0,840,Unfurnished,0,12,10,5,Independent House,12716977
+H0324,Bangalore,4,1,0,1135,Semi-Furnished,2,26,13,10,Independent House,3788421
+H0325,Delhi,4,3,3,2007,Unfurnished,2,12,12,14,Villa,2021291
+H0326,Delhi,4,3,1,682,Furnished,1,26,11,9,Villa,1798510
+H0327,Hyderabad,1,1,2,1581,Furnished,0,10,1,10,Apartment,6140475
+H0328,Kolkata,1,1,1,1550,Semi-Furnished,1,4,12,15,Villa,1599830
+H0329,Coimbatore,4,4,2,1210,Furnished,1,0,6,14,Independent House,14844485
+H0330,Coimbatore,5,4,2,1173,Furnished,1,8,13,19,Apartment,11954961
+H0331,Chennai,5,4,1,2933,Furnished,0,16,3,11,Apartment,24348439
+H0332,Chennai,2,3,3,1588,Furnished,0,21,3,11,Villa,17574206
+H0333,Mumbai,3,3,3,1058,Unfurnished,1,0,6,6,Villa,15044712
+H0334,Hyderabad,5,4,2,3883,Furnished,0,2,13,19,Villa,21183591
+H0335,Delhi,1,3,3,2773,Semi-Furnished,1,14,3,16,Apartment,2819021
+H0336,Coimbatore,5,3,2,2122,Semi-Furnished,0,25,13,7,Villa,23646962
+H0337,Pune,2,1,3,3072,Furnished,0,20,11,16,Independent House,19429415
+H0338,Hyderabad,2,1,2,3201,Semi-Furnished,2,25,10,10,Apartment,20866113
+H0339,Mumbai,3,3,3,3257,Furnished,1,22,6,7,Villa,14644094
+H0340,Mumbai,5,4,0,2584,Semi-Furnished,2,29,5,6,Independent House,23438274
+H0341,Hyderabad,1,2,1,2166,Semi-Furnished,2,9,4,8,Independent House,19872380
+H0342,Mumbai,1,4,0,3829,Furnished,1,7,8,9,Villa,18919529
+H0343,Hyderabad,4,2,1,2759,Furnished,1,11,2,15,Independent House,10311309
+H0344,Bangalore,1,4,1,3049,Unfurnished,0,24,12,14,Apartment,13941373
+H0345,Hyderabad,3,1,2,721,Furnished,1,21,14,13,Apartment,13074621
+H0346,Kolkata,3,3,1,872,Furnished,2,14,11,7,Independent House,17950555
+H0347,Hyderabad,1,3,0,1917,Unfurnished,2,26,7,7,Apartment,6860593
+H0348,Mumbai,1,1,0,997,Furnished,1,8,4,10,Villa,4170111
+H0349,Coimbatore,4,2,3,3118,Furnished,2,23,2,9,Independent House,3977512
+H0350,Kolkata,1,2,0,1584,Unfurnished,0,24,7,10,Apartment,22229646
+H0351,Mumbai,4,2,3,1830,Furnished,2,9,13,11,Villa,21018526
+H0352,Chennai,4,1,1,1733,Furnished,0,19,1,15,Villa,6870777
+H0353,Chennai,1,2,0,1901,Unfurnished,2,8,4,7,Apartment,21144182
+H0354,Coimbatore,2,1,1,2510,Unfurnished,0,14,9,19,Independent House,12745002
+H0355,Coimbatore,2,4,0,3216,Semi-Furnished,0,22,14,17,Villa,3407273
+H0356,Kolkata,4,4,0,2105,Furnished,1,20,4,9,Villa,16191235
+H0357,Bangalore,1,1,3,3785,Semi-Furnished,0,20,12,12,Villa,13507035
+H0358,Coimbatore,2,3,1,2516,Semi-Furnished,1,0,13,8,Villa,14531293
+H0359,Chennai,1,4,0,3544,Unfurnished,2,1,3,14,Independent House,12035708
+H0360,Hyderabad,1,2,2,1419,Furnished,2,25,10,6,Apartment,12544773
+H0361,Mumbai,1,1,1,3500,Furnished,2,18,10,8,Apartment,7149396
+H0362,Chennai,5,2,1,3357,Unfurnished,0,29,2,6,Apartment,10800940
+H0363,Chennai,1,2,1,2556,Semi-Furnished,2,13,14,7,Villa,3681752
+H0364,Bangalore,5,3,3,2968,Unfurnished,2,7,3,8,Independent House,18412729
+H0365,Kolkata,4,2,2,778,Furnished,1,5,1,8,Apartment,9999923
+H0366,Kolkata,2,3,1,1496,Unfurnished,1,11,10,14,Independent House,5582564
+H0367,Delhi,2,4,0,2866,Furnished,2,25,8,13,Apartment,6238707
+H0368,Bangalore,2,1,0,3436,Semi-Furnished,2,26,1,14,Villa,13658029
+H0369,Hyderabad,2,2,3,2572,Furnished,0,28,3,10,Apartment,24131788
+H0370,Kolkata,2,1,0,2151,Semi-Furnished,0,14,14,13,Villa,17663853
+H0371,Mumbai,2,2,1,1091,Semi-Furnished,2,13,3,8,Villa,5387239
+H0372,Coimbatore,2,1,0,660,Furnished,1,20,13,13,Apartment,18946191
+H0373,Bangalore,4,2,1,1677,Furnished,2,28,2,15,Independent House,11572142
+H0374,Coimbatore,1,2,0,2303,Semi-Furnished,0,0,14,17,Villa,12028498
+H0375,Chennai,3,2,2,3185,Unfurnished,1,27,5,13,Independent House,24286752
+H0376,Mumbai,5,2,3,3495,Furnished,1,10,10,10,Apartment,1632053
+H0377,Mumbai,3,2,3,3635,Semi-Furnished,0,27,3,9,Villa,6932561
+H0378,Chennai,3,2,2,664,Semi-Furnished,2,24,3,7,Independent House,22431303
+H0379,Bangalore,1,2,2,1185,Unfurnished,2,2,8,18,Villa,16523874
+H0380,Chennai,1,2,3,2327,Furnished,2,18,4,19,Apartment,11807967
+H0381,Coimbatore,1,2,2,2818,Semi-Furnished,0,17,4,9,Villa,24446166
+H0382,Delhi,2,1,1,3944,Unfurnished,1,19,3,19,Apartment,7227961
+H0383,Mumbai,4,3,0,1134,Semi-Furnished,0,27,11,7,Independent House,16691865
+H0384,Pune,2,2,3,3340,Furnished,2,1,1,9,Villa,18287944
+H0385,Pune,4,3,2,3998,Unfurnished,0,28,8,9,Independent House,6586588
+H0386,Coimbatore,4,2,1,2755,Semi-Furnished,1,24,1,6,Apartment,24390439
+H0387,Hyderabad,3,2,3,2470,Unfurnished,0,27,7,18,Apartment,12103376
+H0388,Kolkata,3,1,2,3833,Furnished,2,25,5,18,Independent House,20592790
+H0389,Chennai,4,4,3,3461,Unfurnished,1,6,4,13,Independent House,4419798
+H0390,Chennai,4,4,2,1604,Furnished,0,7,4,19,Apartment,10927575
+H0391,Hyderabad,2,1,3,3099,Semi-Furnished,0,18,8,11,Independent House,4339593
+H0392,Hyderabad,2,3,1,1829,Furnished,1,21,11,18,Apartment,6549144
+H0393,Coimbatore,3,4,1,3237,Semi-Furnished,1,14,11,10,Independent House,12282007
+H0394,Coimbatore,1,1,0,1639,Semi-Furnished,2,9,13,9,Apartment,23745973
+H0395,Hyderabad,4,1,3,926,Furnished,1,21,14,19,Apartment,2561999
+H0396,Mumbai,2,4,0,1207,Semi-Furnished,2,28,6,8,Villa,21072533
+H0397,Coimbatore,3,3,3,3306,Unfurnished,0,0,14,12,Apartment,5691533
+H0398,Delhi,2,1,2,601,Semi-Furnished,2,5,12,6,Apartment,5434147
+H0399,Coimbatore,4,2,2,1633,Furnished,0,12,1,12,Villa,9951587
+H0400,Chennai,4,3,0,3081,Unfurnished,1,13,14,5,Villa,24344125
+H0401,Coimbatore,5,3,3,724,Unfurnished,0,2,10,14,Independent House,24652577
+H0402,Mumbai,1,4,0,1704,Semi-Furnished,1,10,8,5,Independent House,15814716
+H0403,Hyderabad,5,4,1,3132,Semi-Furnished,0,2,13,7,Apartment,11014154
+H0404,Chennai,3,2,0,3299,Furnished,0,18,14,9,Independent House,20438173
+H0405,Coimbatore,2,1,0,2461,Unfurnished,0,9,2,18,Independent House,22591299
+H0406,Mumbai,3,4,2,1773,Furnished,0,26,6,10,Apartment,3021876
+H0407,Delhi,4,4,0,3447,Semi-Furnished,2,14,9,8,Villa,6104156
+H0408,Coimbatore,5,3,3,3520,Unfurnished,0,10,1,11,Villa,24152116
+H0409,Mumbai,5,4,2,728,Furnished,2,14,6,11,Apartment,16669027
+H0410,Delhi,5,4,0,1037,Furnished,1,25,8,6,Apartment,6426528
+H0411,Hyderabad,3,4,1,1350,Furnished,1,26,10,6,Apartment,1896605
+H0412,Coimbatore,4,4,0,3148,Furnished,2,23,13,6,Apartment,23638201
+H0413,Delhi,2,3,0,3729,Furnished,1,12,2,19,Apartment,8964567
+H0414,Chennai,2,2,0,1821,Unfurnished,1,4,5,18,Apartment,17500242
+H0415,Hyderabad,3,2,2,2858,Furnished,0,3,6,19,Independent House,11529953
+H0416,Chennai,5,1,3,1501,Unfurnished,0,12,5,6,Independent House,6293480
+H0417,Pune,1,4,1,2692,Furnished,0,8,3,17,Independent House,14683222
+H0418,Bangalore,3,3,0,3768,Semi-Furnished,2,24,4,13,Villa,22014860
+H0419,Coimbatore,3,1,3,1902,Semi-Furnished,2,16,7,18,Apartment,18210511
+H0420,Delhi,4,1,3,3182,Furnished,1,1,4,9,Apartment,17396239
+H0421,Bangalore,2,2,2,2033,Semi-Furnished,0,23,9,15,Independent House,9434968
+H0422,Bangalore,3,3,1,3108,Unfurnished,2,4,11,12,Villa,14775944
+H0423,Delhi,3,3,2,990,Furnished,2,15,12,9,Independent House,9606954
+H0424,Hyderabad,5,3,3,1667,Unfurnished,0,6,14,17,Apartment,6219704
+H0425,Coimbatore,5,2,3,626,Furnished,2,0,13,15,Apartment,10379100
+H0426,Pune,1,2,3,3441,Semi-Furnished,0,27,13,9,Independent House,17710873
+H0427,Chennai,4,2,2,3768,Unfurnished,1,25,10,5,Independent House,13869123
+H0428,Mumbai,1,2,1,3622,Semi-Furnished,1,11,2,10,Apartment,5769865
+H0429,Chennai,5,2,0,1147,Semi-Furnished,1,20,5,8,Independent House,17393794
+H0430,Mumbai,2,4,2,3268,Furnished,0,10,8,19,Apartment,6336773
+H0431,Chennai,5,4,3,1166,Unfurnished,2,11,14,7,Independent House,6279074
+H0432,Delhi,4,3,2,1303,Semi-Furnished,1,18,5,10,Villa,15734874
+H0433,Pune,5,1,3,1842,Furnished,1,25,10,6,Apartment,14992322
+H0434,Coimbatore,4,3,0,784,Furnished,1,11,12,12,Villa,19267271
+H0435,Mumbai,4,1,0,3740,Furnished,2,11,8,5,Independent House,14416302
+H0436,Coimbatore,4,2,1,3801,Semi-Furnished,2,13,8,16,Villa,16308722
+H0437,Coimbatore,4,1,3,2190,Furnished,0,1,9,13,Independent House,10433863
+H0438,Coimbatore,4,3,1,2513,Unfurnished,1,1,10,12,Villa,17185008
+H0439,Kolkata,2,3,1,1447,Unfurnished,2,24,6,5,Villa,17515040
+H0440,Hyderabad,1,1,0,1198,Semi-Furnished,0,28,12,14,Villa,12699468
+H0441,Chennai,3,4,2,1405,Unfurnished,1,3,4,16,Apartment,13976892
+H0442,Coimbatore,1,2,2,1957,Furnished,2,19,12,19,Villa,8706009
+H0443,Chennai,4,2,1,3825,Semi-Furnished,2,22,11,13,Independent House,7479212
+H0444,Coimbatore,2,3,0,2726,Furnished,0,25,3,6,Independent House,22165655
+H0445,Mumbai,5,4,3,3226,Semi-Furnished,1,15,12,7,Apartment,24387260
+H0446,Hyderabad,2,1,2,2478,Semi-Furnished,1,9,14,6,Apartment,10627593
+H0447,Hyderabad,4,2,1,3060,Furnished,2,12,5,17,Independent House,7775589
+H0448,Delhi,2,4,2,1145,Unfurnished,1,1,6,18,Villa,22947876
+H0449,Kolkata,2,2,2,2232,Unfurnished,0,2,3,12,Independent House,21818666
+H0450,Delhi,4,4,3,2816,Semi-Furnished,2,18,2,6,Apartment,7889576
+H0451,Delhi,2,4,0,3328,Furnished,2,5,7,14,Apartment,24196165
+H0452,Delhi,3,3,3,3230,Furnished,0,18,11,6,Independent House,4311047
+H0453,Delhi,3,2,0,3162,Semi-Furnished,2,26,5,19,Villa,17535624
+H0454,Delhi,2,1,2,3985,Unfurnished,1,20,9,5,Villa,23765608
+H0455,Pune,5,3,1,2679,Furnished,1,19,3,11,Apartment,14142233
+H0456,Hyderabad,4,3,3,2934,Unfurnished,2,18,14,16,Independent House,17463495
+H0457,Delhi,3,1,0,3241,Unfurnished,0,7,8,6,Independent House,2736236
+H0458,Coimbatore,5,3,2,3714,Semi-Furnished,0,13,6,14,Apartment,5304178
+H0459,Hyderabad,2,4,0,2526,Semi-Furnished,1,9,4,9,Independent House,11258559
+H0460,Hyderabad,5,4,0,1216,Unfurnished,0,2,12,9,Apartment,11745168
+H0461,Bangalore,1,2,0,3672,Furnished,2,5,12,7,Villa,5920047
+H0462,Pune,3,2,2,2917,Furnished,2,28,9,7,Villa,21634243
+H0463,Delhi,2,1,1,1803,Semi-Furnished,1,14,5,17,Independent House,8814257
+H0464,Chennai,4,2,1,2359,Unfurnished,1,22,10,16,Villa,13985581
+H0465,Mumbai,2,4,1,3165,Furnished,1,22,6,7,Villa,13318141
+H0466,Kolkata,4,1,0,3774,Furnished,0,17,14,10,Apartment,9012129
+H0467,Coimbatore,2,1,2,3681,Semi-Furnished,2,13,13,18,Apartment,14482220
+H0468,Chennai,5,2,0,3230,Unfurnished,2,18,9,8,Independent House,20278970
+H0469,Pune,5,4,1,3761,Furnished,2,27,7,17,Apartment,4253082
+H0470,Mumbai,5,1,1,825,Semi-Furnished,1,25,12,7,Independent House,12915348
+H0471,Pune,1,4,2,1269,Furnished,2,9,5,6,Independent House,17032339
+H0472,Coimbatore,4,4,0,2363,Furnished,0,14,2,17,Apartment,5099696
+H0473,Hyderabad,5,4,3,1516,Furnished,0,3,4,7,Villa,21754366
+H0474,Mumbai,1,2,3,2773,Semi-Furnished,2,22,2,8,Villa,20244061
+H0475,Hyderabad,4,3,1,3603,Unfurnished,1,1,3,10,Villa,19976435
+H0476,Coimbatore,2,3,2,3880,Semi-Furnished,2,2,10,8,Villa,19564132
+H0477,Chennai,1,1,0,3768,Unfurnished,0,6,12,12,Independent House,23806438
+H0478,Coimbatore,3,4,0,2721,Furnished,0,22,3,7,Villa,9949809
+H0479,Chennai,1,2,1,1814,Unfurnished,0,15,4,16,Independent House,24904087
+H0480,Mumbai,1,4,1,2305,Furnished,2,9,6,7,Apartment,24781482
+H0481,Mumbai,4,4,0,2442,Furnished,0,18,12,7,Apartment,3513279
+H0482,Delhi,2,2,0,2583,Semi-Furnished,1,27,3,12,Independent House,15536081
+H0483,Pune,3,3,1,655,Furnished,2,16,10,8,Villa,10623801
+H0484,Delhi,5,4,0,1319,Semi-Furnished,2,27,14,5,Independent House,21276027
+H0485,Pune,5,4,3,3200,Unfurnished,0,18,1,6,Villa,23620449
+H0486,Delhi,1,3,1,2679,Unfurnished,0,4,1,17,Villa,5419059
+H0487,Hyderabad,4,2,0,1173,Furnished,1,22,9,18,Independent House,23914975
+H0488,Mumbai,4,1,1,1266,Semi-Furnished,2,19,9,14,Independent House,18447532
+H0489,Chennai,5,3,2,883,Furnished,0,12,5,17,Villa,17155959
+H0490,Pune,3,1,1,2344,Semi-Furnished,1,12,9,17,Independent House,2363996
+H0491,Coimbatore,2,1,1,2834,Semi-Furnished,0,10,11,18,Villa,15085775
+H0492,Pune,3,3,2,1097,Semi-Furnished,2,10,7,6,Independent House,11083333
+H0493,Chennai,2,4,3,2065,Unfurnished,0,15,9,18,Apartment,12698969
+H0494,Delhi,5,1,0,729,Semi-Furnished,2,14,12,7,Villa,15413263
+H0495,Pune,2,1,2,1238,Unfurnished,0,16,7,10,Apartment,12446422
+H0496,Kolkata,4,2,1,3963,Semi-Furnished,2,21,9,12,Independent House,6514236
+H0497,Hyderabad,1,4,0,2761,Unfurnished,1,17,2,16,Apartment,22792579
+H0498,Mumbai,1,1,2,3870,Unfurnished,2,27,11,5,Independent House,21329249
+H0499,Chennai,5,2,0,2660,Unfurnished,1,18,11,13,Villa,9834206
+H0500,Mumbai,4,4,0,3942,Furnished,2,3,8,5,Independent House,6583496
+H0501,Kolkata,3,3,2,3886,Semi-Furnished,1,21,7,14,Independent House,10177649
+H0502,Pune,4,3,0,3091,Furnished,0,21,6,6,Villa,22048871
+H0503,Pune,1,2,3,3094,Semi-Furnished,2,22,5,7,Independent House,21534062
+H0504,Coimbatore,1,3,2,1585,Semi-Furnished,0,4,4,11,Villa,7062344
+H0505,Kolkata,4,1,3,1592,Furnished,1,6,7,13,Independent House,5373680
+H0506,Chennai,4,4,1,3362,Unfurnished,2,1,3,7,Villa,6549025
+H0507,Coimbatore,1,1,0,2721,Semi-Furnished,2,0,8,12,Apartment,4153381
+H0508,Hyderabad,3,1,1,3184,Unfurnished,0,11,2,19,Independent House,8546492
+H0509,Coimbatore,5,3,1,700,Furnished,2,9,1,13,Independent House,14228218
+H0510,Bangalore,5,1,0,2823,Unfurnished,2,7,11,14,Independent House,20679537
+H0511,Chennai,4,3,2,1026,Semi-Furnished,0,0,2,11,Villa,10429343
+H0512,Bangalore,5,4,0,3788,Semi-Furnished,2,11,9,8,Independent House,7283881
+H0513,Kolkata,1,4,1,3837,Semi-Furnished,0,1,5,8,Villa,8706757
+H0514,Delhi,1,1,1,640,Furnished,0,26,11,8,Independent House,9631322
+H0515,Bangalore,4,2,2,1028,Semi-Furnished,0,27,8,10,Apartment,4303627
+H0516,Hyderabad,4,3,0,943,Furnished,0,9,3,8,Independent House,6696816
+H0517,Coimbatore,4,3,1,965,Unfurnished,0,21,7,9,Apartment,18337050
+H0518,Delhi,3,1,3,3791,Semi-Furnished,1,16,2,13,Villa,24126444
+H0519,Coimbatore,5,3,1,1208,Semi-Furnished,1,25,8,16,Apartment,8713499
+H0520,Bangalore,4,3,1,3304,Semi-Furnished,0,2,14,11,Independent House,24980745
+H0521,Coimbatore,2,2,2,1327,Unfurnished,1,6,7,12,Independent House,9730362
+H0522,Kolkata,2,2,3,2876,Semi-Furnished,1,11,12,9,Villa,9762900
+H0523,Delhi,1,1,1,1424,Furnished,2,7,5,9,Independent House,7195265
+H0524,Kolkata,5,2,1,3801,Unfurnished,0,19,12,17,Independent House,11089334
+H0525,Bangalore,4,1,3,1975,Unfurnished,1,11,11,15,Villa,21161669
+H0526,Kolkata,2,4,0,1488,Unfurnished,2,2,4,11,Villa,3768299
+H0527,Hyderabad,5,1,0,2643,Unfurnished,2,16,1,15,Apartment,2642252
+H0528,Bangalore,1,4,1,1941,Unfurnished,0,27,5,17,Villa,24048043
+H0529,Bangalore,3,1,1,3631,Furnished,0,8,12,18,Independent House,21852530
+H0530,Bangalore,5,3,0,3483,Unfurnished,2,9,9,16,Villa,19170536
+H0531,Chennai,5,2,2,1896,Semi-Furnished,0,21,10,12,Independent House,9422505
+H0532,Coimbatore,3,4,3,716,Unfurnished,0,5,4,13,Apartment,22064368
+H0533,Chennai,5,1,3,3465,Unfurnished,2,24,13,19,Villa,20847505
+H0534,Chennai,1,2,2,3015,Unfurnished,2,0,9,18,Independent House,17403463
+H0535,Hyderabad,1,1,2,1717,Unfurnished,0,21,12,6,Villa,18268424
+H0536,Delhi,3,2,2,767,Unfurnished,1,11,2,7,Villa,20510571
+H0537,Coimbatore,4,2,2,3601,Furnished,0,4,4,16,Villa,17361070
+H0538,Kolkata,2,1,2,2338,Furnished,1,12,9,16,Villa,12601198
+H0539,Pune,4,4,2,1964,Unfurnished,2,26,4,6,Apartment,2999163
+H0540,Bangalore,5,4,3,3308,Furnished,1,14,5,14,Independent House,8725206
+H0541,Kolkata,2,3,2,1294,Semi-Furnished,2,21,11,11,Villa,5473369
+H0542,Bangalore,3,2,0,1524,Unfurnished,0,29,8,16,Independent House,14388043
+H0543,Hyderabad,3,3,2,751,Semi-Furnished,0,10,1,6,Apartment,6326616
+H0544,Bangalore,2,3,2,1185,Semi-Furnished,2,7,1,16,Independent House,4106894
+H0545,Chennai,1,1,3,1512,Unfurnished,2,4,9,18,Independent House,10455216
+H0546,Coimbatore,2,1,3,2921,Semi-Furnished,2,1,9,19,Apartment,22744965
+H0547,Pune,5,1,2,2177,Semi-Furnished,0,11,4,6,Villa,20580491
+H0548,Mumbai,1,2,3,1095,Semi-Furnished,0,27,13,18,Independent House,14306322
+H0549,Bangalore,3,1,1,2748,Unfurnished,1,1,2,18,Independent House,20500928
+H0550,Kolkata,2,1,3,1156,Unfurnished,2,25,13,6,Villa,20265268
+H0551,Chennai,4,2,3,1705,Semi-Furnished,1,15,9,19,Villa,20686969
+H0552,Mumbai,4,2,3,2152,Unfurnished,0,20,14,16,Independent House,18914893
+H0553,Pune,5,4,3,2720,Unfurnished,1,2,4,17,Apartment,20640704
+H0554,Mumbai,4,1,0,3685,Semi-Furnished,1,9,6,8,Villa,2302560
+H0555,Chennai,2,1,0,756,Unfurnished,0,18,12,5,Villa,12008596
+H0556,Coimbatore,2,1,0,1334,Furnished,0,7,1,6,Apartment,15418469
+H0557,Coimbatore,4,4,2,2779,Unfurnished,2,6,12,7,Independent House,6335620
+H0558,Delhi,2,1,2,3666,Furnished,1,0,9,11,Villa,15416410
+H0559,Coimbatore,5,4,1,2027,Semi-Furnished,0,11,5,14,Independent House,18646841
+H0560,Delhi,1,3,0,1158,Unfurnished,0,28,3,5,Independent House,2703880
+H0561,Mumbai,5,4,2,2754,Semi-Furnished,1,27,4,10,Independent House,21611282
+H0562,Hyderabad,5,3,3,2912,Semi-Furnished,0,4,1,7,Apartment,17757710
+H0563,Kolkata,2,1,3,3876,Semi-Furnished,2,15,14,7,Independent House,17683052
+H0564,Kolkata,1,3,0,3750,Semi-Furnished,2,24,9,8,Independent House,7424555
+H0565,Mumbai,2,4,1,754,Semi-Furnished,1,3,14,17,Villa,18549412
+H0566,Bangalore,3,2,1,3635,Unfurnished,2,16,8,8,Villa,3354529
+H0567,Bangalore,2,3,3,1596,Furnished,0,23,4,11,Apartment,15856282
+H0568,Coimbatore,2,3,1,2894,Unfurnished,0,20,2,7,Apartment,12199587
+H0569,Kolkata,2,1,0,1130,Unfurnished,0,1,14,12,Villa,17560474
+H0570,Kolkata,1,4,3,3505,Unfurnished,0,11,9,12,Villa,12545594
+H0571,Delhi,2,3,2,2571,Unfurnished,1,0,4,15,Apartment,6429009
+H0572,Hyderabad,1,3,2,3185,Furnished,2,29,9,17,Independent House,1657044
+H0573,Chennai,4,3,1,1328,Unfurnished,2,11,10,11,Apartment,24149097
+H0574,Bangalore,3,3,3,1777,Semi-Furnished,0,11,3,6,Independent House,13289964
+H0575,Kolkata,1,2,3,753,Unfurnished,1,11,7,9,Villa,10884171
+H0576,Delhi,4,4,2,691,Unfurnished,0,18,7,10,Villa,5627617
+H0577,Pune,1,1,3,2985,Furnished,0,24,10,16,Villa,9466937
+H0578,Delhi,1,1,3,2103,Furnished,1,16,13,14,Independent House,21444974
+H0579,Bangalore,3,2,3,2316,Semi-Furnished,1,19,4,8,Apartment,3506456
+H0580,Bangalore,5,4,1,3802,Unfurnished,0,23,2,17,Independent House,4735559
+H0581,Delhi,5,3,3,3097,Unfurnished,2,23,11,14,Apartment,24646072
+H0582,Chennai,1,2,0,2616,Unfurnished,0,25,9,9,Apartment,20352814
+H0583,Mumbai,2,4,1,3457,Semi-Furnished,2,27,4,18,Apartment,9835948
+H0584,Bangalore,4,3,3,1386,Furnished,2,10,8,13,Villa,12265959
+H0585,Delhi,2,2,3,872,Semi-Furnished,1,12,14,15,Apartment,22963956
+H0586,Kolkata,2,4,0,2627,Unfurnished,1,26,2,11,Villa,4540149
+H0587,Delhi,1,1,1,3235,Furnished,0,7,8,6,Apartment,23898764
+H0588,Hyderabad,1,1,2,776,Furnished,2,9,11,15,Apartment,23440081
+H0589,Mumbai,1,4,2,3478,Semi-Furnished,2,7,10,5,Villa,18051325
+H0590,Pune,1,1,1,1242,Furnished,0,19,5,6,Villa,16397853
+H0591,Chennai,5,4,3,2498,Furnished,0,7,7,7,Independent House,15707660
+H0592,Coimbatore,1,3,3,3720,Unfurnished,0,8,7,15,Apartment,15122818
+H0593,Pune,5,4,2,1166,Unfurnished,1,6,12,6,Villa,14159409
+H0594,Mumbai,5,3,2,1265,Furnished,0,13,9,15,Independent House,18452964
+H0595,Mumbai,1,2,2,1931,Furnished,0,27,3,7,Independent House,10242392
+H0596,Mumbai,3,4,0,3515,Semi-Furnished,2,1,10,14,Villa,22681637
+H0597,Pune,4,2,2,2398,Semi-Furnished,0,24,4,19,Apartment,2555677
+H0598,Kolkata,2,1,0,1669,Furnished,2,10,10,15,Independent House,3921791
+H0599,Mumbai,5,3,1,2949,Unfurnished,2,7,4,15,Apartment,5043687
+H0600,Delhi,4,4,3,3515,Furnished,1,12,13,19,Apartment,5308102
+H0601,Pune,3,2,2,3559,Furnished,0,20,10,16,Independent House,21983412
+H0602,Coimbatore,2,3,3,1007,Unfurnished,0,14,5,18,Villa,24363505
+H0603,Mumbai,2,3,3,1812,Unfurnished,2,27,14,16,Apartment,12176366
+H0604,Delhi,5,1,2,3469,Semi-Furnished,1,2,6,13,Villa,15718985
+H0605,Kolkata,1,1,2,2453,Semi-Furnished,1,22,3,8,Independent House,13807865
+H0606,Hyderabad,3,3,1,1752,Semi-Furnished,0,13,13,16,Apartment,5342996
+H0607,Kolkata,5,3,0,3208,Semi-Furnished,2,29,4,13,Villa,15502207
+H0608,Coimbatore,3,4,0,3937,Unfurnished,0,14,3,15,Villa,17017414
+H0609,Mumbai,1,3,3,1741,Furnished,0,1,2,7,Apartment,11862907
+H0610,Coimbatore,1,4,2,3111,Semi-Furnished,0,28,10,16,Villa,17366875
+H0611,Pune,5,3,1,743,Semi-Furnished,0,18,12,5,Villa,13167878
+H0612,Bangalore,1,1,1,3089,Unfurnished,2,11,9,15,Independent House,8817994
+H0613,Mumbai,4,4,1,3871,Unfurnished,1,24,1,9,Independent House,1909759
+H0614,Bangalore,2,2,1,3828,Furnished,0,19,2,14,Villa,7941804
+H0615,Delhi,5,1,1,1086,Furnished,0,3,8,14,Villa,14775153
+H0616,Hyderabad,3,4,0,1459,Unfurnished,0,2,7,18,Apartment,21764038
+H0617,Chennai,4,4,0,3805,Semi-Furnished,0,4,12,6,Independent House,9896357
+H0618,Coimbatore,5,2,0,2535,Semi-Furnished,1,2,1,8,Apartment,16990678
+H0619,Kolkata,1,4,2,747,Semi-Furnished,1,24,5,6,Villa,20713962
+H0620,Hyderabad,1,3,3,1959,Furnished,1,14,10,6,Apartment,13639167
+H0621,Mumbai,1,2,1,3742,Semi-Furnished,1,18,6,17,Villa,11557959
+H0622,Bangalore,1,1,2,3904,Semi-Furnished,0,1,5,7,Independent House,14312128
+H0623,Kolkata,3,1,1,1957,Unfurnished,2,11,4,9,Independent House,6108903
+H0624,Bangalore,4,3,0,3458,Semi-Furnished,1,4,14,8,Villa,18917762
+H0625,Pune,2,1,2,3313,Unfurnished,1,21,13,6,Independent House,13715108
+H0626,Bangalore,3,4,0,689,Semi-Furnished,0,16,1,19,Villa,10950365
+H0627,Pune,3,4,1,1957,Furnished,0,13,7,15,Apartment,8884930
+H0628,Delhi,2,3,1,798,Semi-Furnished,0,27,9,18,Villa,13824173
+H0629,Kolkata,2,1,3,3832,Semi-Furnished,0,26,6,18,Apartment,8281076
+H0630,Kolkata,1,1,1,1137,Unfurnished,2,21,3,14,Villa,8064462
+H0631,Chennai,3,3,0,3792,Unfurnished,2,9,10,6,Independent House,15317239
+H0632,Mumbai,5,2,1,900,Unfurnished,1,2,14,18,Villa,14373744
+H0633,Pune,2,1,3,1323,Semi-Furnished,2,3,4,10,Villa,24092401
+H0634,Chennai,2,2,3,2198,Semi-Furnished,1,5,10,11,Villa,2823659
+H0635,Bangalore,4,1,0,3610,Furnished,1,23,5,16,Independent House,23483491
+H0636,Bangalore,5,1,2,2059,Semi-Furnished,2,24,12,14,Villa,3963448
+H0637,Chennai,5,1,1,667,Furnished,1,21,12,10,Independent House,16481793
+H0638,Kolkata,2,1,3,3106,Unfurnished,0,15,1,11,Villa,22849979
+H0639,Bangalore,1,4,1,2137,Unfurnished,1,6,5,5,Apartment,17333087
+H0640,Coimbatore,4,2,1,997,Unfurnished,0,14,1,10,Villa,21662378
+H0641,Delhi,5,2,2,1219,Furnished,2,29,9,15,Apartment,10912812
+H0642,Delhi,2,1,3,3957,Semi-Furnished,2,20,7,7,Independent House,3838299
+H0643,Coimbatore,5,1,1,2184,Unfurnished,1,29,3,5,Independent House,19481129
+H0644,Chennai,4,2,3,1763,Semi-Furnished,0,27,9,12,Villa,12240503
+H0645,Coimbatore,4,4,0,1329,Semi-Furnished,1,24,2,8,Independent House,16883616
+H0646,Pune,3,3,0,1155,Unfurnished,2,19,12,14,Villa,15815516
+H0647,Pune,2,3,1,2552,Furnished,1,25,7,12,Independent House,13539284
+H0648,Chennai,4,2,3,3428,Semi-Furnished,1,10,9,14,Apartment,7102459
+H0649,Coimbatore,3,1,1,2351,Unfurnished,0,21,6,18,Independent House,9897905
+H0650,Pune,3,1,3,3541,Semi-Furnished,2,20,10,15,Apartment,21289633
+H0651,Kolkata,5,4,3,3257,Semi-Furnished,1,0,5,8,Villa,24758178
+H0652,Coimbatore,5,3,2,3395,Semi-Furnished,0,4,12,8,Villa,20308045
+H0653,Kolkata,3,4,2,2929,Semi-Furnished,1,12,7,16,Villa,14737854
+H0654,Pune,5,3,2,3308,Semi-Furnished,0,20,14,18,Apartment,2738831
+H0655,Delhi,4,2,1,3571,Furnished,0,13,6,14,Villa,8004514
+H0656,Pune,1,3,2,1595,Furnished,1,8,5,8,Villa,9749152
+H0657,Kolkata,4,4,2,2559,Unfurnished,2,16,14,10,Apartment,20119869
+H0658,Hyderabad,3,4,0,2201,Furnished,2,14,2,18,Independent House,14780045
+H0659,Mumbai,3,4,3,3393,Furnished,0,20,8,13,Villa,14123605
+H0660,Bangalore,4,2,3,2080,Furnished,2,6,13,9,Independent House,24402975
+H0661,Coimbatore,5,3,2,2734,Semi-Furnished,0,26,7,16,Independent House,1919794
+H0662,Hyderabad,5,3,3,1702,Semi-Furnished,2,21,6,17,Villa,20968358
+H0663,Pune,3,4,0,3876,Unfurnished,1,21,5,14,Villa,15932996
+H0664,Delhi,2,3,0,3438,Unfurnished,2,11,5,18,Apartment,24325905
+H0665,Chennai,5,1,2,3925,Unfurnished,0,22,9,19,Apartment,6152328
+H0666,Pune,4,1,0,2951,Semi-Furnished,0,5,1,12,Villa,2020436
+H0667,Delhi,5,1,3,2003,Furnished,2,20,9,12,Independent House,20368742
+H0668,Mumbai,4,3,1,2777,Furnished,1,15,6,8,Apartment,7132392
+H0669,Pune,3,2,3,3243,Semi-Furnished,0,25,4,19,Apartment,12543587
+H0670,Kolkata,5,2,1,1899,Unfurnished,0,4,10,15,Villa,5296568
+H0671,Chennai,4,2,2,2322,Unfurnished,0,8,14,14,Villa,16468453
+H0672,Delhi,3,2,1,3205,Unfurnished,0,13,7,13,Villa,4536753
+H0673,Delhi,2,1,0,1498,Semi-Furnished,0,7,9,13,Villa,11666247
+H0674,Delhi,4,1,3,1806,Unfurnished,1,13,5,9,Apartment,17033588
+H0675,Mumbai,2,4,1,3939,Unfurnished,2,11,14,10,Apartment,24940270
+H0676,Pune,2,3,3,3993,Semi-Furnished,1,9,5,9,Apartment,14240791
+H0677,Mumbai,1,3,2,2135,Furnished,1,29,8,7,Independent House,2200662
+H0678,Coimbatore,5,2,2,677,Semi-Furnished,0,19,7,15,Apartment,2163399
+H0679,Bangalore,4,1,0,3431,Semi-Furnished,1,19,13,12,Apartment,6204250
+H0680,Bangalore,2,2,2,3321,Semi-Furnished,0,25,13,13,Villa,7052451
+H0681,Coimbatore,1,4,1,2132,Semi-Furnished,1,20,8,19,Apartment,17942049
+H0682,Pune,3,3,2,837,Furnished,0,12,11,8,Apartment,2776828
+H0683,Kolkata,4,3,0,1757,Unfurnished,0,28,12,13,Apartment,13413281
+H0684,Mumbai,2,2,3,2596,Semi-Furnished,1,18,10,13,Villa,22441729
+H0685,Chennai,5,4,3,1815,Furnished,1,14,2,11,Apartment,3445853
+H0686,Delhi,1,3,2,877,Unfurnished,2,7,9,12,Apartment,20954069
+H0687,Delhi,2,4,1,3689,Unfurnished,2,22,3,19,Independent House,2090246
+H0688,Pune,5,4,0,1123,Unfurnished,2,20,6,7,Independent House,16206661
+H0689,Kolkata,2,2,1,779,Semi-Furnished,1,9,6,19,Independent House,13374001
+H0690,Bangalore,4,1,0,722,Semi-Furnished,1,2,2,9,Independent House,14701443
+H0691,Bangalore,4,2,2,1869,Unfurnished,0,20,12,7,Villa,3327346
+H0692,Delhi,4,1,0,2357,Unfurnished,2,2,13,11,Independent House,24637580
+H0693,Pune,1,4,0,3722,Unfurnished,0,25,7,10,Apartment,24519219
+H0694,Mumbai,4,1,2,1694,Unfurnished,0,4,9,15,Independent House,18594548
+H0695,Bangalore,5,4,1,1079,Unfurnished,0,15,12,7,Villa,16476918
+H0696,Mumbai,2,3,2,3690,Unfurnished,0,16,10,13,Independent House,5916728
+H0697,Kolkata,3,3,0,2397,Furnished,2,5,11,16,Independent House,13503038
+H0698,Bangalore,5,3,2,2731,Unfurnished,0,25,1,5,Villa,4155687
+H0699,Bangalore,5,2,0,3826,Semi-Furnished,1,19,8,14,Villa,24332936
+H0700,Hyderabad,4,2,2,3212,Semi-Furnished,1,19,2,7,Villa,23197563
+H0701,Bangalore,1,4,3,3266,Semi-Furnished,1,15,14,19,Villa,19575199
+H0702,Coimbatore,2,3,3,3004,Unfurnished,2,23,1,19,Villa,1767587
+H0703,Chennai,1,2,2,1415,Semi-Furnished,0,1,8,19,Villa,23388222
+H0704,Coimbatore,2,3,1,3294,Furnished,2,19,2,15,Apartment,5301167
+H0705,Pune,2,2,0,1042,Unfurnished,0,14,6,19,Independent House,6577554
+H0706,Pune,1,1,3,3740,Semi-Furnished,2,17,6,14,Independent House,23951657
+H0707,Mumbai,5,1,1,3170,Furnished,2,0,5,15,Villa,19469765
+H0708,Coimbatore,2,3,0,742,Furnished,0,25,8,11,Villa,22670351
+H0709,Coimbatore,1,4,3,791,Semi-Furnished,2,28,3,7,Apartment,16914728
+H0710,Coimbatore,2,2,3,2010,Furnished,0,28,13,18,Apartment,10037187
+H0711,Kolkata,3,2,2,977,Semi-Furnished,1,18,10,7,Villa,23255890
+H0712,Bangalore,5,1,0,3228,Furnished,1,11,4,6,Apartment,14426841
+H0713,Chennai,4,1,1,1134,Unfurnished,1,7,7,13,Apartment,4903154
+H0714,Mumbai,2,4,1,2316,Unfurnished,2,5,7,15,Villa,22769055
+H0715,Coimbatore,3,4,1,3964,Unfurnished,1,11,13,8,Villa,5204187
+H0716,Coimbatore,4,4,0,1632,Unfurnished,0,6,12,14,Villa,23965042
+H0717,Hyderabad,4,3,1,3942,Unfurnished,1,17,14,17,Villa,23372971
+H0718,Mumbai,2,1,1,2010,Semi-Furnished,1,21,8,10,Independent House,6608364
+H0719,Coimbatore,1,3,1,2740,Unfurnished,2,13,2,6,Independent House,3445112
+H0720,Mumbai,2,1,2,2589,Unfurnished,0,7,11,13,Villa,14604731
+H0721,Bangalore,3,1,2,3176,Unfurnished,2,23,12,19,Apartment,3839326
+H0722,Hyderabad,4,2,0,1777,Unfurnished,2,19,2,11,Villa,9056484
+H0723,Mumbai,2,1,0,1004,Furnished,0,21,4,14,Independent House,24816560
+H0724,Chennai,1,1,1,3487,Unfurnished,2,13,13,9,Apartment,14694350
+H0725,Chennai,2,3,2,1772,Unfurnished,0,4,10,11,Independent House,22481478
+H0726,Pune,5,1,3,1488,Semi-Furnished,1,8,13,18,Villa,2635736
+H0727,Hyderabad,1,3,3,3938,Furnished,0,7,9,8,Independent House,11739109
+H0728,Hyderabad,3,4,1,1021,Semi-Furnished,0,1,10,17,Independent House,12224722
+H0729,Pune,4,1,1,2241,Unfurnished,0,27,12,14,Independent House,24996376
+H0730,Mumbai,2,1,2,1071,Semi-Furnished,2,15,9,17,Apartment,3365501
+H0731,Hyderabad,1,3,2,3540,Semi-Furnished,0,12,13,19,Independent House,17864473
+H0732,Chennai,5,4,2,1146,Unfurnished,0,6,13,11,Apartment,20512516
+H0733,Chennai,1,2,0,1230,Furnished,0,15,4,6,Villa,14735072
+H0734,Coimbatore,5,4,0,1637,Furnished,1,6,9,11,Villa,7751565
+H0735,Bangalore,3,3,1,3425,Semi-Furnished,0,26,14,19,Independent House,1541410
+H0736,Hyderabad,4,4,0,2429,Unfurnished,2,13,3,8,Apartment,20080353
+H0737,Mumbai,3,3,2,963,Semi-Furnished,0,13,12,8,Villa,15579031
+H0738,Pune,2,3,2,2766,Semi-Furnished,0,11,5,5,Apartment,10769988
+H0739,Pune,1,2,0,3909,Semi-Furnished,1,0,10,16,Apartment,5922747
+H0740,Mumbai,5,1,3,1145,Unfurnished,0,0,9,7,Independent House,9225792
+H0741,Kolkata,5,3,1,3840,Unfurnished,2,11,6,9,Independent House,6658198
+H0742,Delhi,1,3,3,3169,Furnished,0,19,3,9,Apartment,6133572
+H0743,Bangalore,1,2,1,1233,Unfurnished,2,20,10,6,Apartment,7572479
+H0744,Pune,2,3,3,2536,Semi-Furnished,1,14,9,8,Independent House,20822171
+H0745,Hyderabad,3,1,0,2280,Semi-Furnished,0,3,6,5,Apartment,6542028
+H0746,Bangalore,5,2,1,1562,Furnished,1,6,4,19,Independent House,9849650
+H0747,Hyderabad,2,1,1,3605,Unfurnished,0,15,14,13,Apartment,22809083
+H0748,Kolkata,3,1,1,1482,Semi-Furnished,2,2,4,5,Independent House,11634683
+H0749,Chennai,2,2,2,3427,Furnished,1,6,8,10,Apartment,7408947
+H0750,Bangalore,5,3,2,1470,Furnished,0,28,7,11,Independent House,22353588
+H0751,Coimbatore,1,1,3,1115,Semi-Furnished,2,23,1,7,Apartment,16688429
+H0752,Pune,1,1,0,3585,Semi-Furnished,1,21,6,16,Villa,17179604
+H0753,Bangalore,3,1,2,2020,Unfurnished,0,5,8,19,Villa,7633401
+H0754,Bangalore,4,1,1,1465,Furnished,1,15,3,5,Apartment,8178134
+H0755,Bangalore,3,2,2,2753,Semi-Furnished,0,23,14,11,Villa,4807408
+H0756,Delhi,4,2,0,1708,Furnished,2,7,9,7,Apartment,2389297
+H0757,Bangalore,2,4,2,813,Unfurnished,2,22,10,17,Apartment,17615462
+H0758,Hyderabad,2,4,1,3792,Semi-Furnished,1,21,2,14,Villa,13343767
+H0759,Chennai,5,1,3,3803,Unfurnished,1,5,14,16,Apartment,14566175
+H0760,Kolkata,4,3,1,3497,Furnished,0,9,6,16,Independent House,2057715
+H0761,Mumbai,5,1,0,2844,Unfurnished,2,15,12,10,Apartment,11456517
+H0762,Bangalore,1,3,3,618,Unfurnished,0,10,1,17,Apartment,24203851
+H0763,Pune,4,1,2,1241,Furnished,2,12,12,16,Villa,21290649
+H0764,Bangalore,3,4,2,3683,Unfurnished,1,28,11,18,Independent House,13913430
+H0765,Pune,1,4,2,1704,Furnished,0,5,2,10,Apartment,17979002
+H0766,Hyderabad,1,3,3,929,Semi-Furnished,0,23,13,18,Apartment,20130194
+H0767,Pune,3,1,1,1465,Furnished,2,0,5,16,Apartment,15725994
+H0768,Coimbatore,1,3,3,1373,Furnished,2,20,1,8,Apartment,23510511
+H0769,Mumbai,4,4,3,991,Semi-Furnished,2,18,8,16,Apartment,10901594
+H0770,Chennai,5,1,0,1236,Furnished,1,11,1,15,Apartment,24456866
+H0771,Pune,1,1,3,2954,Semi-Furnished,0,23,13,10,Independent House,14317537
+H0772,Pune,4,3,2,3938,Semi-Furnished,2,26,9,15,Independent House,9999557
+H0773,Chennai,2,2,1,3542,Furnished,1,5,10,14,Apartment,2675471
+H0774,Mumbai,4,3,1,3299,Unfurnished,2,29,11,8,Apartment,24858131
+H0775,Bangalore,5,4,1,3488,Unfurnished,0,17,3,19,Villa,24295671
+H0776,Pune,4,4,2,1625,Semi-Furnished,2,12,12,17,Independent House,14166716
+H0777,Chennai,3,4,2,3167,Unfurnished,0,6,2,12,Independent House,3279182
+H0778,Coimbatore,5,4,2,2274,Unfurnished,1,22,1,13,Apartment,7570893
+H0779,Coimbatore,2,4,2,3283,Furnished,1,12,9,6,Independent House,6395201
+H0780,Hyderabad,3,2,2,3980,Semi-Furnished,2,20,4,11,Independent House,3594035
+H0781,Chennai,4,1,3,1339,Semi-Furnished,0,7,12,13,Villa,6167217
+H0782,Hyderabad,5,3,2,2145,Furnished,0,29,1,13,Villa,14704557
+H0783,Coimbatore,2,3,2,1068,Unfurnished,0,20,1,16,Independent House,16072271
+H0784,Mumbai,3,4,2,2859,Semi-Furnished,2,16,7,9,Independent House,8997674
+H0785,Bangalore,2,3,2,1735,Unfurnished,0,8,2,5,Independent House,23650618
+H0786,Chennai,4,4,1,1631,Semi-Furnished,0,19,7,10,Apartment,13339510
+H0787,Kolkata,2,2,2,3451,Semi-Furnished,0,12,12,19,Villa,12834437
+H0788,Coimbatore,1,2,3,3124,Semi-Furnished,0,1,7,12,Apartment,4307979
+H0789,Coimbatore,3,1,3,1473,Semi-Furnished,2,3,10,5,Villa,6993570
+H0790,Kolkata,2,2,3,1059,Unfurnished,2,29,14,6,Villa,2059421
+H0791,Delhi,4,2,0,2900,Unfurnished,0,28,9,17,Villa,17962731
+H0792,Coimbatore,4,1,1,2149,Unfurnished,0,24,13,17,Independent House,16748350
+H0793,Pune,2,3,2,1351,Unfurnished,1,1,7,5,Villa,19474102
+H0794,Mumbai,4,4,0,2061,Furnished,1,3,13,9,Apartment,17690120
+H0795,Chennai,5,4,2,2377,Semi-Furnished,0,17,14,6,Villa,17606387
+H0796,Kolkata,5,3,0,3628,Semi-Furnished,0,4,1,19,Apartment,21471189
+H0797,Pune,5,1,0,1453,Semi-Furnished,1,18,12,14,Villa,17514341
+H0798,Kolkata,1,3,3,2883,Furnished,1,9,13,14,Villa,2881194
+H0799,Chennai,2,2,3,1929,Unfurnished,0,17,8,18,Independent House,20602178
+H0800,Hyderabad,1,1,0,1077,Semi-Furnished,2,29,8,8,Apartment,6939619
+H0801,Chennai,4,1,3,3326,Unfurnished,2,24,4,5,Villa,24306266
+H0802,Delhi,1,1,0,3691,Unfurnished,0,20,13,11,Villa,13250921
+H0803,Chennai,4,4,1,2863,Furnished,0,9,8,12,Apartment,8905106
+H0804,Chennai,4,3,3,3502,Furnished,1,4,4,9,Villa,14763847
+H0805,Delhi,3,1,3,734,Unfurnished,1,16,8,6,Independent House,16653543
+H0806,Mumbai,5,1,3,3552,Semi-Furnished,2,21,5,12,Apartment,17435736
+H0807,Coimbatore,4,1,1,1752,Semi-Furnished,0,12,4,5,Independent House,12923333
+H0808,Chennai,3,3,0,1009,Furnished,1,22,6,19,Apartment,17121714
+H0809,Delhi,5,4,2,2045,Furnished,2,16,2,11,Apartment,13565470
+H0810,Pune,4,2,3,1917,Furnished,2,8,12,5,Apartment,7176448
+H0811,Hyderabad,4,4,0,1869,Furnished,2,23,2,16,Villa,11221068
+H0812,Hyderabad,1,1,1,2179,Furnished,1,11,2,10,Apartment,15049854
+H0813,Chennai,1,4,2,685,Furnished,1,13,9,17,Apartment,7298164
+H0814,Mumbai,5,4,3,3203,Furnished,0,13,14,10,Apartment,18865378
+H0815,Mumbai,4,2,1,2465,Semi-Furnished,0,7,10,19,Independent House,21520605
+H0816,Pune,2,3,1,2069,Furnished,2,22,3,9,Apartment,9471265
+H0817,Chennai,1,3,2,977,Furnished,2,4,10,19,Villa,21089410
+H0818,Hyderabad,5,4,0,2280,Semi-Furnished,1,18,4,6,Apartment,6393864
+H0819,Mumbai,4,4,3,1674,Semi-Furnished,1,27,10,6,Apartment,14105882
+H0820,Chennai,4,3,3,841,Unfurnished,0,13,12,13,Independent House,12914159
+H0821,Kolkata,2,3,0,3965,Furnished,0,8,8,9,Villa,7436311
+H0822,Mumbai,5,2,0,1519,Furnished,0,29,4,9,Villa,18692690
+H0823,Delhi,4,1,0,2186,Furnished,1,6,11,11,Villa,4703028
+H0824,Kolkata,1,4,2,2913,Furnished,2,26,10,10,Apartment,22533435
+H0825,Coimbatore,2,3,2,3791,Unfurnished,0,25,10,6,Apartment,11076700
+H0826,Mumbai,5,4,3,3359,Semi-Furnished,0,25,13,15,Villa,20973803
+H0827,Hyderabad,2,4,2,1871,Semi-Furnished,1,7,7,5,Villa,3582003
+H0828,Bangalore,1,3,1,669,Furnished,0,13,5,9,Independent House,13562384
+H0829,Kolkata,5,2,3,2704,Furnished,2,21,9,8,Villa,10777755
+H0830,Coimbatore,2,4,2,2005,Furnished,1,27,4,16,Apartment,11849107
+H0831,Pune,3,2,0,2686,Unfurnished,0,13,3,7,Apartment,11417877
+H0832,Pune,1,3,1,2607,Unfurnished,0,10,13,6,Apartment,22366470
+H0833,Hyderabad,1,1,0,1400,Semi-Furnished,1,13,2,14,Independent House,2679568
+H0834,Mumbai,1,1,3,1641,Furnished,1,20,1,6,Villa,7179226
+H0835,Chennai,3,4,0,3379,Furnished,0,7,11,18,Apartment,10063561
+H0836,Mumbai,3,3,2,1424,Furnished,2,2,6,19,Independent House,7329567
+H0837,Hyderabad,4,2,2,1355,Furnished,1,27,10,8,Independent House,13464003
+H0838,Pune,2,4,3,2999,Unfurnished,2,28,2,6,Apartment,4041781
+H0839,Mumbai,4,3,0,2595,Semi-Furnished,0,28,8,8,Independent House,4970150
+H0840,Pune,2,3,3,2439,Semi-Furnished,2,22,6,7,Independent House,3186150
+H0841,Kolkata,3,2,0,1921,Unfurnished,0,17,12,13,Apartment,8738599
+H0842,Coimbatore,3,4,1,2930,Furnished,0,2,12,11,Independent House,9530013
+H0843,Chennai,4,3,2,2209,Semi-Furnished,0,12,5,18,Apartment,23223865
+H0844,Kolkata,5,3,3,709,Semi-Furnished,0,11,13,17,Apartment,7411319
+H0845,Pune,4,3,1,1616,Unfurnished,2,14,2,15,Independent House,7787399
+H0846,Pune,2,2,1,3851,Furnished,0,17,7,19,Apartment,10813007
+H0847,Bangalore,4,4,3,2561,Semi-Furnished,0,4,2,16,Apartment,23351467
+H0848,Bangalore,1,4,3,3191,Furnished,2,6,13,7,Villa,17733095
+H0849,Kolkata,2,4,1,2369,Semi-Furnished,1,10,14,17,Apartment,9229333
+H0850,Delhi,2,4,0,624,Unfurnished,2,25,5,19,Villa,23401576
+H0851,Kolkata,5,1,1,1442,Furnished,2,26,2,18,Villa,15224418
+H0852,Bangalore,3,1,3,3438,Unfurnished,2,10,11,12,Villa,14180724
+H0853,Pune,2,4,1,1337,Semi-Furnished,0,26,10,13,Villa,22017295
+H0854,Hyderabad,3,2,0,2704,Unfurnished,0,14,11,17,Independent House,19981070
+H0855,Kolkata,4,1,2,779,Unfurnished,0,9,11,11,Independent House,23794487
+H0856,Pune,1,3,2,831,Unfurnished,1,14,2,10,Apartment,19605539
+H0857,Hyderabad,5,1,1,2517,Semi-Furnished,0,12,7,8,Apartment,19427891
+H0858,Hyderabad,3,3,0,942,Furnished,1,13,9,9,Apartment,9344286
+H0859,Bangalore,2,4,2,1076,Unfurnished,0,16,5,12,Independent House,9626991
+H0860,Kolkata,3,1,1,2422,Furnished,2,12,7,7,Villa,20299817
+H0861,Mumbai,2,2,1,3223,Semi-Furnished,0,9,4,6,Independent House,16448057
+H0862,Chennai,3,1,0,1054,Furnished,1,24,2,7,Independent House,15096252
+H0863,Bangalore,2,1,3,1855,Unfurnished,1,0,3,16,Apartment,4870116
+H0864,Bangalore,4,1,1,888,Unfurnished,0,0,2,11,Apartment,10725354
+H0865,Mumbai,2,4,3,1836,Unfurnished,2,29,5,12,Apartment,22648316
+H0866,Chennai,2,2,3,2905,Unfurnished,0,14,6,5,Villa,13783372
+H0867,Pune,1,1,2,1129,Unfurnished,0,15,7,17,Villa,5524389
+H0868,Delhi,2,2,3,3334,Unfurnished,0,11,3,11,Independent House,20709007
+H0869,Kolkata,1,4,0,3576,Semi-Furnished,2,25,4,13,Villa,3960686
+H0870,Delhi,5,3,2,2876,Semi-Furnished,1,23,8,16,Apartment,13470282
+H0871,Pune,1,1,2,3897,Semi-Furnished,2,5,4,17,Villa,15747713
+H0872,Coimbatore,4,2,2,1195,Furnished,1,5,7,18,Villa,16445531
+H0873,Bangalore,1,2,1,1034,Furnished,1,11,12,18,Villa,17622301
+H0874,Chennai,5,4,1,1481,Semi-Furnished,1,24,6,19,Villa,3417953
+H0875,Bangalore,4,1,3,3668,Furnished,2,14,7,7,Apartment,8456779
+H0876,Hyderabad,3,3,2,2381,Furnished,0,3,1,19,Apartment,10856623
+H0877,Bangalore,3,2,2,1001,Unfurnished,0,23,3,7,Independent House,19184449
+H0878,Bangalore,1,1,0,3269,Unfurnished,0,3,6,12,Independent House,13550992
+H0879,Pune,1,3,3,2735,Furnished,0,29,3,8,Independent House,10559405
+H0880,Pune,5,2,0,3231,Furnished,0,1,14,18,Villa,19407739
+H0881,Pune,5,2,3,2165,Semi-Furnished,2,26,14,12,Villa,16696719
+H0882,Delhi,2,3,3,908,Furnished,2,23,7,9,Apartment,7591209
+H0883,Hyderabad,5,3,1,3553,Unfurnished,2,11,9,18,Independent House,14075664
+H0884,Coimbatore,2,4,1,942,Furnished,2,6,3,7,Apartment,24163020
+H0885,Coimbatore,4,1,0,1035,Semi-Furnished,2,19,14,19,Independent House,24844303
+H0886,Pune,1,1,3,776,Unfurnished,2,8,1,8,Independent House,21762472
+H0887,Chennai,4,4,2,738,Unfurnished,2,8,10,18,Independent House,15668931
+H0888,Delhi,5,2,1,793,Unfurnished,0,7,13,8,Villa,11210583
+H0889,Mumbai,4,3,2,3857,Unfurnished,1,13,6,12,Independent House,10533756
+H0890,Chennai,4,3,0,3889,Furnished,2,0,12,10,Independent House,21293851
+H0891,Kolkata,4,3,1,3835,Semi-Furnished,1,22,1,11,Villa,16567804
+H0892,Kolkata,5,2,1,1784,Furnished,2,20,1,13,Independent House,2452602
+H0893,Chennai,4,3,3,1542,Furnished,2,22,14,19,Villa,6963518
+H0894,Pune,2,3,0,1124,Unfurnished,0,11,8,10,Villa,7276902
+H0895,Mumbai,5,4,3,2224,Semi-Furnished,1,24,9,7,Apartment,3898901
+H0896,Mumbai,4,2,1,3713,Unfurnished,0,1,2,19,Villa,2672685
+H0897,Delhi,5,1,0,3562,Furnished,0,12,9,17,Villa,12180233
+H0898,Mumbai,3,4,1,2857,Furnished,1,29,5,7,Villa,13983017
+H0899,Kolkata,2,4,0,1340,Unfurnished,0,26,13,15,Independent House,7307290
+H0900,Hyderabad,4,1,1,1461,Furnished,2,3,8,7,Apartment,20485881
+H0901,Pune,3,4,2,3946,Furnished,2,19,7,16,Independent House,17213686
+H0902,Mumbai,3,2,2,1553,Unfurnished,2,17,7,14,Villa,9925288
+H0903,Delhi,5,3,3,1902,Furnished,2,18,4,6,Villa,24652124
+H0904,Kolkata,3,2,2,1874,Semi-Furnished,2,15,2,5,Apartment,12036804
+H0905,Hyderabad,2,1,1,3981,Unfurnished,0,26,5,15,Apartment,10902887
+H0906,Bangalore,2,1,1,2343,Semi-Furnished,0,13,14,14,Villa,2199444
+H0907,Bangalore,1,4,2,3480,Furnished,2,29,11,5,Villa,12338406
+H0908,Hyderabad,2,2,3,2787,Furnished,2,28,11,8,Independent House,8337896
+H0909,Kolkata,3,2,2,1391,Unfurnished,0,7,3,7,Villa,18886242
+H0910,Delhi,2,1,0,1145,Furnished,1,11,14,9,Independent House,19483309
+H0911,Hyderabad,5,2,0,2444,Unfurnished,0,8,9,16,Apartment,24252144
+H0912,Pune,1,1,0,1616,Unfurnished,0,5,6,13,Independent House,7207249
+H0913,Pune,3,2,2,2527,Unfurnished,0,25,1,16,Villa,16574475
+H0914,Bangalore,1,2,2,2153,Unfurnished,0,17,3,17,Independent House,17943949
+H0915,Mumbai,3,2,2,656,Unfurnished,0,1,12,12,Independent House,16729785
+H0916,Delhi,5,1,0,2759,Semi-Furnished,1,22,4,16,Apartment,23515131
+H0917,Bangalore,1,4,3,604,Unfurnished,2,7,9,13,Independent House,6947565
+H0918,Mumbai,4,2,1,2037,Semi-Furnished,2,23,11,17,Villa,1548648
+H0919,Mumbai,3,1,2,3853,Furnished,1,13,6,9,Independent House,12179922
+H0920,Coimbatore,4,1,3,3684,Unfurnished,2,5,4,12,Independent House,13262329
+H0921,Pune,1,2,1,1962,Furnished,2,9,1,8,Independent House,24086497
+H0922,Kolkata,4,2,1,2420,Unfurnished,2,7,8,9,Villa,17475242
+H0923,Chennai,4,4,1,1882,Semi-Furnished,1,29,14,19,Independent House,10778544
+H0924,Kolkata,1,1,3,2737,Semi-Furnished,1,16,11,16,Villa,24558209
+H0925,Chennai,5,1,3,3263,Semi-Furnished,2,24,2,7,Independent House,14378118
+H0926,Hyderabad,4,3,0,3538,Furnished,2,28,11,9,Apartment,20708145
+H0927,Pune,4,1,3,3345,Unfurnished,2,11,11,16,Apartment,20348012
+H0928,Mumbai,5,4,3,1873,Furnished,0,16,8,7,Apartment,3114468
+H0929,Delhi,4,3,3,3926,Semi-Furnished,0,12,6,9,Villa,17469841
+H0930,Chennai,4,3,1,3545,Furnished,0,18,8,15,Villa,14000343
+H0931,Kolkata,4,3,2,3618,Semi-Furnished,1,11,6,18,Villa,4246455
+H0932,Mumbai,2,2,0,1731,Semi-Furnished,2,15,5,9,Independent House,9642958
+H0933,Chennai,5,2,2,1267,Semi-Furnished,1,24,5,10,Villa,10913191
+H0934,Chennai,4,1,2,3241,Unfurnished,1,26,14,13,Villa,24219641
+H0935,Coimbatore,5,3,3,3236,Unfurnished,1,4,14,5,Villa,17631534
+H0936,Chennai,3,4,0,3132,Semi-Furnished,2,24,10,16,Villa,15300192
+H0937,Delhi,3,2,2,3629,Furnished,0,15,10,14,Apartment,4691963
+H0938,Pune,4,4,2,3619,Furnished,2,24,11,18,Independent House,19458512
+H0939,Delhi,5,4,0,1881,Unfurnished,2,5,8,10,Apartment,23863453
+H0940,Bangalore,5,2,3,3286,Semi-Furnished,1,10,7,5,Independent House,12493198
+H0941,Mumbai,5,2,2,1596,Furnished,1,16,8,10,Independent House,20855885
+H0942,Pune,2,2,1,2526,Semi-Furnished,1,25,12,6,Apartment,5369005
+H0943,Coimbatore,3,2,2,881,Furnished,0,22,8,12,Villa,18092353
+H0944,Pune,5,3,1,3633,Unfurnished,0,13,7,15,Apartment,17598974
+H0945,Pune,5,3,3,3759,Semi-Furnished,0,5,2,7,Independent House,8178213
+H0946,Kolkata,2,3,2,1827,Semi-Furnished,2,24,11,14,Independent House,20800733
+H0947,Pune,2,3,0,2663,Furnished,1,22,9,18,Villa,12930576
+H0948,Coimbatore,5,1,0,3822,Furnished,2,29,13,10,Apartment,21853284
+H0949,Delhi,1,3,2,1535,Furnished,0,27,7,10,Independent House,19265710
+H0950,Pune,5,2,3,853,Semi-Furnished,1,10,12,19,Apartment,4462227
+H0951,Hyderabad,5,4,3,1811,Unfurnished,0,11,11,8,Villa,12972874
+H0952,Mumbai,2,3,0,928,Unfurnished,1,12,6,9,Villa,5649956
+H0953,Pune,2,1,2,3191,Furnished,1,3,9,6,Independent House,3712746
+H0954,Mumbai,5,2,3,3430,Unfurnished,2,6,13,14,Villa,15106341
+H0955,Hyderabad,5,4,0,3644,Furnished,2,1,1,19,Independent House,4275614
+H0956,Hyderabad,5,4,1,2020,Unfurnished,0,5,11,14,Independent House,3333601
+H0957,Mumbai,2,3,2,2140,Semi-Furnished,2,5,2,12,Villa,23634526
+H0958,Chennai,5,4,1,3492,Furnished,2,17,13,14,Villa,21810870
+H0959,Bangalore,5,3,1,1792,Unfurnished,2,29,1,11,Apartment,12935221
+H0960,Kolkata,4,3,3,2316,Semi-Furnished,1,19,10,14,Apartment,4003240
+H0961,Chennai,1,2,3,3013,Unfurnished,2,7,12,10,Independent House,10462990
+H0962,Chennai,3,2,3,1801,Semi-Furnished,0,7,3,11,Apartment,6347418
+H0963,Delhi,1,1,2,1254,Semi-Furnished,1,28,11,16,Independent House,13971533
+H0964,Kolkata,4,2,1,1985,Unfurnished,1,7,5,5,Villa,17016974
+H0965,Kolkata,3,2,2,1359,Unfurnished,2,7,1,18,Villa,19030739
+H0966,Chennai,5,3,3,3286,Semi-Furnished,1,0,4,18,Apartment,22400460
+H0967,Pune,4,2,1,2398,Semi-Furnished,0,1,14,9,Independent House,9375904
+H0968,Delhi,5,3,2,1663,Semi-Furnished,0,11,13,11,Independent House,8055706
+H0969,Delhi,2,3,2,3571,Furnished,1,14,8,5,Apartment,4004037
+H0970,Hyderabad,4,2,0,1015,Semi-Furnished,2,3,6,6,Independent House,20887071
+H0971,Coimbatore,2,1,2,854,Furnished,2,27,13,13,Independent House,10962407
+H0972,Kolkata,4,1,3,1766,Semi-Furnished,1,24,1,16,Villa,12439642
+H0973,Chennai,4,4,2,2476,Furnished,0,2,12,7,Independent House,9294833
+H0974,Hyderabad,2,4,1,3357,Semi-Furnished,1,13,1,10,Independent House,4017850
+H0975,Mumbai,3,2,2,3224,Semi-Furnished,2,21,3,19,Independent House,4286655
+H0976,Bangalore,1,1,0,1499,Semi-Furnished,2,22,14,11,Apartment,16966041
+H0977,Coimbatore,5,3,1,2658,Unfurnished,1,7,10,13,Apartment,11092496
+H0978,Coimbatore,4,4,1,625,Unfurnished,0,12,8,9,Apartment,12854356
+H0979,Coimbatore,5,3,0,3604,Semi-Furnished,1,22,11,8,Independent House,14014863
+H0980,Delhi,2,4,3,1020,Furnished,0,18,11,15,Independent House,3648652
+H0981,Mumbai,5,2,1,1844,Furnished,0,21,14,16,Apartment,6544661
+H0982,Coimbatore,2,1,3,2476,Semi-Furnished,1,4,8,19,Apartment,23873219
+H0983,Mumbai,5,4,1,3143,Unfurnished,1,12,13,6,Independent House,9722819
+H0984,Pune,1,1,1,1860,Furnished,0,27,3,7,Independent House,13770292
+H0985,Coimbatore,1,3,3,2884,Unfurnished,0,25,7,19,Villa,5918349
+H0986,Bangalore,1,2,1,1608,Furnished,0,19,12,9,Apartment,12690751
+H0987,Mumbai,1,1,3,818,Semi-Furnished,0,0,3,15,Independent House,3267588
+H0988,Mumbai,1,2,0,2110,Unfurnished,2,15,4,19,Apartment,14265071
+H0989,Bangalore,1,1,3,2559,Furnished,1,29,9,17,Apartment,10099469
+H0990,Coimbatore,2,3,0,3108,Semi-Furnished,0,28,13,6,Apartment,4438493
+H0991,Bangalore,4,3,1,1262,Semi-Furnished,1,22,4,17,Villa,5984045
+H0992,Mumbai,5,2,3,3282,Semi-Furnished,0,23,3,8,Independent House,19915703
+H0993,Bangalore,1,3,1,3815,Unfurnished,1,1,5,5,Independent House,16582712
+H0994,Mumbai,2,4,3,1589,Unfurnished,1,6,7,8,Apartment,17745549
+H0995,Mumbai,2,1,0,788,Semi-Furnished,0,5,5,11,Independent House,16114706
+H0996,Pune,2,3,0,854,Unfurnished,0,4,4,19,Villa,2378269
+H0997,Chennai,4,4,3,667,Furnished,1,28,8,18,Apartment,1549314
+H0998,Mumbai,5,2,0,1215,Semi-Furnished,1,3,4,16,Villa,15101360
+H0999,Coimbatore,4,4,1,2983,Semi-Furnished,1,1,2,7,Villa,24086349
+H1000,Hyderabad,3,2,1,3318,Unfurnished,2,9,10,14,Independent House,14966793
+H1001,Delhi,2,2,2,3468,Semi-Furnished,0,21,13,12,Independent House,13364437
+H1002,Kolkata,3,1,0,1473,Furnished,2,4,14,10,Villa,15568419
+H1003,Chennai,1,1,1,2947,Unfurnished,2,17,6,10,Independent House,13218858
+H1004,Chennai,1,4,3,2225,Unfurnished,0,9,2,18,Villa,9033006
+H1005,Chennai,4,1,0,956,Semi-Furnished,0,22,3,19,Villa,2929911
+H1006,Pune,5,1,1,855,Semi-Furnished,2,21,1,5,Apartment,18606113
+H1007,Mumbai,3,1,0,1607,Semi-Furnished,0,27,5,9,Villa,3894538
+H1008,Pune,5,4,3,3000,Unfurnished,1,14,9,7,Villa,18645622
+H1009,Mumbai,4,3,1,2355,Semi-Furnished,1,26,2,19,Independent House,13288604
+H1010,Coimbatore,1,1,2,3171,Furnished,2,8,12,14,Apartment,12871998
+H1011,Pune,5,1,2,3597,Semi-Furnished,2,10,7,19,Independent House,3958020
+H1012,Pune,5,4,0,3403,Semi-Furnished,0,25,5,5,Apartment,3086444
+H1013,Delhi,1,3,3,883,Unfurnished,0,20,2,12,Independent House,24551744
+H1014,Hyderabad,3,1,1,3983,Semi-Furnished,2,24,8,11,Villa,5274150
+H1015,Pune,1,2,3,698,Unfurnished,2,24,11,11,Apartment,6576703
+H1016,Delhi,5,4,1,796,Semi-Furnished,1,28,13,16,Apartment,22043653
+H1017,Bangalore,3,1,0,3129,Furnished,1,16,13,14,Apartment,4192787
+H1018,Hyderabad,3,1,1,1477,Furnished,0,20,6,18,Apartment,19399947
+H1019,Coimbatore,1,2,3,3897,Unfurnished,1,8,4,14,Independent House,6440172
+H1020,Pune,5,2,3,2468,Unfurnished,0,22,13,14,Independent House,16586807
+H1021,Kolkata,4,4,0,3262,Semi-Furnished,0,15,4,8,Apartment,10003135
+H1022,Chennai,5,4,3,3265,Semi-Furnished,0,5,2,17,Apartment,24798154
+H1023,Bangalore,2,2,1,1988,Furnished,1,21,3,19,Apartment,4322097
+H1024,Bangalore,4,4,0,3015,Semi-Furnished,2,10,7,15,Independent House,16378575
+H1025,Coimbatore,3,2,1,1169,Furnished,2,22,3,10,Apartment,20889921
+H1026,Delhi,4,1,3,3237,Unfurnished,1,16,13,17,Apartment,2226272
+H1027,Bangalore,3,2,0,3746,Semi-Furnished,2,3,5,13,Apartment,24067153
+H1028,Hyderabad,3,2,1,1665,Unfurnished,0,28,10,19,Independent House,23980425
+H1029,Pune,4,3,3,1021,Semi-Furnished,2,14,6,18,Villa,20583358
+H1030,Pune,3,2,3,3483,Furnished,1,0,6,7,Villa,8862481
+H1031,Kolkata,3,2,2,1804,Unfurnished,2,21,14,19,Independent House,1639648
+H1032,Coimbatore,2,3,3,1144,Unfurnished,0,29,4,13,Villa,10327698
+H1033,Chennai,5,4,1,670,Semi-Furnished,0,28,6,8,Apartment,19796207
+H1034,Delhi,5,3,0,3776,Unfurnished,1,19,3,9,Apartment,13332825
+H1035,Chennai,2,1,2,1823,Furnished,1,0,7,11,Independent House,17346566
+H1036,Bangalore,4,3,3,3772,Unfurnished,1,8,7,10,Independent House,6081024
+H1037,Coimbatore,1,1,3,1367,Unfurnished,0,11,4,14,Villa,23489462
+H1038,Kolkata,1,4,3,2954,Semi-Furnished,2,3,2,12,Villa,2355860
+H1039,Chennai,1,3,1,2306,Unfurnished,2,27,11,12,Apartment,6442312
+H1040,Hyderabad,2,3,2,3024,Semi-Furnished,1,21,7,12,Independent House,5698625
+H1041,Pune,2,4,1,1254,Semi-Furnished,2,12,3,7,Villa,6486512
+H1042,Bangalore,3,1,2,3325,Unfurnished,2,6,1,19,Villa,4623544
+H1043,Kolkata,1,3,0,3046,Furnished,1,7,2,18,Apartment,8069719
+H1044,Chennai,4,1,1,2396,Semi-Furnished,1,27,10,14,Apartment,5331657
+H1045,Delhi,4,3,1,820,Unfurnished,0,12,9,10,Apartment,7921534
+H1046,Hyderabad,1,2,0,781,Semi-Furnished,0,10,12,11,Apartment,4291108
+H1047,Hyderabad,1,3,2,906,Furnished,0,8,8,13,Villa,18592327
+H1048,Chennai,1,4,3,3169,Furnished,0,24,14,14,Independent House,16147709
+H1049,Pune,2,4,0,2019,Semi-Furnished,2,23,6,14,Independent House,5585572
+H1050,Chennai,2,1,3,1613,Furnished,2,15,14,18,Apartment,22285099
+H1051,Bangalore,2,3,3,2651,Unfurnished,0,9,6,16,Apartment,15317990
+H1052,Chennai,5,1,0,3510,Unfurnished,0,10,14,19,Villa,8848227
+H1053,Hyderabad,4,1,2,1447,Semi-Furnished,1,11,1,8,Apartment,15082513
+H1054,Kolkata,4,2,3,1403,Furnished,2,27,2,9,Independent House,12764745
+H1055,Chennai,3,2,0,3952,Unfurnished,2,13,4,12,Apartment,20068986
+H1056,Pune,2,4,1,814,Unfurnished,0,18,3,5,Independent House,24606922
+H1057,Coimbatore,5,1,1,3619,Unfurnished,2,11,14,16,Apartment,2282129
+H1058,Kolkata,5,4,1,2043,Semi-Furnished,1,17,1,10,Apartment,10822188
+H1059,Delhi,4,3,0,700,Semi-Furnished,1,20,8,19,Independent House,9691187
+H1060,Mumbai,2,1,1,3610,Unfurnished,2,16,7,8,Villa,8359186
+H1061,Chennai,3,1,3,1172,Unfurnished,0,2,4,9,Villa,19855472
+H1062,Pune,2,3,1,1932,Furnished,2,0,12,15,Apartment,9348225
+H1063,Kolkata,1,3,1,1257,Furnished,1,28,12,9,Apartment,19842690
+H1064,Pune,2,4,3,3586,Furnished,0,18,9,6,Independent House,15813954
+H1065,Delhi,1,4,1,2133,Semi-Furnished,2,28,11,12,Independent House,21896005
+H1066,Hyderabad,1,3,3,3734,Unfurnished,0,3,14,19,Apartment,16836117
+H1067,Pune,3,4,1,2256,Semi-Furnished,0,22,4,6,Independent House,2123761
+H1068,Kolkata,4,3,3,825,Unfurnished,1,27,1,8,Villa,14011661
+H1069,Pune,2,1,1,704,Furnished,0,15,10,16,Villa,20841743
+H1070,Pune,1,1,3,2597,Furnished,2,11,1,17,Independent House,17734016
+H1071,Pune,2,2,0,1371,Furnished,0,20,1,9,Independent House,16977848
+H1072,Bangalore,4,1,3,3926,Furnished,0,20,1,18,Independent House,23130192
+H1073,Bangalore,4,3,1,1028,Unfurnished,2,12,4,5,Villa,4953705
+H1074,Hyderabad,5,4,1,1033,Furnished,1,16,1,10,Apartment,7271486
+H1075,Chennai,4,2,2,1830,Unfurnished,1,7,2,6,Independent House,13670987
+H1076,Pune,3,4,3,3699,Unfurnished,2,12,4,18,Independent House,3959288
+H1077,Delhi,1,3,0,3329,Semi-Furnished,2,19,7,9,Independent House,18081075
+H1078,Chennai,5,1,3,3235,Furnished,1,25,2,19,Apartment,7949720
+H1079,Delhi,3,2,3,3740,Furnished,0,4,8,10,Independent House,20220065
+H1080,Chennai,2,3,0,1465,Semi-Furnished,2,17,13,15,Independent House,2649302
+H1081,Hyderabad,1,2,3,3393,Unfurnished,0,14,7,12,Villa,7880655
+H1082,Pune,4,2,0,3838,Furnished,2,11,9,13,Independent House,18242926
+H1083,Pune,1,1,0,3511,Unfurnished,1,28,14,17,Villa,3978491
+H1084,Mumbai,2,3,3,3015,Semi-Furnished,0,16,6,19,Apartment,19307628
+H1085,Delhi,5,4,3,850,Unfurnished,0,24,4,16,Independent House,18445777
+H1086,Chennai,5,2,1,3506,Furnished,2,14,6,10,Independent House,21674075
+H1087,Chennai,5,2,1,1455,Unfurnished,0,1,4,9,Villa,15501139
+H1088,Coimbatore,4,4,2,1793,Unfurnished,2,5,7,16,Apartment,16089301
+H1089,Coimbatore,3,3,2,3761,Furnished,1,16,9,8,Apartment,11831789
+H1090,Bangalore,3,2,3,1160,Furnished,0,15,3,6,Villa,6246865
+H1091,Mumbai,1,2,0,2069,Unfurnished,2,16,3,6,Apartment,17931553
+H1092,Kolkata,4,2,2,2941,Unfurnished,0,24,2,11,Apartment,6248065
+H1093,Coimbatore,5,3,3,1518,Semi-Furnished,2,19,1,9,Apartment,18862914
+H1094,Kolkata,5,3,2,1773,Furnished,2,8,14,11,Apartment,17881464
+H1095,Bangalore,2,4,0,3803,Unfurnished,2,26,1,17,Apartment,6101199
+H1096,Bangalore,2,3,3,1032,Furnished,1,4,13,15,Apartment,22826645
+H1097,Bangalore,5,3,0,2706,Semi-Furnished,0,22,3,5,Apartment,24613982
+H1098,Delhi,5,1,3,1568,Unfurnished,1,0,14,5,Apartment,22030638
+H1099,Delhi,4,4,2,1435,Unfurnished,2,5,7,9,Independent House,14274667
+H1100,Hyderabad,3,2,1,2846,Unfurnished,2,23,11,6,Villa,7117789
+H1101,Hyderabad,2,3,2,2862,Furnished,1,13,9,12,Apartment,10966617
+H1102,Bangalore,3,2,2,1497,Semi-Furnished,1,16,14,18,Villa,24332461
+H1103,Mumbai,4,2,1,1071,Furnished,0,24,2,19,Apartment,23434044
+H1104,Chennai,5,1,1,846,Unfurnished,2,18,7,7,Apartment,11651279
+H1105,Delhi,3,3,3,3029,Semi-Furnished,1,0,1,5,Independent House,12650890
+H1106,Mumbai,5,4,3,1590,Unfurnished,2,0,2,17,Villa,20705797
+H1107,Pune,5,3,0,3910,Unfurnished,2,12,6,6,Villa,6122791
+H1108,Delhi,1,2,0,1526,Furnished,0,13,11,14,Independent House,11141647
+H1109,Delhi,3,4,2,1791,Unfurnished,0,26,5,14,Independent House,7640994
+H1110,Hyderabad,3,3,1,3207,Semi-Furnished,0,5,8,11,Villa,16945057
+H1111,Chennai,5,2,0,1674,Unfurnished,1,26,12,10,Apartment,1523439
+H1112,Chennai,4,2,2,2434,Unfurnished,2,5,11,16,Apartment,11295154
+H1113,Coimbatore,1,1,1,1288,Furnished,1,0,2,12,Villa,12390077
+H1114,Kolkata,5,1,3,3027,Semi-Furnished,1,29,1,11,Apartment,14820591
+H1115,Kolkata,2,1,2,3121,Furnished,0,13,7,18,Independent House,19763925
+H1116,Kolkata,2,2,3,3751,Unfurnished,2,2,6,14,Independent House,22826009
+H1117,Kolkata,1,3,0,3344,Furnished,2,22,8,17,Independent House,6593659
+H1118,Pune,4,1,0,2084,Furnished,0,9,11,12,Villa,23341411
+H1119,Pune,5,3,1,3558,Furnished,2,18,13,7,Villa,18521577
+H1120,Delhi,3,1,2,1559,Furnished,0,18,14,10,Villa,14818834
+H1121,Bangalore,1,4,3,1077,Unfurnished,1,18,8,17,Apartment,19760204
+H1122,Hyderabad,4,4,1,3651,Unfurnished,1,27,2,11,Villa,19183246
+H1123,Hyderabad,3,1,0,3573,Semi-Furnished,0,22,14,19,Villa,17118461
+H1124,Kolkata,2,2,0,1306,Furnished,1,3,8,14,Independent House,23345923
+H1125,Delhi,2,1,2,3885,Furnished,1,19,6,15,Apartment,22920040
+H1126,Coimbatore,3,1,3,3501,Semi-Furnished,0,18,9,5,Apartment,22967164
+H1127,Mumbai,1,2,2,1737,Furnished,1,9,12,5,Independent House,24994287
+H1128,Bangalore,2,4,3,3664,Semi-Furnished,2,26,7,11,Apartment,5457396
+H1129,Delhi,5,3,3,1353,Unfurnished,1,24,2,17,Villa,24006047
+H1130,Bangalore,3,1,2,3150,Semi-Furnished,0,1,8,15,Apartment,20067022
+H1131,Bangalore,3,2,1,2259,Furnished,2,3,9,17,Independent House,9969178
+H1132,Bangalore,2,1,2,3464,Semi-Furnished,2,23,7,7,Apartment,17849549
+H1133,Delhi,1,2,2,1187,Unfurnished,1,5,4,7,Independent House,16498645
+H1134,Kolkata,5,3,0,1934,Furnished,2,29,9,19,Villa,5426427
+H1135,Hyderabad,1,3,0,2092,Unfurnished,0,6,4,9,Villa,2452573
+H1136,Hyderabad,4,4,2,2447,Unfurnished,2,15,12,19,Independent House,20054398
+H1137,Kolkata,4,2,2,3355,Semi-Furnished,1,28,4,15,Villa,18971136
+H1138,Bangalore,2,2,0,3715,Unfurnished,1,6,9,10,Villa,7194166
+H1139,Mumbai,2,4,3,3917,Furnished,2,17,14,6,Apartment,1935643
+H1140,Chennai,2,4,2,3755,Unfurnished,0,19,8,7,Villa,21286408
+H1141,Delhi,4,2,1,806,Unfurnished,0,25,4,10,Independent House,4575152
+H1142,Chennai,1,4,1,2798,Semi-Furnished,1,25,14,7,Villa,23068560
+H1143,Coimbatore,1,3,1,3315,Unfurnished,1,21,8,18,Apartment,9048352
+H1144,Kolkata,2,1,2,3175,Semi-Furnished,0,18,8,9,Independent House,10255055
+H1145,Mumbai,5,3,3,764,Semi-Furnished,2,8,7,13,Villa,6901882
+H1146,Delhi,1,4,3,3564,Furnished,2,28,10,16,Villa,16145720
+H1147,Kolkata,4,2,0,2598,Furnished,2,19,13,7,Villa,20235519
+H1148,Bangalore,3,2,2,3816,Furnished,2,9,6,16,Independent House,12730162
+H1149,Hyderabad,3,3,3,3657,Furnished,0,12,8,15,Apartment,11314615
+H1150,Chennai,3,2,2,2684,Semi-Furnished,1,17,7,17,Independent House,14876632
+H1151,Pune,5,4,0,932,Unfurnished,1,15,5,17,Independent House,21532514
+H1152,Pune,2,3,0,1002,Furnished,2,21,12,10,Apartment,14964891
+H1153,Mumbai,4,2,0,1013,Furnished,0,16,13,15,Independent House,14605611
+H1154,Bangalore,5,1,1,644,Furnished,0,21,13,9,Independent House,19931202
+H1155,Coimbatore,4,1,2,2853,Unfurnished,2,12,4,9,Villa,17945518
+H1156,Chennai,4,4,0,661,Furnished,2,11,14,15,Independent House,14991953
+H1157,Bangalore,2,2,2,3067,Unfurnished,2,9,12,18,Villa,22604159
+H1158,Chennai,3,4,1,1467,Semi-Furnished,1,0,2,18,Independent House,10460774
+H1159,Mumbai,2,3,1,2091,Semi-Furnished,2,29,11,10,Villa,20423218
+H1160,Mumbai,5,1,0,3467,Semi-Furnished,1,7,8,10,Villa,4515750
+H1161,Coimbatore,5,3,0,618,Unfurnished,0,20,9,5,Villa,13899812
+H1162,Pune,5,2,3,964,Furnished,0,21,4,15,Apartment,17273753
+H1163,Bangalore,2,4,2,3971,Furnished,1,17,4,19,Independent House,1558791
+H1164,Delhi,4,4,0,3678,Furnished,1,1,5,13,Independent House,14879028
+H1165,Pune,4,4,3,3075,Furnished,1,15,2,9,Independent House,12864975
+H1166,Bangalore,1,3,2,1740,Furnished,1,11,7,5,Apartment,9709842
+H1167,Pune,5,1,0,1179,Unfurnished,2,8,5,12,Villa,1639118
+H1168,Delhi,4,3,3,1145,Semi-Furnished,0,2,6,11,Independent House,8768516
+H1169,Hyderabad,1,3,3,2329,Furnished,2,21,4,11,Apartment,24222262
+H1170,Hyderabad,4,2,2,2972,Semi-Furnished,1,25,8,19,Apartment,24832170
+H1171,Coimbatore,5,2,3,654,Unfurnished,2,20,8,18,Independent House,4226217
+H1172,Hyderabad,3,2,2,1377,Unfurnished,2,29,12,9,Villa,24139736
+H1173,Hyderabad,5,1,2,3639,Furnished,0,27,5,5,Apartment,12239924
+H1174,Kolkata,2,1,2,641,Unfurnished,2,3,12,13,Independent House,20747610
+H1175,Chennai,4,2,1,1920,Semi-Furnished,0,25,6,15,Villa,18866568
+H1176,Kolkata,4,2,3,830,Furnished,1,1,3,13,Apartment,11256512
+H1177,Kolkata,2,1,2,1052,Furnished,2,7,1,12,Apartment,9916032
+H1178,Coimbatore,2,4,0,3041,Semi-Furnished,1,9,9,9,Independent House,8526855
+H1179,Kolkata,3,1,1,2145,Furnished,0,15,9,18,Independent House,5304130
+H1180,Hyderabad,4,1,1,1981,Furnished,1,22,3,7,Villa,8804737
+H1181,Delhi,4,1,3,2067,Semi-Furnished,1,10,4,12,Independent House,5144221
+H1182,Coimbatore,3,2,2,1751,Furnished,0,17,13,5,Independent House,14352195
+H1183,Coimbatore,1,4,3,3338,Furnished,1,21,7,7,Villa,10161978
+H1184,Mumbai,3,1,1,3039,Semi-Furnished,1,13,2,16,Independent House,9207410
+H1185,Coimbatore,5,2,2,1816,Unfurnished,1,7,12,15,Villa,22945034
+H1186,Mumbai,4,3,0,3251,Semi-Furnished,2,22,3,11,Villa,14428708
+H1187,Coimbatore,2,3,2,1480,Furnished,1,14,6,18,Villa,2540062
+H1188,Chennai,5,1,1,3749,Semi-Furnished,0,16,11,19,Independent House,6289239
+H1189,Hyderabad,4,3,0,684,Furnished,2,20,8,8,Villa,22015849
+H1190,Coimbatore,3,4,2,1653,Furnished,2,17,1,11,Independent House,10049495
+H1191,Hyderabad,5,3,0,648,Semi-Furnished,0,5,4,16,Villa,18153946
+H1192,Hyderabad,4,3,0,1768,Furnished,1,22,1,15,Independent House,23169110
+H1193,Pune,1,4,1,668,Unfurnished,2,29,2,17,Villa,15122631
+H1194,Coimbatore,1,1,0,3729,Furnished,2,13,8,18,Apartment,3317820
+H1195,Bangalore,2,1,3,3344,Semi-Furnished,2,22,6,9,Apartment,9549412
+H1196,Pune,4,4,1,3126,Unfurnished,1,2,9,10,Apartment,24969882
+H1197,Bangalore,1,4,3,3467,Unfurnished,2,6,2,18,Villa,5173547
+H1198,Hyderabad,3,4,0,3967,Furnished,0,14,3,11,Independent House,24184799
+H1199,Hyderabad,4,3,3,2301,Semi-Furnished,1,20,9,19,Villa,10642988
+H1200,Pune,3,4,2,3842,Furnished,0,23,9,17,Villa,6618037
+H1201,Pune,3,2,0,2198,Furnished,0,27,13,14,Villa,21122030
+H1202,Bangalore,1,3,2,2794,Semi-Furnished,2,15,6,16,Villa,11019308
+H1203,Mumbai,4,1,3,3977,Semi-Furnished,2,15,14,11,Independent House,12467680
+H1204,Bangalore,5,1,2,2469,Furnished,2,7,3,11,Villa,19034974
+H1205,Pune,1,1,0,1615,Unfurnished,0,6,5,11,Apartment,17447114
+H1206,Delhi,1,3,2,3256,Furnished,1,5,2,15,Apartment,11975116
+H1207,Pune,4,2,3,1045,Unfurnished,2,1,7,17,Apartment,19204244
+H1208,Delhi,4,4,3,2868,Furnished,2,21,10,17,Villa,3328864
+H1209,Chennai,3,4,3,2001,Semi-Furnished,0,12,11,11,Independent House,5782378
+H1210,Pune,4,1,0,3937,Unfurnished,1,11,8,7,Independent House,11045529
+H1211,Chennai,3,1,3,2742,Semi-Furnished,0,14,6,19,Independent House,3004895
+H1212,Mumbai,1,3,0,861,Semi-Furnished,2,26,8,16,Villa,6797083
+H1213,Bangalore,2,2,2,2448,Semi-Furnished,0,8,2,7,Independent House,24060299
+H1214,Delhi,5,4,3,1496,Semi-Furnished,2,1,3,11,Apartment,5662974
+H1215,Bangalore,1,3,2,1694,Semi-Furnished,1,16,7,18,Independent House,9810774
+H1216,Chennai,4,4,1,2866,Furnished,0,26,10,6,Villa,21903207
+H1217,Delhi,5,1,2,2156,Unfurnished,2,28,12,18,Villa,16558948
+H1218,Bangalore,2,4,1,691,Furnished,2,4,1,6,Independent House,3719369
+H1219,Pune,2,2,2,726,Furnished,2,10,7,7,Villa,22617621
+H1220,Hyderabad,3,2,0,679,Furnished,2,21,6,18,Independent House,14136432
+H1221,Chennai,5,1,2,2447,Semi-Furnished,0,18,8,8,Independent House,7944489
+H1222,Bangalore,3,2,0,3909,Furnished,2,23,7,10,Apartment,10832947
+H1223,Chennai,1,2,0,1582,Unfurnished,0,6,4,17,Villa,15028141
+H1224,Kolkata,5,3,3,1515,Furnished,2,1,3,12,Apartment,12797549
+H1225,Chennai,1,4,0,3133,Semi-Furnished,0,15,3,14,Villa,14215228
+H1226,Delhi,3,1,1,1293,Unfurnished,0,11,4,14,Independent House,18345168
+H1227,Kolkata,5,1,3,624,Unfurnished,2,22,9,11,Villa,17276701
+H1228,Coimbatore,3,1,3,755,Unfurnished,2,14,9,8,Independent House,14875834
+H1229,Delhi,5,1,2,3279,Unfurnished,2,0,13,6,Villa,7259951
+H1230,Hyderabad,3,1,0,2412,Furnished,2,24,2,6,Apartment,22024451
+H1231,Kolkata,2,2,0,2153,Semi-Furnished,1,12,5,19,Apartment,13826607
+H1232,Coimbatore,3,3,1,2566,Unfurnished,2,22,1,8,Independent House,6767872
+H1233,Pune,2,1,2,2333,Unfurnished,2,5,4,10,Apartment,7380322
+H1234,Chennai,3,3,2,1680,Semi-Furnished,2,12,2,7,Independent House,14337078
+H1235,Bangalore,5,3,3,2228,Furnished,0,17,8,10,Independent House,20550378
+H1236,Mumbai,5,2,3,618,Unfurnished,2,2,4,9,Independent House,10850847
+H1237,Chennai,5,1,3,2007,Furnished,0,0,5,9,Villa,15759089
+H1238,Coimbatore,4,2,1,1816,Furnished,0,14,11,6,Independent House,17931080
+H1239,Chennai,1,1,1,2884,Furnished,0,25,4,12,Apartment,22467851
+H1240,Hyderabad,5,2,3,2010,Furnished,0,12,5,9,Villa,18482748
+H1241,Pune,2,3,2,876,Unfurnished,1,4,5,15,Apartment,6344218
+H1242,Mumbai,5,1,1,3898,Unfurnished,2,24,5,6,Independent House,24519057
+H1243,Kolkata,4,4,2,1344,Furnished,0,12,11,11,Independent House,7553572
+H1244,Kolkata,2,3,2,1151,Furnished,2,21,3,17,Apartment,8506423
+H1245,Kolkata,4,4,0,3994,Semi-Furnished,0,4,7,19,Villa,10999036
+H1246,Coimbatore,2,3,3,1776,Semi-Furnished,1,27,3,13,Apartment,1977563
+H1247,Delhi,3,2,0,1238,Semi-Furnished,0,18,2,13,Independent House,10060871
+H1248,Delhi,1,1,3,836,Unfurnished,2,20,3,5,Villa,4522488
+H1249,Bangalore,1,3,3,1597,Semi-Furnished,2,23,11,11,Independent House,22984799
+H1250,Mumbai,4,2,2,2702,Unfurnished,1,27,3,13,Independent House,18982130
+H1251,Kolkata,1,1,3,2603,Unfurnished,2,17,8,10,Apartment,21118215
+H1252,Delhi,4,1,2,2059,Unfurnished,2,20,4,5,Independent House,6010465
+H1253,Coimbatore,4,3,2,3331,Unfurnished,0,21,3,6,Apartment,19776306
+H1254,Bangalore,4,1,3,2756,Semi-Furnished,2,9,10,8,Villa,22916125
+H1255,Pune,1,3,2,1807,Furnished,0,23,5,18,Independent House,19005882
+H1256,Bangalore,4,1,2,1991,Furnished,1,7,4,8,Independent House,13509644
+H1257,Delhi,1,4,2,2606,Furnished,2,14,9,6,Villa,10493526
+H1258,Hyderabad,4,2,1,1821,Semi-Furnished,0,20,8,12,Apartment,10879583
+H1259,Coimbatore,5,4,2,1994,Furnished,2,24,11,6,Independent House,24243667
+H1260,Hyderabad,4,3,1,972,Semi-Furnished,0,19,7,7,Villa,22071362
+H1261,Kolkata,2,4,1,3620,Semi-Furnished,1,27,8,18,Independent House,6885192
+H1262,Hyderabad,4,3,2,2120,Semi-Furnished,0,24,13,8,Apartment,20308388
+H1263,Kolkata,3,1,2,2848,Furnished,2,26,5,13,Apartment,4059909
+H1264,Kolkata,4,1,1,1448,Furnished,0,22,4,14,Apartment,10601949
+H1265,Delhi,2,3,1,3156,Furnished,2,21,7,5,Apartment,19212052
+H1266,Hyderabad,2,4,2,1945,Unfurnished,1,3,1,12,Villa,16337972
+H1267,Kolkata,1,1,2,2922,Semi-Furnished,0,1,6,16,Independent House,20650900
+H1268,Mumbai,5,2,3,2858,Unfurnished,2,23,8,19,Villa,8035791
+H1269,Pune,4,1,1,1103,Semi-Furnished,2,5,7,18,Apartment,10414590
+H1270,Bangalore,1,2,1,3789,Furnished,2,27,2,9,Apartment,6870607
+H1271,Bangalore,5,4,3,1302,Semi-Furnished,0,2,14,11,Apartment,10892789
+H1272,Delhi,4,2,1,2689,Semi-Furnished,0,6,13,12,Apartment,5520362
+H1273,Hyderabad,3,2,0,914,Unfurnished,0,9,14,19,Independent House,19849680
+H1274,Hyderabad,4,2,1,3435,Semi-Furnished,1,22,7,9,Apartment,17540078
+H1275,Kolkata,2,2,3,2976,Furnished,2,5,13,12,Independent House,12548817
+H1276,Coimbatore,2,1,0,1640,Semi-Furnished,2,15,6,14,Apartment,6126940
+H1277,Chennai,3,2,2,882,Semi-Furnished,1,1,13,15,Independent House,15506921
+H1278,Kolkata,1,1,3,3590,Semi-Furnished,1,23,5,12,Independent House,8942917
+H1279,Pune,5,2,3,857,Unfurnished,0,16,4,13,Apartment,24082239
+H1280,Mumbai,4,3,2,1174,Semi-Furnished,0,12,1,6,Villa,17885460
+H1281,Bangalore,2,4,3,1173,Semi-Furnished,0,0,13,7,Villa,4169086
+H1282,Kolkata,1,2,1,3259,Unfurnished,0,5,2,5,Villa,21857412
+H1283,Chennai,3,3,2,1642,Unfurnished,0,4,7,8,Villa,16294011
+H1284,Chennai,2,2,3,2152,Unfurnished,0,24,10,19,Villa,11996670
+H1285,Kolkata,3,2,2,3484,Unfurnished,1,12,3,19,Apartment,4081517
+H1286,Delhi,4,2,2,1022,Furnished,1,27,5,9,Apartment,9599542
+H1287,Bangalore,5,3,2,2089,Furnished,1,22,8,15,Apartment,16974959
+H1288,Delhi,2,4,0,1996,Semi-Furnished,2,17,13,5,Apartment,6352033
+H1289,Mumbai,2,3,3,1357,Furnished,2,28,13,12,Apartment,17647237
+H1290,Chennai,4,4,0,3410,Semi-Furnished,0,11,8,6,Apartment,23370248
+H1291,Chennai,1,2,3,1704,Furnished,1,6,6,5,Independent House,17721042
+H1292,Pune,5,1,1,2174,Unfurnished,2,14,5,6,Independent House,5693319
+H1293,Mumbai,2,2,1,3071,Unfurnished,2,2,13,19,Apartment,12273311
+H1294,Chennai,5,4,1,1028,Furnished,1,15,2,17,Apartment,21589955
+H1295,Mumbai,2,3,3,2621,Furnished,2,0,9,9,Independent House,15067992
+H1296,Bangalore,5,2,2,803,Semi-Furnished,2,26,1,13,Independent House,11196337
+H1297,Hyderabad,3,3,2,2843,Semi-Furnished,1,15,11,13,Apartment,11356570
+H1298,Chennai,2,3,0,3375,Semi-Furnished,2,23,2,6,Independent House,6290500
+H1299,Pune,5,3,0,2932,Unfurnished,1,29,13,6,Villa,24693178
+H1300,Bangalore,1,2,1,2592,Unfurnished,2,11,1,7,Villa,16464577
+H1301,Kolkata,3,3,0,2843,Unfurnished,1,18,12,11,Villa,16220797
+H1302,Mumbai,3,3,3,906,Unfurnished,2,26,4,15,Independent House,20199460
+H1303,Kolkata,1,2,3,2287,Semi-Furnished,2,7,4,7,Apartment,4359281
+H1304,Delhi,5,3,0,613,Unfurnished,1,22,5,5,Apartment,16836013
+H1305,Bangalore,4,2,0,2460,Unfurnished,2,11,5,18,Apartment,4469137
+H1306,Kolkata,1,4,0,3817,Unfurnished,1,14,8,18,Independent House,6433574
+H1307,Coimbatore,5,4,0,2561,Unfurnished,1,1,11,18,Independent House,11287763
+H1308,Coimbatore,1,4,1,1680,Furnished,2,28,11,10,Villa,2597584
+H1309,Chennai,1,3,1,1322,Semi-Furnished,0,29,3,7,Independent House,16051858
+H1310,Mumbai,2,1,0,1379,Semi-Furnished,2,29,6,5,Villa,4960762
+H1311,Hyderabad,5,1,3,1833,Unfurnished,0,16,12,18,Villa,10266011
+H1312,Bangalore,4,3,1,1128,Furnished,0,6,13,17,Apartment,19772382
+H1313,Chennai,2,1,3,1397,Semi-Furnished,2,12,12,8,Independent House,11228732
+H1314,Pune,1,2,2,943,Semi-Furnished,0,0,3,17,Apartment,20701735
+H1315,Delhi,1,1,3,1902,Unfurnished,1,5,13,5,Apartment,19305728
+H1316,Mumbai,1,3,0,808,Unfurnished,1,12,2,5,Independent House,14869981
+H1317,Bangalore,5,3,2,1240,Semi-Furnished,0,10,8,16,Independent House,8536968
+H1318,Coimbatore,5,2,1,1911,Semi-Furnished,1,9,1,6,Villa,16458036
+H1319,Bangalore,2,4,1,2899,Furnished,2,15,9,14,Villa,16806328
+H1320,Hyderabad,4,3,2,3936,Semi-Furnished,1,26,11,12,Villa,8347946
+H1321,Coimbatore,2,2,3,2918,Semi-Furnished,0,25,7,6,Villa,11028595
+H1322,Hyderabad,3,1,1,2547,Unfurnished,2,23,12,15,Apartment,17882616
+H1323,Pune,1,1,0,1519,Semi-Furnished,1,22,10,6,Apartment,17528263
+H1324,Delhi,1,2,2,2323,Unfurnished,2,19,13,19,Independent House,16988523
+H1325,Pune,1,2,0,2644,Semi-Furnished,0,16,12,15,Villa,4613119
+H1326,Chennai,2,3,2,1018,Semi-Furnished,1,16,11,15,Villa,18582272
+H1327,Chennai,2,1,1,2349,Semi-Furnished,2,3,4,14,Villa,18783529
+H1328,Pune,1,2,3,3442,Furnished,2,4,3,14,Apartment,14453283
+H1329,Delhi,2,1,2,3882,Unfurnished,1,27,6,12,Independent House,22957294
+H1330,Pune,5,2,2,1988,Furnished,2,22,9,16,Apartment,5896850
+H1331,Delhi,5,1,0,1699,Semi-Furnished,2,13,9,10,Independent House,20484026
+H1332,Delhi,2,4,1,3992,Furnished,0,19,4,16,Independent House,22046116
+H1333,Kolkata,1,3,0,3372,Unfurnished,0,9,10,15,Apartment,16736561
+H1334,Coimbatore,2,1,1,3080,Semi-Furnished,0,13,5,8,Apartment,6407227
+H1335,Mumbai,2,4,0,2756,Furnished,0,27,11,7,Independent House,4440322
+H1336,Delhi,2,1,2,3288,Furnished,0,0,13,5,Apartment,10816053
+H1337,Hyderabad,3,1,0,2145,Unfurnished,0,10,9,15,Apartment,9996574
+H1338,Delhi,5,4,3,1670,Furnished,1,25,2,7,Independent House,23164707
+H1339,Delhi,4,1,1,3026,Unfurnished,0,22,2,16,Independent House,10065905
+H1340,Delhi,4,1,1,2450,Semi-Furnished,2,17,5,18,Villa,4289608
+H1341,Kolkata,3,3,2,1719,Semi-Furnished,1,15,1,13,Apartment,10594514
+H1342,Coimbatore,2,4,1,1557,Furnished,2,28,8,9,Independent House,19717193
+H1343,Kolkata,3,4,3,702,Semi-Furnished,0,26,5,17,Apartment,18888000
+H1344,Chennai,3,2,0,3539,Semi-Furnished,0,17,12,10,Apartment,6379932
+H1345,Kolkata,1,1,2,3501,Furnished,2,7,10,9,Independent House,7483594
+H1346,Hyderabad,5,3,3,1769,Semi-Furnished,2,27,2,5,Villa,19037613
+H1347,Hyderabad,4,1,1,2503,Furnished,2,9,12,14,Independent House,22581598
+H1348,Kolkata,2,1,1,3698,Unfurnished,1,25,9,5,Independent House,18016937
+H1349,Coimbatore,4,2,3,2355,Unfurnished,0,9,2,8,Apartment,10331700
+H1350,Pune,4,1,0,3177,Unfurnished,2,4,7,19,Villa,4479631
+H1351,Mumbai,5,3,0,1278,Furnished,0,9,8,7,Independent House,6383143
+H1352,Coimbatore,4,3,2,2568,Furnished,2,17,14,15,Apartment,16308927
+H1353,Kolkata,4,2,1,1588,Semi-Furnished,0,20,6,12,Independent House,16220542
+H1354,Delhi,3,1,3,1705,Semi-Furnished,1,23,14,16,Apartment,16339638
+H1355,Bangalore,5,3,0,3075,Semi-Furnished,0,5,11,16,Independent House,19052344
+H1356,Mumbai,1,1,2,2207,Semi-Furnished,2,2,7,11,Villa,13932518
+H1357,Mumbai,2,1,1,3469,Semi-Furnished,0,7,11,19,Independent House,9115570
+H1358,Hyderabad,4,1,1,2102,Furnished,1,29,1,15,Apartment,12650382
+H1359,Mumbai,2,2,2,2389,Furnished,1,8,4,19,Independent House,10571309
+H1360,Kolkata,1,1,2,1785,Unfurnished,0,4,13,11,Villa,16438496
+H1361,Delhi,2,3,0,1531,Unfurnished,2,28,7,19,Villa,6851804
+H1362,Delhi,1,1,3,2025,Unfurnished,1,1,1,12,Villa,22208428
+H1363,Chennai,3,3,1,1661,Unfurnished,1,1,13,18,Villa,9435922
+H1364,Delhi,4,1,3,2578,Furnished,0,6,1,14,Apartment,9860334
+H1365,Coimbatore,1,3,1,3158,Furnished,1,16,11,11,Independent House,9522115
+H1366,Delhi,2,3,1,3040,Furnished,1,9,6,14,Villa,11137364
+H1367,Hyderabad,4,1,3,2642,Semi-Furnished,2,11,4,6,Independent House,12850398
+H1368,Delhi,3,1,2,3360,Semi-Furnished,2,1,3,8,Apartment,15060514
+H1369,Chennai,4,3,0,3141,Unfurnished,2,9,12,19,Independent House,12079135
+H1370,Bangalore,1,4,1,3871,Semi-Furnished,0,19,5,15,Independent House,17670563
+H1371,Kolkata,3,2,2,1878,Furnished,1,0,9,10,Villa,8495844
+H1372,Hyderabad,2,4,1,1802,Unfurnished,0,3,10,7,Villa,3920056
+H1373,Coimbatore,3,4,0,3194,Unfurnished,1,12,10,19,Apartment,3214185
+H1374,Bangalore,3,1,1,1193,Semi-Furnished,1,11,12,7,Independent House,3170411
+H1375,Hyderabad,5,2,0,3036,Unfurnished,1,10,14,19,Apartment,19631775
+H1376,Pune,3,4,0,2021,Semi-Furnished,2,28,14,10,Apartment,13794773
+H1377,Mumbai,3,1,1,2805,Semi-Furnished,0,9,12,5,Apartment,13598297
+H1378,Pune,4,4,1,1627,Unfurnished,0,14,11,18,Villa,16707994
+H1379,Delhi,2,4,0,2814,Semi-Furnished,1,4,10,5,Villa,16055330
+H1380,Bangalore,4,1,2,1559,Semi-Furnished,0,24,3,9,Independent House,16687930
+H1381,Delhi,4,1,3,3056,Semi-Furnished,2,16,5,5,Independent House,21736849
+H1382,Mumbai,1,1,0,3875,Semi-Furnished,0,27,10,14,Independent House,12519670
+H1383,Hyderabad,4,2,1,2841,Unfurnished,1,4,5,12,Villa,7310041
+H1384,Mumbai,5,4,1,2882,Furnished,2,1,9,6,Villa,19037120
+H1385,Chennai,5,1,2,3365,Furnished,2,8,11,10,Apartment,10984749
+H1386,Mumbai,1,3,3,1773,Semi-Furnished,1,5,12,14,Villa,24183262
+H1387,Chennai,2,4,0,3830,Semi-Furnished,0,17,10,14,Apartment,12924734
+H1388,Mumbai,2,3,0,3950,Semi-Furnished,1,13,11,9,Apartment,4491992
+H1389,Kolkata,4,2,3,1415,Furnished,0,18,4,14,Villa,14699051
+H1390,Chennai,4,1,0,1003,Semi-Furnished,0,13,1,16,Apartment,23181634
+H1391,Bangalore,4,3,3,1492,Unfurnished,2,7,10,16,Apartment,20205553
+H1392,Delhi,2,2,1,3325,Unfurnished,1,16,5,8,Independent House,14210548
+H1393,Coimbatore,3,1,3,3982,Unfurnished,2,27,1,5,Apartment,9837388
+H1394,Delhi,5,3,0,667,Furnished,1,2,6,18,Villa,12401481
+H1395,Pune,3,3,3,687,Semi-Furnished,1,28,12,18,Villa,20140512
+H1396,Delhi,3,2,2,2864,Semi-Furnished,2,9,10,7,Apartment,5419144
+H1397,Hyderabad,2,1,1,2648,Semi-Furnished,1,16,10,17,Independent House,12043086
+H1398,Kolkata,3,1,1,1758,Furnished,1,26,7,16,Villa,16146038
+H1399,Mumbai,1,3,3,2320,Furnished,0,10,1,8,Villa,17302950
+H1400,Pune,4,3,0,1974,Furnished,1,7,10,6,Independent House,20617783
+H1401,Hyderabad,1,3,2,2787,Furnished,1,0,4,16,Apartment,23278969
+H1402,Hyderabad,5,1,1,3265,Unfurnished,2,12,9,6,Villa,5040765
+H1403,Chennai,4,2,1,2780,Furnished,2,20,13,6,Apartment,15706113
+H1404,Delhi,3,2,0,2243,Furnished,1,3,1,15,Apartment,21506501
+H1405,Bangalore,5,1,0,777,Furnished,0,6,9,5,Apartment,12173220
+H1406,Coimbatore,4,4,2,3457,Semi-Furnished,0,13,8,14,Apartment,22481892
+H1407,Bangalore,3,2,3,1981,Semi-Furnished,2,4,5,6,Villa,6027781
+H1408,Pune,1,3,0,3027,Semi-Furnished,1,23,6,10,Independent House,8880889
+H1409,Kolkata,4,4,3,1507,Unfurnished,1,27,7,7,Villa,20163996
+H1410,Bangalore,3,4,2,3305,Unfurnished,0,29,4,14,Independent House,6409334
+H1411,Mumbai,1,2,3,3097,Furnished,0,10,14,9,Apartment,1595856
+H1412,Bangalore,5,4,1,1185,Semi-Furnished,0,16,14,5,Independent House,12410237
+H1413,Pune,5,4,3,3110,Unfurnished,2,4,6,12,Apartment,9552546
+H1414,Coimbatore,5,2,2,1589,Semi-Furnished,1,19,7,17,Villa,19069755
+H1415,Bangalore,5,2,2,1731,Unfurnished,2,2,11,8,Villa,23293513
+H1416,Mumbai,2,4,2,2769,Unfurnished,1,4,6,13,Independent House,22679266
+H1417,Chennai,4,3,3,2664,Furnished,2,25,11,8,Apartment,20016420
+H1418,Kolkata,4,1,1,1819,Furnished,1,14,13,18,Apartment,11362008
+H1419,Pune,2,4,0,2974,Unfurnished,0,18,12,19,Independent House,24544265
+H1420,Chennai,3,4,1,917,Furnished,0,15,6,19,Apartment,15562397
+H1421,Chennai,3,3,3,3456,Unfurnished,0,7,2,19,Apartment,12766745
+H1422,Chennai,5,4,3,2102,Unfurnished,2,12,5,6,Apartment,4335512
+H1423,Hyderabad,1,4,0,2634,Semi-Furnished,0,15,3,7,Villa,18925647
+H1424,Kolkata,3,1,3,3923,Furnished,1,2,7,9,Villa,24196704
+H1425,Coimbatore,1,1,2,2642,Furnished,2,0,4,16,Villa,13268165
+H1426,Delhi,4,1,2,1102,Furnished,1,8,1,14,Apartment,2305064
+H1427,Kolkata,1,2,2,2622,Semi-Furnished,2,8,12,19,Villa,18551460
+H1428,Hyderabad,4,2,2,718,Semi-Furnished,1,21,12,17,Apartment,13344410
+H1429,Delhi,2,1,2,1309,Semi-Furnished,1,25,6,17,Apartment,14018701
+H1430,Kolkata,2,1,3,644,Furnished,2,16,6,18,Independent House,3805129
+H1431,Chennai,5,2,0,913,Furnished,2,23,7,10,Apartment,10357700
+H1432,Pune,3,3,0,3850,Furnished,0,1,11,11,Villa,18356160
+H1433,Delhi,5,4,2,1017,Semi-Furnished,0,8,8,8,Villa,12429816
+H1434,Mumbai,4,4,3,3203,Semi-Furnished,1,29,3,11,Apartment,11874057
+H1435,Mumbai,5,1,1,1701,Unfurnished,1,23,14,19,Villa,20261756
+H1436,Bangalore,1,3,1,925,Semi-Furnished,1,18,6,14,Apartment,23087449
+H1437,Delhi,4,2,3,2039,Unfurnished,2,12,10,7,Independent House,9461240
+H1438,Pune,2,1,2,2586,Furnished,2,4,2,11,Apartment,23390485
+H1439,Coimbatore,3,3,0,3162,Semi-Furnished,0,8,13,8,Apartment,15698138
+H1440,Hyderabad,4,3,3,2861,Furnished,1,12,14,17,Independent House,10933341
+H1441,Chennai,4,3,1,673,Furnished,0,0,9,17,Villa,9730798
+H1442,Bangalore,1,2,1,2202,Furnished,2,24,2,12,Independent House,20002147
+H1443,Mumbai,3,2,1,1108,Furnished,2,14,3,13,Independent House,5964165
+H1444,Hyderabad,2,4,2,2979,Semi-Furnished,2,3,12,11,Apartment,19535731
+H1445,Hyderabad,4,4,1,3764,Furnished,0,3,13,12,Apartment,9050576
+H1446,Chennai,4,3,3,1287,Unfurnished,2,19,10,12,Independent House,23059830
+H1447,Coimbatore,1,3,3,1256,Semi-Furnished,1,9,12,6,Villa,3781892
+H1448,Coimbatore,5,2,1,2142,Furnished,0,27,12,13,Independent House,17280285
+H1449,Delhi,2,4,3,1892,Semi-Furnished,2,24,2,10,Villa,2315982
+H1450,Mumbai,3,3,1,1999,Unfurnished,0,29,9,15,Independent House,22950887
+H1451,Coimbatore,4,4,1,3675,Furnished,0,5,1,8,Independent House,8356612
+H1452,Pune,4,4,0,3809,Unfurnished,2,26,5,19,Villa,11035223
+H1453,Coimbatore,2,3,2,3902,Furnished,2,23,1,9,Independent House,4823180
+H1454,Hyderabad,5,2,2,3247,Unfurnished,0,11,5,14,Apartment,9238976
+H1455,Chennai,4,3,0,2152,Furnished,0,29,8,9,Independent House,13329280
+H1456,Pune,2,3,0,1675,Semi-Furnished,2,19,8,11,Apartment,19860966
+H1457,Delhi,1,4,2,924,Furnished,1,15,11,18,Villa,21895774
+H1458,Mumbai,5,3,1,1591,Semi-Furnished,0,2,8,13,Villa,21623925
+H1459,Delhi,3,2,1,2593,Furnished,0,13,2,11,Apartment,16358372
+H1460,Hyderabad,4,3,2,1316,Furnished,1,0,8,13,Independent House,20144756
+H1461,Pune,2,2,1,3370,Unfurnished,2,9,12,8,Apartment,11049949
+H1462,Pune,1,2,0,876,Unfurnished,2,14,5,14,Apartment,3566776
+H1463,Pune,3,4,1,3183,Unfurnished,1,6,1,18,Villa,2833809
+H1464,Hyderabad,2,1,1,751,Furnished,2,3,7,14,Apartment,22920678
+H1465,Hyderabad,2,1,3,1554,Furnished,2,13,13,8,Independent House,22392277
+H1466,Delhi,3,4,3,2106,Furnished,0,23,6,10,Apartment,23029393
+H1467,Bangalore,1,3,3,858,Semi-Furnished,0,15,5,12,Villa,4586395
+H1468,Delhi,1,4,1,2971,Semi-Furnished,0,13,1,18,Independent House,19576114
+H1469,Mumbai,5,2,2,3664,Furnished,1,2,14,13,Villa,22722003
+H1470,Chennai,4,1,0,1468,Unfurnished,2,16,14,5,Apartment,14085350
+H1471,Pune,3,4,1,1791,Unfurnished,2,20,1,5,Apartment,24923911
+H1472,Bangalore,3,3,2,1287,Unfurnished,0,13,6,17,Villa,24225818
+H1473,Chennai,3,4,1,909,Furnished,0,17,10,12,Villa,14548305
+H1474,Bangalore,1,1,0,3450,Unfurnished,1,2,12,15,Independent House,15279543
+H1475,Coimbatore,4,4,1,2102,Furnished,2,29,7,11,Villa,10689066
+H1476,Coimbatore,5,4,0,3727,Semi-Furnished,1,21,10,13,Villa,19708104
+H1477,Kolkata,2,1,1,3267,Unfurnished,2,18,10,15,Apartment,3386006
+H1478,Coimbatore,2,2,0,1072,Semi-Furnished,1,2,1,7,Apartment,9357983
+H1479,Delhi,3,2,1,3967,Unfurnished,0,11,9,14,Villa,10861856
+H1480,Coimbatore,4,1,0,3108,Furnished,1,21,4,16,Villa,20425407
+H1481,Hyderabad,1,4,3,3995,Furnished,1,4,5,9,Apartment,9318420
+H1482,Pune,4,1,1,1413,Furnished,0,9,2,7,Independent House,2189963
+H1483,Delhi,4,2,1,1445,Furnished,2,8,14,19,Independent House,23466782
+H1484,Chennai,1,3,2,1764,Unfurnished,2,0,12,9,Independent House,17165281
+H1485,Kolkata,3,4,2,1266,Semi-Furnished,0,12,10,14,Independent House,8676340
+H1486,Kolkata,4,2,0,2909,Furnished,1,2,13,5,Apartment,2533687
+H1487,Kolkata,2,4,1,2408,Unfurnished,1,18,8,18,Villa,24974993
+H1488,Chennai,1,1,0,2043,Semi-Furnished,1,10,14,15,Independent House,4876848
+H1489,Chennai,5,3,3,2367,Furnished,2,15,2,8,Apartment,10465043
+H1490,Chennai,3,1,2,1864,Semi-Furnished,1,5,3,10,Villa,16750786
+H1491,Chennai,1,3,0,954,Furnished,2,23,12,6,Independent House,2575091
+H1492,Kolkata,5,4,0,2472,Semi-Furnished,1,2,9,17,Villa,24102385
+H1493,Kolkata,5,4,2,2624,Semi-Furnished,0,18,2,11,Independent House,3568051
+H1494,Bangalore,4,1,1,3417,Furnished,0,5,14,12,Villa,21088125
+H1495,Delhi,4,3,0,779,Unfurnished,2,7,6,5,Independent House,17114528
+H1496,Pune,4,3,2,665,Semi-Furnished,2,21,12,17,Independent House,17600375
+H1497,Coimbatore,1,4,1,1419,Furnished,0,12,4,8,Villa,16130830
+H1498,Coimbatore,1,1,3,1971,Semi-Furnished,0,11,7,15,Villa,7575090
+H1499,Hyderabad,3,3,2,770,Semi-Furnished,1,29,14,8,Villa,17914941
+H1500,Kolkata,4,4,0,3121,Unfurnished,0,9,14,17,Apartment,14572985
+H1501,Hyderabad,5,2,3,3181,Semi-Furnished,2,2,6,9,Apartment,2389515
+H1502,Delhi,2,1,1,1990,Semi-Furnished,0,3,10,18,Villa,9274203
+H1503,Delhi,3,2,1,1730,Furnished,2,0,14,16,Apartment,24778309
+H1504,Hyderabad,1,1,2,3086,Furnished,2,12,9,16,Independent House,21741996
+H1505,Kolkata,3,4,2,1434,Unfurnished,1,23,14,8,Villa,3005859
+H1506,Hyderabad,3,3,2,826,Semi-Furnished,1,3,9,13,Apartment,19774704
+H1507,Coimbatore,3,3,1,1041,Semi-Furnished,1,21,10,11,Villa,10769088
+H1508,Bangalore,3,3,3,3043,Semi-Furnished,1,10,4,17,Independent House,11144932
+H1509,Coimbatore,2,1,1,1327,Unfurnished,0,18,1,6,Independent House,16427451
+H1510,Mumbai,4,4,0,2204,Semi-Furnished,1,10,2,5,Apartment,21044575
+H1511,Kolkata,5,2,1,2731,Furnished,0,11,8,13,Independent House,4299703
+H1512,Kolkata,3,4,0,1636,Unfurnished,1,10,14,5,Villa,22243632
+H1513,Pune,3,2,3,2432,Furnished,1,5,10,10,Apartment,19747782
+H1514,Chennai,3,1,2,2448,Furnished,2,11,8,19,Villa,2151631
+H1515,Mumbai,4,1,2,3340,Unfurnished,0,26,14,19,Villa,7276295
+H1516,Delhi,1,2,1,1092,Furnished,2,8,2,6,Villa,3312146
+H1517,Kolkata,1,2,2,3939,Semi-Furnished,1,24,4,8,Independent House,9333354
+H1518,Hyderabad,2,2,3,2148,Unfurnished,0,9,1,10,Villa,2367595
+H1519,Mumbai,1,4,2,1743,Furnished,1,2,7,9,Independent House,6599015
+H1520,Pune,3,2,1,1569,Semi-Furnished,2,2,4,15,Villa,7368992
+H1521,Delhi,3,1,3,3000,Semi-Furnished,0,19,11,10,Independent House,24083048
+H1522,Chennai,3,1,0,3728,Furnished,2,27,14,7,Independent House,20431163
+H1523,Chennai,2,3,1,2687,Semi-Furnished,1,22,8,9,Independent House,18964909
+H1524,Pune,3,2,0,1239,Unfurnished,1,15,9,6,Villa,13278956
+H1525,Pune,1,4,3,772,Furnished,1,2,12,11,Villa,4681807
+H1526,Hyderabad,4,4,1,2170,Semi-Furnished,0,9,9,7,Independent House,7291427
+H1527,Kolkata,4,4,1,858,Semi-Furnished,2,23,3,5,Villa,1788715
+H1528,Chennai,5,3,3,1116,Furnished,2,10,5,18,Independent House,1770153
+H1529,Delhi,1,1,2,3377,Furnished,1,7,6,12,Villa,8950242
+H1530,Mumbai,3,4,1,1122,Furnished,2,5,6,12,Independent House,1800374
+H1531,Delhi,4,1,1,2517,Furnished,0,19,10,7,Independent House,2659940
+H1532,Bangalore,1,3,0,3486,Unfurnished,1,10,8,17,Apartment,2866769
+H1533,Bangalore,4,2,2,2764,Furnished,1,27,6,11,Villa,5031145
+H1534,Pune,3,2,0,2831,Unfurnished,1,26,6,13,Villa,20755978
+H1535,Hyderabad,4,2,0,2529,Unfurnished,0,20,4,12,Apartment,6337645
+H1536,Bangalore,5,4,2,1739,Furnished,1,11,7,7,Independent House,7176411
+H1537,Chennai,5,2,2,2809,Unfurnished,1,15,14,19,Independent House,8672906
+H1538,Delhi,4,4,3,3190,Furnished,1,17,14,17,Apartment,6513531
+H1539,Delhi,1,3,2,3908,Furnished,1,12,8,6,Apartment,2138100
+H1540,Pune,1,3,1,1438,Semi-Furnished,2,21,3,17,Independent House,20675703
+H1541,Kolkata,1,4,2,1689,Furnished,1,2,7,14,Villa,14268437
+H1542,Kolkata,4,1,3,1693,Semi-Furnished,0,14,3,11,Apartment,4658181
+H1543,Mumbai,1,2,3,3094,Unfurnished,1,21,8,11,Apartment,6863728
+H1544,Pune,3,2,3,3063,Semi-Furnished,1,27,1,13,Apartment,23963637
+H1545,Coimbatore,5,2,2,3179,Unfurnished,2,20,1,9,Apartment,15049906
+H1546,Mumbai,3,4,2,3088,Furnished,1,13,14,8,Apartment,6268585
+H1547,Coimbatore,1,3,0,3385,Unfurnished,2,17,6,12,Apartment,5018652
+H1548,Kolkata,3,2,0,2569,Unfurnished,0,27,10,18,Independent House,8314780
+H1549,Pune,1,3,1,3111,Furnished,2,28,9,8,Independent House,16688261
+H1550,Coimbatore,4,2,0,3043,Unfurnished,1,13,12,8,Apartment,2722465
+H1551,Pune,3,2,1,3358,Furnished,0,4,14,16,Independent House,3530624
+H1552,Pune,4,4,3,2174,Semi-Furnished,1,20,4,18,Villa,5356798
+H1553,Kolkata,4,1,0,2180,Furnished,2,13,6,16,Villa,18852303
+H1554,Mumbai,2,4,2,3042,Furnished,0,24,12,6,Apartment,24629636
+H1555,Mumbai,1,2,0,2973,Unfurnished,0,26,5,17,Villa,21625166
+H1556,Pune,5,2,1,1714,Semi-Furnished,2,7,12,19,Villa,3956675
+H1557,Bangalore,1,1,0,1349,Furnished,2,27,1,5,Independent House,9555830
+H1558,Hyderabad,5,3,3,1693,Semi-Furnished,0,27,6,8,Independent House,13668611
+H1559,Kolkata,1,3,2,1789,Semi-Furnished,0,22,9,11,Independent House,12980487
+H1560,Hyderabad,4,2,1,3289,Unfurnished,2,14,12,16,Independent House,14611001
+H1561,Hyderabad,3,3,2,2861,Furnished,1,27,3,13,Villa,21200944
+H1562,Mumbai,3,2,2,2475,Unfurnished,0,28,11,13,Apartment,24401006
+H1563,Mumbai,2,1,1,2387,Furnished,2,14,3,16,Independent House,4262660
+H1564,Bangalore,5,1,2,3016,Semi-Furnished,1,29,14,14,Villa,8952396
+H1565,Hyderabad,5,2,2,2207,Furnished,0,18,2,19,Independent House,24537648
+H1566,Hyderabad,5,1,0,648,Furnished,0,25,13,5,Villa,4799280
+H1567,Pune,4,4,2,1675,Semi-Furnished,2,19,4,9,Independent House,20393005
+H1568,Mumbai,5,4,2,1912,Semi-Furnished,1,5,10,11,Apartment,18059693
+H1569,Hyderabad,3,1,2,2249,Furnished,0,18,3,17,Independent House,6318529
+H1570,Delhi,4,2,2,3910,Unfurnished,1,26,12,11,Apartment,8797881
+H1571,Bangalore,1,2,1,2780,Furnished,1,24,2,14,Independent House,6012620
+H1572,Coimbatore,5,1,3,3646,Semi-Furnished,0,7,1,10,Independent House,19351229
+H1573,Delhi,5,3,0,3433,Unfurnished,1,5,3,15,Independent House,13435701
+H1574,Delhi,1,4,2,1789,Semi-Furnished,0,19,10,14,Villa,13442223
+H1575,Coimbatore,5,3,2,1997,Semi-Furnished,1,22,6,8,Villa,14579133
+H1576,Kolkata,1,2,1,3020,Unfurnished,0,28,9,7,Apartment,2201477
+H1577,Kolkata,4,2,3,2428,Semi-Furnished,2,14,11,16,Apartment,19735287
+H1578,Bangalore,3,3,2,1078,Semi-Furnished,0,26,5,17,Villa,24375363
+H1579,Delhi,1,1,1,1431,Semi-Furnished,0,2,3,13,Apartment,18508098
+H1580,Hyderabad,2,3,0,3297,Semi-Furnished,0,9,14,19,Apartment,24442403
+H1581,Mumbai,1,3,0,2214,Semi-Furnished,1,14,5,16,Villa,10364721
+H1582,Bangalore,5,4,2,1281,Semi-Furnished,2,23,5,17,Villa,3625786
+H1583,Pune,4,4,2,3335,Semi-Furnished,1,15,5,14,Villa,11869448
+H1584,Coimbatore,4,3,3,1923,Semi-Furnished,1,16,12,8,Villa,16584106
+H1585,Delhi,1,3,3,681,Semi-Furnished,0,18,12,12,Independent House,23869061
+H1586,Bangalore,3,2,2,686,Furnished,1,10,7,17,Villa,16685405
+H1587,Chennai,2,4,1,2872,Furnished,0,15,5,5,Apartment,20682287
+H1588,Chennai,4,4,3,2663,Semi-Furnished,2,4,7,11,Independent House,17617330
+H1589,Kolkata,5,2,2,1421,Furnished,1,4,9,16,Independent House,24682762
+H1590,Coimbatore,5,1,3,762,Unfurnished,1,25,5,10,Apartment,19332590
+H1591,Mumbai,3,4,2,3161,Furnished,1,13,2,17,Independent House,2008377
+H1592,Hyderabad,4,4,0,2997,Semi-Furnished,0,17,5,16,Apartment,20833687
+H1593,Mumbai,1,1,2,2532,Semi-Furnished,0,25,8,5,Independent House,3150024
+H1594,Mumbai,5,4,0,3328,Furnished,1,7,12,19,Independent House,21500695
+H1595,Mumbai,3,4,3,2450,Semi-Furnished,1,4,4,8,Apartment,10071090
+H1596,Coimbatore,4,1,2,2460,Unfurnished,2,6,2,16,Apartment,24567826
+H1597,Mumbai,4,1,3,1715,Unfurnished,2,15,10,19,Apartment,15442679
+H1598,Pune,4,3,0,2828,Semi-Furnished,2,22,3,18,Apartment,11949977
+H1599,Coimbatore,4,2,2,3390,Unfurnished,2,13,9,9,Villa,24940456
+H1600,Pune,4,2,3,3972,Unfurnished,2,4,9,15,Villa,18641974
+H1601,Coimbatore,5,1,0,3307,Furnished,0,23,8,12,Apartment,20245278
+H1602,Kolkata,3,1,3,3860,Unfurnished,2,8,8,19,Villa,21063592
+H1603,Bangalore,4,4,1,2482,Furnished,2,3,8,8,Apartment,19798126
+H1604,Chennai,2,3,0,3985,Semi-Furnished,1,3,8,7,Apartment,24129874
+H1605,Mumbai,2,3,0,3140,Furnished,0,15,8,6,Independent House,17530049
+H1606,Kolkata,3,1,0,1522,Semi-Furnished,2,23,1,8,Apartment,7313481
+H1607,Bangalore,1,4,2,2775,Semi-Furnished,2,16,6,15,Apartment,8884382
+H1608,Chennai,1,4,2,2049,Semi-Furnished,2,14,12,14,Apartment,22318544
+H1609,Delhi,1,2,2,2182,Semi-Furnished,1,3,9,18,Apartment,9612499
+H1610,Hyderabad,2,2,1,1164,Semi-Furnished,1,5,8,17,Independent House,19091572
+H1611,Pune,1,4,1,3858,Furnished,1,15,3,8,Apartment,8660481
+H1612,Delhi,5,2,0,3197,Semi-Furnished,2,28,11,17,Independent House,14986834
+H1613,Coimbatore,4,1,1,3100,Unfurnished,1,3,1,14,Apartment,19439536
+H1614,Chennai,2,4,3,1070,Unfurnished,2,5,2,9,Independent House,20606113
+H1615,Delhi,3,2,0,1587,Semi-Furnished,0,4,11,17,Villa,18494738
+H1616,Hyderabad,3,3,0,3385,Unfurnished,2,15,2,11,Independent House,15319785
+H1617,Kolkata,4,4,3,2534,Furnished,1,29,7,13,Independent House,24403076
+H1618,Chennai,2,4,0,823,Furnished,0,24,12,6,Apartment,5366692
+H1619,Delhi,1,3,1,2801,Semi-Furnished,2,15,6,9,Independent House,8457111
+H1620,Pune,1,1,2,3207,Semi-Furnished,0,9,11,15,Independent House,4652502
+H1621,Pune,5,3,3,950,Semi-Furnished,0,8,2,14,Apartment,14082091
+H1622,Bangalore,5,4,1,3818,Unfurnished,0,3,8,13,Villa,19993342
+H1623,Delhi,1,1,3,2528,Unfurnished,2,28,9,16,Villa,6118806
+H1624,Mumbai,3,2,3,948,Furnished,1,13,7,18,Villa,20057477
+H1625,Delhi,3,2,0,781,Unfurnished,2,3,4,17,Independent House,18240594
+H1626,Kolkata,5,2,0,1236,Furnished,1,11,13,7,Apartment,1728552
+H1627,Chennai,4,4,1,1617,Unfurnished,2,23,13,5,Villa,12582475
+H1628,Chennai,1,3,3,2826,Furnished,2,9,1,6,Villa,24656185
+H1629,Kolkata,5,1,0,3710,Semi-Furnished,2,3,4,18,Villa,7069038
+H1630,Delhi,5,2,0,1371,Unfurnished,1,17,4,10,Villa,2251247
+H1631,Kolkata,1,1,3,3541,Furnished,2,12,8,9,Apartment,23313208
+H1632,Hyderabad,1,4,1,3674,Unfurnished,0,12,4,5,Villa,3332413
+H1633,Coimbatore,3,2,1,1615,Semi-Furnished,2,13,4,5,Independent House,5419668
+H1634,Kolkata,4,4,3,2711,Furnished,0,17,13,15,Independent House,4835430
+H1635,Pune,4,3,1,628,Unfurnished,1,0,2,8,Apartment,1746968
+H1636,Kolkata,1,4,0,3019,Unfurnished,1,20,12,16,Villa,16009110
+H1637,Chennai,2,4,3,2744,Semi-Furnished,2,15,10,19,Villa,3528851
+H1638,Pune,5,3,0,2493,Semi-Furnished,2,14,7,8,Independent House,4435299
+H1639,Chennai,5,1,2,2065,Furnished,2,21,4,19,Apartment,13041802
+H1640,Bangalore,1,3,2,1826,Unfurnished,0,24,11,10,Independent House,11719047
+H1641,Mumbai,2,3,1,3640,Unfurnished,1,4,6,10,Apartment,2304069
+H1642,Chennai,3,4,2,2668,Semi-Furnished,0,28,3,14,Apartment,16175229
+H1643,Pune,1,1,0,3382,Semi-Furnished,0,5,7,18,Apartment,22540265
+H1644,Bangalore,1,2,2,1725,Furnished,2,5,6,10,Independent House,11642310
+H1645,Chennai,5,3,0,3717,Unfurnished,2,2,3,5,Apartment,17362790
+H1646,Hyderabad,1,1,1,665,Unfurnished,0,15,4,14,Independent House,17124867
+H1647,Kolkata,1,3,1,3250,Furnished,0,11,10,13,Independent House,5030662
+H1648,Mumbai,1,3,0,3835,Furnished,2,3,14,15,Villa,1987843
+H1649,Chennai,5,3,2,1734,Semi-Furnished,2,0,5,11,Independent House,2511987
+H1650,Bangalore,3,3,1,937,Semi-Furnished,0,3,9,11,Independent House,11483536
+H1651,Hyderabad,3,4,3,2770,Furnished,2,0,14,15,Villa,12582335
+H1652,Delhi,1,1,1,2328,Furnished,2,20,6,11,Villa,16824902
+H1653,Bangalore,5,1,2,1046,Unfurnished,0,26,13,6,Villa,18291641
+H1654,Kolkata,3,1,3,3258,Furnished,0,26,4,6,Apartment,22785145
+H1655,Bangalore,3,3,2,3962,Furnished,1,7,11,10,Apartment,1577347
+H1656,Hyderabad,3,4,0,3318,Unfurnished,0,23,11,11,Villa,5122058
+H1657,Bangalore,5,3,3,3262,Furnished,2,4,7,7,Apartment,24116701
+H1658,Hyderabad,5,3,2,3544,Semi-Furnished,0,29,2,17,Villa,22987586
+H1659,Chennai,1,1,3,880,Semi-Furnished,0,25,4,8,Apartment,17708682
+H1660,Coimbatore,4,3,2,3714,Unfurnished,0,1,5,18,Independent House,19669035
+H1661,Hyderabad,3,2,3,1195,Furnished,1,11,4,16,Apartment,23808128
+H1662,Hyderabad,4,3,2,2586,Semi-Furnished,1,21,4,7,Apartment,24028749
+H1663,Mumbai,5,2,0,3350,Semi-Furnished,2,16,11,11,Independent House,15808524
+H1664,Hyderabad,5,3,3,1674,Semi-Furnished,1,6,13,11,Villa,12313740
+H1665,Hyderabad,5,4,3,809,Semi-Furnished,0,10,9,8,Apartment,16348599
+H1666,Delhi,4,4,3,725,Furnished,1,3,14,17,Apartment,13622251
+H1667,Coimbatore,5,1,3,1091,Furnished,0,4,11,11,Independent House,6107741
+H1668,Chennai,1,3,0,3607,Furnished,1,5,13,9,Independent House,5416053
+H1669,Kolkata,5,2,3,1569,Furnished,1,10,2,5,Independent House,12488030
+H1670,Mumbai,2,2,1,1180,Semi-Furnished,1,0,6,14,Independent House,4774073
+H1671,Delhi,4,3,0,3424,Unfurnished,0,24,14,8,Villa,17707693
+H1672,Pune,2,2,1,2905,Unfurnished,1,9,8,11,Apartment,10485739
+H1673,Coimbatore,5,4,3,1811,Semi-Furnished,0,19,8,17,Apartment,22500771
+H1674,Chennai,1,2,2,829,Semi-Furnished,0,23,11,19,Apartment,5085530
+H1675,Chennai,3,1,1,788,Unfurnished,2,20,7,6,Apartment,24275149
+H1676,Pune,5,4,3,2657,Unfurnished,1,10,10,6,Villa,19248604
+H1677,Kolkata,1,4,1,3785,Semi-Furnished,2,23,11,5,Apartment,3082904
+H1678,Hyderabad,4,4,3,3747,Semi-Furnished,2,16,4,6,Villa,21599894
+H1679,Delhi,2,3,3,3323,Furnished,0,7,7,14,Villa,18676401
+H1680,Bangalore,2,3,3,1101,Furnished,1,26,13,18,Independent House,17490629
+H1681,Mumbai,2,4,2,2732,Unfurnished,0,12,10,12,Independent House,17619442
+H1682,Bangalore,4,3,1,648,Semi-Furnished,0,26,6,15,Apartment,6016974
+H1683,Pune,1,2,0,3485,Unfurnished,1,19,11,12,Villa,9714378
+H1684,Chennai,4,3,0,3655,Furnished,0,17,6,12,Independent House,19471557
+H1685,Kolkata,2,3,0,1288,Furnished,1,26,2,19,Villa,11456589
+H1686,Chennai,5,4,0,986,Unfurnished,1,21,8,5,Independent House,12864354
+H1687,Mumbai,3,1,3,1569,Furnished,0,15,8,5,Villa,2607666
+H1688,Chennai,4,1,1,1605,Semi-Furnished,0,1,14,16,Apartment,17100019
+H1689,Chennai,4,1,1,2865,Unfurnished,2,4,11,14,Apartment,19295580
+H1690,Mumbai,1,2,2,2324,Semi-Furnished,0,17,7,8,Villa,18767383
+H1691,Delhi,1,3,1,2604,Semi-Furnished,1,2,11,10,Independent House,20652956
+H1692,Delhi,4,1,1,3652,Furnished,2,26,9,12,Independent House,10191195
+H1693,Mumbai,2,4,1,3901,Semi-Furnished,1,21,8,17,Apartment,11609050
+H1694,Kolkata,3,1,2,2902,Unfurnished,2,16,14,6,Apartment,18708816
+H1695,Pune,1,1,0,2883,Semi-Furnished,0,15,9,17,Apartment,20351894
+H1696,Coimbatore,2,3,1,3697,Semi-Furnished,0,5,9,7,Independent House,12494850
+H1697,Chennai,5,3,2,2207,Semi-Furnished,0,18,6,10,Independent House,20733741
+H1698,Kolkata,1,3,2,3932,Semi-Furnished,1,6,2,14,Apartment,3097112
+H1699,Chennai,2,2,3,2389,Semi-Furnished,2,17,12,8,Villa,22910898
+H1700,Coimbatore,2,2,2,870,Furnished,1,13,7,16,Independent House,10586658
+H1701,Pune,3,1,0,722,Unfurnished,2,5,3,6,Apartment,11326849
+H1702,Delhi,3,3,1,3303,Furnished,0,7,13,11,Villa,5632857
+H1703,Kolkata,5,1,2,1880,Unfurnished,1,14,7,8,Independent House,4365264
+H1704,Hyderabad,2,4,0,2044,Unfurnished,0,14,9,12,Villa,8908040
+H1705,Hyderabad,2,4,2,858,Unfurnished,1,14,10,12,Villa,8638197
+H1706,Coimbatore,3,3,2,1547,Unfurnished,0,15,14,11,Independent House,18320453
+H1707,Hyderabad,1,3,2,2694,Unfurnished,1,0,10,14,Apartment,4510551
+H1708,Delhi,1,4,2,1462,Semi-Furnished,1,10,2,13,Villa,24473332
+H1709,Coimbatore,4,3,2,1124,Furnished,2,26,14,8,Apartment,9110280
+H1710,Delhi,3,2,0,1487,Furnished,0,28,13,11,Independent House,3156094
+H1711,Pune,4,2,1,807,Semi-Furnished,2,24,6,14,Villa,9192442
+H1712,Chennai,3,3,1,3982,Unfurnished,2,4,13,14,Villa,12545028
+H1713,Pune,5,4,1,3394,Furnished,0,4,6,19,Villa,19062561
+H1714,Pune,2,1,1,748,Semi-Furnished,1,28,9,16,Villa,20545000
+H1715,Delhi,5,3,0,1037,Semi-Furnished,2,27,13,5,Villa,21251849
+H1716,Coimbatore,3,3,3,2802,Furnished,0,20,9,8,Independent House,8291679
+H1717,Coimbatore,2,1,3,3761,Furnished,1,5,13,6,Villa,4822787
+H1718,Hyderabad,1,3,0,2321,Unfurnished,2,1,5,13,Independent House,8799258
+H1719,Bangalore,1,1,0,957,Unfurnished,2,5,14,9,Apartment,9936775
+H1720,Chennai,4,4,2,3845,Furnished,2,13,5,7,Independent House,2796181
+H1721,Delhi,3,2,2,1840,Unfurnished,1,10,9,8,Villa,16875852
+H1722,Hyderabad,3,4,2,2530,Semi-Furnished,2,3,8,10,Apartment,23849478
+H1723,Kolkata,1,2,1,1055,Unfurnished,1,23,7,14,Independent House,8037606
+H1724,Bangalore,5,1,2,3423,Unfurnished,2,28,8,5,Independent House,11352619
+H1725,Bangalore,2,2,3,2232,Semi-Furnished,0,26,6,11,Independent House,17303131
+H1726,Delhi,5,4,1,1228,Unfurnished,2,24,3,12,Villa,10924200
+H1727,Mumbai,5,2,2,3870,Semi-Furnished,0,8,7,11,Villa,5199618
+H1728,Chennai,1,1,1,3479,Unfurnished,0,23,8,11,Independent House,9418791
+H1729,Bangalore,1,2,3,1085,Furnished,0,2,8,13,Independent House,17946150
+H1730,Delhi,1,3,2,3180,Unfurnished,1,25,1,17,Apartment,15044643
+H1731,Delhi,4,4,3,799,Furnished,0,15,7,8,Villa,6577817
+H1732,Hyderabad,5,3,3,970,Furnished,2,10,3,18,Villa,20921772
+H1733,Kolkata,3,1,3,1613,Furnished,1,26,2,11,Apartment,15400306
+H1734,Mumbai,2,2,2,2582,Furnished,0,3,14,13,Independent House,16590749
+H1735,Chennai,4,3,0,3500,Furnished,1,0,2,19,Independent House,16447654
+H1736,Coimbatore,3,3,2,2071,Semi-Furnished,1,24,14,9,Apartment,24693481
+H1737,Pune,5,2,3,847,Semi-Furnished,1,20,14,6,Independent House,15938680
+H1738,Kolkata,1,2,2,1387,Semi-Furnished,2,21,8,19,Independent House,16706315
+H1739,Kolkata,5,4,3,2911,Furnished,0,15,9,9,Apartment,16550489
+H1740,Hyderabad,2,3,0,3729,Unfurnished,1,18,3,8,Apartment,18959838
+H1741,Coimbatore,4,3,1,3973,Semi-Furnished,1,15,14,12,Apartment,16191224
+H1742,Bangalore,4,1,0,2678,Unfurnished,1,10,3,19,Independent House,12350780
+H1743,Bangalore,2,4,0,2121,Unfurnished,0,25,6,9,Apartment,10782251
+H1744,Hyderabad,3,1,1,1872,Furnished,1,7,11,13,Independent House,21374034
+H1745,Delhi,3,3,2,1204,Furnished,1,22,10,13,Villa,13597902
+H1746,Bangalore,4,1,1,3942,Furnished,2,0,1,7,Villa,9787143
+H1747,Mumbai,4,3,2,2289,Semi-Furnished,0,25,6,17,Apartment,5687635
+H1748,Chennai,1,3,2,2017,Furnished,2,27,12,14,Independent House,13182629
+H1749,Kolkata,3,1,3,2420,Semi-Furnished,0,20,3,19,Independent House,20770907
+H1750,Kolkata,2,1,3,1101,Semi-Furnished,0,25,11,10,Independent House,19115753
+H1751,Mumbai,3,2,1,3755,Semi-Furnished,0,8,4,10,Apartment,15370401
+H1752,Coimbatore,1,2,0,3533,Semi-Furnished,2,27,9,8,Independent House,17566935
+H1753,Bangalore,4,2,1,1148,Furnished,2,26,3,15,Independent House,18008908
+H1754,Kolkata,4,3,2,1965,Semi-Furnished,2,11,1,17,Independent House,9169144
+H1755,Pune,1,1,3,1438,Furnished,2,21,3,14,Villa,9780774
+H1756,Coimbatore,2,4,1,2030,Furnished,1,7,7,7,Independent House,9601351
+H1757,Chennai,4,3,1,2048,Semi-Furnished,1,25,13,5,Villa,2350262
+H1758,Chennai,5,4,3,3764,Furnished,1,16,7,16,Independent House,13894735
+H1759,Kolkata,4,1,3,1447,Unfurnished,0,9,11,11,Independent House,21562346
+H1760,Hyderabad,5,3,3,1213,Furnished,1,26,5,19,Independent House,9015257
+H1761,Coimbatore,1,4,2,1011,Furnished,0,6,14,19,Villa,6489347
+H1762,Kolkata,1,4,3,3079,Semi-Furnished,2,18,1,9,Independent House,1776016
+H1763,Hyderabad,4,2,0,1277,Semi-Furnished,0,24,11,18,Apartment,14918799
+H1764,Kolkata,3,2,1,758,Furnished,0,5,8,14,Independent House,10999898
+H1765,Pune,5,2,3,2661,Semi-Furnished,1,20,10,19,Villa,16829258
+H1766,Coimbatore,2,3,3,972,Unfurnished,2,23,8,11,Villa,9693168
+H1767,Delhi,4,1,2,2872,Unfurnished,2,23,10,5,Apartment,20975097
+H1768,Chennai,2,1,2,1696,Semi-Furnished,1,27,12,12,Apartment,2136024
+H1769,Kolkata,4,2,1,3920,Furnished,2,27,10,7,Apartment,14677979
+H1770,Pune,3,2,0,3158,Unfurnished,2,18,13,11,Villa,3548149
+H1771,Hyderabad,3,2,1,1202,Unfurnished,2,17,10,16,Independent House,22170860
+H1772,Hyderabad,3,4,3,815,Furnished,1,14,2,7,Independent House,5634667
+H1773,Chennai,3,2,0,2596,Semi-Furnished,2,1,10,18,Apartment,16284512
+H1774,Mumbai,1,4,0,2164,Unfurnished,0,13,3,7,Apartment,24840704
+H1775,Kolkata,1,1,0,2440,Furnished,0,20,4,14,Independent House,21599315
+H1776,Coimbatore,5,3,0,2562,Furnished,2,9,1,13,Apartment,4770518
+H1777,Bangalore,2,3,1,3635,Unfurnished,1,27,4,17,Independent House,21438879
+H1778,Hyderabad,4,3,2,3891,Semi-Furnished,1,15,5,6,Independent House,3408010
+H1779,Coimbatore,4,3,2,3487,Unfurnished,1,6,3,18,Independent House,6037079
+H1780,Coimbatore,1,4,3,1326,Furnished,2,7,14,8,Independent House,23465753
+H1781,Delhi,4,4,2,1844,Unfurnished,2,9,11,10,Villa,22779696
+H1782,Coimbatore,1,2,2,3201,Semi-Furnished,0,14,10,18,Independent House,12587811
+H1783,Coimbatore,5,4,2,1665,Furnished,1,7,2,7,Apartment,21309779
+H1784,Delhi,2,2,2,1275,Semi-Furnished,0,12,13,16,Apartment,17528786
+H1785,Hyderabad,5,2,3,3520,Unfurnished,0,11,6,14,Apartment,19763846
+H1786,Coimbatore,3,3,1,882,Unfurnished,1,7,8,18,Apartment,9403232
+H1787,Mumbai,3,4,0,1681,Semi-Furnished,2,14,7,14,Villa,16724492
+H1788,Mumbai,3,4,2,3481,Unfurnished,2,25,11,11,Independent House,1585591
+H1789,Pune,5,2,1,3184,Semi-Furnished,0,11,14,11,Independent House,19309889
+H1790,Delhi,4,2,2,3744,Unfurnished,0,10,1,19,Apartment,16359873
+H1791,Pune,2,1,2,2508,Semi-Furnished,0,18,4,9,Apartment,9397687
+H1792,Delhi,3,1,0,3570,Semi-Furnished,0,13,3,7,Apartment,16538798
+H1793,Kolkata,3,2,0,1752,Furnished,1,26,6,6,Independent House,3546416
+H1794,Kolkata,3,1,0,3489,Furnished,0,17,9,19,Villa,7571436
+H1795,Coimbatore,2,1,2,1547,Semi-Furnished,0,12,9,19,Villa,20288934
+H1796,Bangalore,3,2,2,1264,Unfurnished,2,3,7,8,Villa,4625384
+H1797,Kolkata,2,2,2,2317,Unfurnished,2,16,12,18,Villa,14567243
+H1798,Bangalore,3,4,0,1748,Unfurnished,2,18,9,19,Apartment,15526686
+H1799,Kolkata,5,2,3,666,Semi-Furnished,1,26,8,17,Independent House,11839938
+H1800,Chennai,5,2,1,2653,Semi-Furnished,1,8,5,8,Apartment,6586870
+H1801,Kolkata,2,3,3,1236,Semi-Furnished,2,22,9,15,Villa,22245141
+H1802,Pune,5,4,2,913,Semi-Furnished,2,6,14,12,Apartment,8136206
+H1803,Hyderabad,2,4,2,3997,Furnished,0,0,7,12,Villa,12826873
+H1804,Coimbatore,5,4,3,1164,Semi-Furnished,0,6,5,17,Independent House,14015072
+H1805,Pune,5,3,2,2201,Unfurnished,1,25,8,9,Villa,12610111
+H1806,Hyderabad,2,2,1,1425,Furnished,1,6,7,17,Apartment,6379177
+H1807,Mumbai,4,4,2,3153,Unfurnished,0,19,9,10,Independent House,11746208
+H1808,Pune,5,4,1,1705,Semi-Furnished,2,6,10,12,Villa,20748708
+H1809,Mumbai,3,1,3,1625,Furnished,0,7,1,19,Villa,3358626
+H1810,Bangalore,4,4,3,2851,Semi-Furnished,1,15,13,5,Independent House,6794512
+H1811,Bangalore,2,2,2,1261,Furnished,1,2,9,9,Apartment,4005777
+H1812,Chennai,4,2,1,1404,Unfurnished,0,12,7,8,Independent House,8849561
+H1813,Kolkata,1,1,2,3051,Semi-Furnished,0,9,1,8,Apartment,18137236
+H1814,Pune,1,4,0,3774,Semi-Furnished,0,17,1,15,Villa,7312085
+H1815,Mumbai,5,4,0,1135,Furnished,1,6,5,6,Villa,23078296
+H1816,Hyderabad,5,4,0,1991,Furnished,2,20,8,14,Independent House,7997809
+H1817,Bangalore,3,3,0,1835,Semi-Furnished,0,20,9,5,Villa,8536687
+H1818,Kolkata,4,4,2,3224,Furnished,1,29,12,18,Independent House,19918305
+H1819,Bangalore,1,2,0,3880,Semi-Furnished,1,4,6,19,Villa,23523084
+H1820,Hyderabad,5,2,1,3410,Furnished,1,22,12,10,Villa,10973103
+H1821,Kolkata,4,3,3,2520,Unfurnished,0,24,13,11,Apartment,24023335
+H1822,Kolkata,5,3,3,2764,Furnished,0,26,10,9,Independent House,3252362
+H1823,Mumbai,5,4,0,1227,Unfurnished,2,23,12,19,Independent House,18286229
+H1824,Mumbai,1,1,0,1348,Furnished,1,21,8,12,Villa,7175209
+H1825,Pune,1,3,0,704,Furnished,0,6,6,13,Apartment,12644694
+H1826,Pune,5,3,2,3142,Semi-Furnished,1,24,11,15,Apartment,20079168
+H1827,Delhi,2,4,3,645,Furnished,1,29,6,15,Independent House,20930884
+H1828,Coimbatore,5,4,0,3470,Furnished,2,26,4,6,Independent House,6990248
+H1829,Delhi,5,3,1,1954,Unfurnished,0,21,11,15,Villa,24487311
+H1830,Chennai,3,1,0,1839,Furnished,0,16,5,17,Independent House,9148273
+H1831,Bangalore,3,3,3,1581,Semi-Furnished,1,3,14,8,Villa,3783997
+H1832,Pune,3,4,0,1559,Unfurnished,1,23,2,15,Apartment,24466239
+H1833,Mumbai,2,4,3,2115,Semi-Furnished,2,22,3,13,Independent House,12393799
+H1834,Hyderabad,2,3,0,2436,Semi-Furnished,2,15,3,9,Apartment,18956086
+H1835,Mumbai,5,1,1,3492,Semi-Furnished,2,18,14,7,Apartment,3726954
+H1836,Bangalore,3,3,0,3096,Semi-Furnished,2,9,12,10,Villa,13859101
+H1837,Delhi,2,3,1,3183,Unfurnished,2,2,11,19,Apartment,8058035
+H1838,Mumbai,1,4,1,3158,Furnished,2,26,5,7,Villa,22247794
+H1839,Coimbatore,5,1,0,2081,Semi-Furnished,1,2,14,18,Villa,9946563
+H1840,Chennai,4,2,1,2159,Unfurnished,2,27,5,9,Apartment,14404563
+H1841,Bangalore,5,1,2,3187,Semi-Furnished,1,16,6,7,Apartment,14133945
+H1842,Delhi,4,3,0,2107,Furnished,1,9,5,10,Villa,8827511
+H1843,Coimbatore,3,3,0,2663,Unfurnished,0,16,12,16,Villa,13893740
+H1844,Hyderabad,4,3,1,2600,Unfurnished,1,21,6,14,Apartment,22518739
+H1845,Delhi,3,1,1,2890,Furnished,1,29,8,9,Villa,15829569
+H1846,Kolkata,1,4,0,2573,Unfurnished,2,29,2,18,Villa,14281212
+H1847,Coimbatore,4,3,2,3878,Furnished,1,16,4,13,Independent House,19734531
+H1848,Coimbatore,5,3,1,1511,Unfurnished,2,20,13,7,Independent House,24076710
+H1849,Chennai,3,1,1,1894,Unfurnished,2,3,6,10,Independent House,12360530
+H1850,Bangalore,5,2,3,3408,Furnished,2,20,12,12,Independent House,20547645
+H1851,Hyderabad,2,2,2,2402,Furnished,0,22,5,11,Independent House,19194845
+H1852,Chennai,3,4,2,3352,Unfurnished,2,5,1,10,Villa,21227535
+H1853,Delhi,4,4,0,2353,Unfurnished,1,11,9,18,Villa,10255148
+H1854,Chennai,3,3,2,714,Furnished,2,24,3,19,Independent House,20390743
+H1855,Coimbatore,5,1,0,2203,Furnished,2,21,2,6,Apartment,18410999
+H1856,Bangalore,1,3,3,1922,Unfurnished,2,24,9,19,Independent House,18548542
+H1857,Pune,3,4,2,2460,Unfurnished,0,19,7,11,Apartment,24139450
+H1858,Chennai,4,1,1,3044,Unfurnished,1,16,5,12,Villa,21857110
+H1859,Kolkata,2,1,3,3041,Furnished,0,16,12,5,Apartment,16021726
+H1860,Chennai,1,4,0,1698,Unfurnished,1,9,6,19,Villa,10008878
+H1861,Delhi,2,2,3,1577,Semi-Furnished,0,6,12,13,Apartment,22162722
+H1862,Delhi,3,2,0,2105,Furnished,1,28,11,8,Villa,4255077
+H1863,Hyderabad,5,1,3,1726,Unfurnished,0,15,4,12,Villa,19414701
+H1864,Delhi,5,3,0,896,Furnished,2,28,1,19,Independent House,2995734
+H1865,Mumbai,4,2,2,3649,Semi-Furnished,0,12,4,14,Villa,23498117
+H1866,Bangalore,5,3,1,2825,Furnished,0,2,9,11,Independent House,15333120
+H1867,Bangalore,1,2,0,3886,Unfurnished,2,1,1,18,Independent House,24175045
+H1868,Pune,5,2,3,3614,Semi-Furnished,2,15,10,17,Independent House,1795943
+H1869,Pune,4,3,0,2962,Semi-Furnished,1,29,3,14,Apartment,20834361
+H1870,Bangalore,3,4,0,1662,Unfurnished,1,5,5,11,Apartment,1534510
+H1871,Kolkata,3,2,0,858,Unfurnished,1,5,7,6,Villa,19823021
+H1872,Pune,5,2,3,2654,Unfurnished,0,12,9,5,Independent House,14170831
+H1873,Hyderabad,2,3,1,2696,Furnished,1,6,6,8,Independent House,15244531
+H1874,Delhi,3,4,2,2808,Furnished,0,4,3,16,Villa,12407951
+H1875,Bangalore,5,2,1,2492,Furnished,0,23,13,6,Independent House,14398298
+H1876,Coimbatore,4,2,0,775,Unfurnished,1,6,7,12,Villa,11961152
+H1877,Pune,5,4,3,3673,Unfurnished,1,1,14,14,Independent House,24198723
+H1878,Bangalore,3,2,1,1600,Furnished,0,16,4,11,Apartment,6174569
+H1879,Mumbai,4,4,0,2518,Semi-Furnished,2,12,3,12,Villa,9696403
+H1880,Chennai,5,4,2,3102,Furnished,2,29,14,15,Villa,9747729
+H1881,Delhi,1,3,2,2267,Semi-Furnished,0,24,7,10,Apartment,8582785
+H1882,Bangalore,4,1,2,875,Unfurnished,1,20,11,5,Villa,1631235
+H1883,Chennai,1,4,0,3145,Unfurnished,0,27,11,18,Apartment,8106140
+H1884,Pune,2,3,3,1275,Furnished,0,26,7,17,Independent House,20850499
+H1885,Chennai,4,1,1,2423,Furnished,1,20,4,17,Apartment,5938671
+H1886,Delhi,1,2,2,1651,Unfurnished,2,27,12,16,Apartment,19093678
+H1887,Bangalore,3,1,0,1956,Furnished,0,15,7,13,Villa,16045990
+H1888,Mumbai,3,4,0,3672,Unfurnished,2,25,11,10,Independent House,16209934
+H1889,Kolkata,2,4,1,3859,Unfurnished,2,19,14,16,Apartment,2971274
+H1890,Pune,4,4,2,2703,Semi-Furnished,1,1,2,17,Independent House,5594290
+H1891,Bangalore,4,4,0,1146,Furnished,0,4,1,14,Apartment,3916551
+H1892,Delhi,4,4,1,1735,Unfurnished,0,17,12,5,Villa,19156055
+H1893,Pune,2,3,3,3981,Furnished,2,27,2,5,Apartment,8249602
+H1894,Hyderabad,4,4,3,2683,Semi-Furnished,2,6,4,12,Apartment,18013329
+H1895,Chennai,3,3,3,2640,Semi-Furnished,1,10,8,10,Independent House,4541035
+H1896,Kolkata,1,2,2,1038,Furnished,2,24,3,12,Apartment,7638708
+H1897,Delhi,3,4,1,2352,Furnished,1,24,10,12,Villa,6734514
+H1898,Hyderabad,3,4,1,2215,Unfurnished,0,10,6,19,Villa,5996874
+H1899,Coimbatore,1,1,0,2449,Semi-Furnished,1,21,6,15,Apartment,15874511
+H1900,Bangalore,3,2,0,3242,Semi-Furnished,2,16,13,18,Apartment,3241951
+H1901,Mumbai,2,4,0,2200,Semi-Furnished,0,15,9,12,Independent House,23069059
+H1902,Pune,1,4,1,3996,Furnished,1,12,9,14,Independent House,24401557
+H1903,Chennai,3,2,0,2263,Unfurnished,0,21,4,19,Villa,6825870
+H1904,Pune,5,3,1,906,Furnished,1,4,9,11,Independent House,9631064
+H1905,Kolkata,3,4,1,1218,Furnished,2,19,13,11,Apartment,2180050
+H1906,Bangalore,2,1,3,1732,Furnished,2,15,6,14,Villa,22464767
+H1907,Pune,4,4,0,1995,Unfurnished,0,27,2,8,Independent House,18573122
+H1908,Chennai,3,1,3,3004,Furnished,0,21,10,13,Villa,9221182
+H1909,Bangalore,4,1,2,2828,Semi-Furnished,0,21,14,16,Apartment,6387163
+H1910,Pune,5,4,2,1979,Semi-Furnished,1,15,11,6,Independent House,4740868
+H1911,Mumbai,3,4,2,2299,Semi-Furnished,2,15,6,15,Apartment,16122815
+H1912,Delhi,1,1,1,2715,Unfurnished,0,13,2,13,Apartment,21244874
+H1913,Bangalore,4,2,1,2939,Furnished,0,5,8,14,Villa,13051351
+H1914,Delhi,5,2,1,3339,Unfurnished,0,1,4,7,Villa,3445188
+H1915,Coimbatore,1,4,0,780,Furnished,1,13,5,18,Villa,11647741
+H1916,Bangalore,1,3,3,3081,Semi-Furnished,0,15,8,17,Independent House,21799807
+H1917,Mumbai,1,2,1,2087,Furnished,0,22,14,19,Independent House,8855884
+H1918,Delhi,1,4,3,1513,Furnished,1,29,11,6,Villa,2079649
+H1919,Hyderabad,3,2,3,2157,Furnished,1,19,8,17,Independent House,17602578
+H1920,Chennai,3,3,3,2713,Unfurnished,0,12,12,8,Independent House,6370922
+H1921,Hyderabad,3,4,0,1644,Furnished,0,14,14,9,Villa,7764250
+H1922,Pune,5,3,0,2235,Furnished,1,11,12,6,Apartment,2459012
+H1923,Mumbai,5,4,2,3031,Furnished,2,8,6,17,Independent House,20311080
+H1924,Hyderabad,5,3,2,2238,Unfurnished,1,25,4,19,Independent House,21450354
+H1925,Bangalore,2,2,3,2182,Unfurnished,2,17,1,5,Apartment,2285334
+H1926,Pune,5,2,2,2686,Unfurnished,0,20,12,14,Apartment,20253191
+H1927,Pune,3,3,3,1908,Furnished,0,13,7,15,Apartment,6945894
+H1928,Hyderabad,3,3,0,1421,Semi-Furnished,2,19,8,9,Villa,16738276
+H1929,Coimbatore,2,3,0,1201,Semi-Furnished,1,24,9,13,Apartment,4496206
+H1930,Hyderabad,2,4,0,2220,Semi-Furnished,0,3,2,19,Villa,20372105
+H1931,Coimbatore,5,2,1,1384,Furnished,2,7,1,16,Apartment,7505079
+H1932,Mumbai,4,4,3,1811,Semi-Furnished,1,7,4,16,Apartment,14940175
+H1933,Chennai,2,2,0,1270,Semi-Furnished,2,21,13,19,Villa,4002632
+H1934,Hyderabad,1,1,3,1866,Semi-Furnished,1,21,5,9,Villa,14373094
+H1935,Kolkata,3,4,2,1696,Furnished,1,15,10,16,Apartment,10124138
+H1936,Coimbatore,1,2,2,3126,Semi-Furnished,1,26,12,15,Apartment,20645648
+H1937,Hyderabad,3,2,0,2597,Semi-Furnished,1,23,1,14,Apartment,6851426
+H1938,Delhi,3,4,3,3208,Furnished,2,27,5,13,Independent House,10440327
+H1939,Bangalore,2,4,0,700,Unfurnished,2,28,6,18,Apartment,4688018
+H1940,Kolkata,2,2,2,3161,Semi-Furnished,2,27,3,17,Villa,19262259
+H1941,Kolkata,1,4,0,2379,Unfurnished,2,9,12,16,Independent House,3431823
+H1942,Coimbatore,3,3,3,775,Semi-Furnished,2,24,7,14,Villa,7921830
+H1943,Delhi,1,4,2,837,Furnished,1,20,14,10,Independent House,13077083
+H1944,Delhi,4,4,1,3557,Unfurnished,0,26,6,7,Independent House,18094835
+H1945,Pune,1,4,2,3730,Unfurnished,0,16,4,8,Villa,19001784
+H1946,Coimbatore,5,2,1,1722,Unfurnished,2,0,3,8,Independent House,23124940
+H1947,Chennai,1,3,0,3518,Unfurnished,2,17,5,5,Villa,15466626
+H1948,Bangalore,5,1,0,2577,Semi-Furnished,0,9,3,7,Apartment,22278391
+H1949,Mumbai,5,1,3,3142,Semi-Furnished,1,25,10,7,Independent House,18947463
+H1950,Kolkata,5,3,1,3594,Unfurnished,2,20,9,17,Villa,3067692
+H1951,Mumbai,4,3,0,2603,Semi-Furnished,1,3,9,18,Independent House,3011718
+H1952,Hyderabad,1,3,1,2137,Unfurnished,0,0,6,5,Villa,23736739
+H1953,Hyderabad,1,2,0,1354,Unfurnished,0,3,13,17,Apartment,23773212
+H1954,Mumbai,4,1,2,3968,Furnished,2,3,11,13,Apartment,2059168
+H1955,Hyderabad,3,3,0,2858,Unfurnished,1,25,6,15,Independent House,2739613
+H1956,Chennai,2,2,3,1746,Semi-Furnished,2,3,12,5,Independent House,3970352
+H1957,Delhi,1,1,2,3900,Unfurnished,0,16,14,13,Villa,1849829
+H1958,Hyderabad,2,4,3,2011,Furnished,1,8,4,5,Villa,20193099
+H1959,Pune,4,2,2,739,Semi-Furnished,2,29,4,6,Independent House,20048042
+H1960,Hyderabad,3,1,1,1140,Furnished,2,18,2,6,Villa,13496842
+H1961,Bangalore,3,2,3,2014,Furnished,2,12,10,18,Villa,7676977
+H1962,Chennai,3,1,0,869,Unfurnished,0,3,4,10,Villa,22356615
+H1963,Bangalore,4,1,1,1635,Furnished,2,4,8,11,Independent House,15645624
+H1964,Bangalore,5,4,0,2490,Furnished,1,28,13,15,Apartment,4112902
+H1965,Pune,5,2,2,1105,Semi-Furnished,2,12,10,5,Apartment,7617403
+H1966,Chennai,2,3,2,1729,Furnished,0,22,2,7,Villa,3105869
+H1967,Chennai,5,4,0,2679,Unfurnished,2,15,9,6,Independent House,2786479
+H1968,Coimbatore,5,4,0,3745,Unfurnished,0,21,14,12,Villa,5430174
+H1969,Chennai,3,1,1,3842,Unfurnished,0,4,1,13,Apartment,14189291
+H1970,Chennai,3,3,0,2472,Furnished,1,7,13,17,Villa,4434312
+H1971,Chennai,2,2,3,1692,Semi-Furnished,1,15,2,6,Apartment,6358355
+H1972,Pune,1,3,3,1412,Unfurnished,2,29,2,6,Independent House,3606908
+H1973,Hyderabad,2,3,0,961,Furnished,0,0,11,14,Villa,17292719
+H1974,Coimbatore,2,3,3,2056,Unfurnished,0,22,13,19,Independent House,15721300
+H1975,Bangalore,4,3,0,1528,Unfurnished,1,27,14,13,Villa,15585170
+H1976,Chennai,4,3,1,699,Semi-Furnished,1,5,6,18,Villa,21597324
+H1977,Kolkata,2,1,3,2281,Unfurnished,2,10,14,8,Villa,17334201
+H1978,Hyderabad,2,1,3,2656,Semi-Furnished,0,15,7,9,Villa,3613685
+H1979,Hyderabad,2,4,0,3344,Furnished,1,4,13,17,Villa,9986025
+H1980,Bangalore,5,1,3,1652,Unfurnished,2,15,3,15,Independent House,11292646
+H1981,Pune,4,4,2,3785,Furnished,0,6,11,13,Independent House,4319672
+H1982,Mumbai,2,4,1,3109,Furnished,0,18,9,10,Apartment,1848492
+H1983,Mumbai,3,2,1,1520,Furnished,1,0,5,14,Villa,4456649
+H1984,Hyderabad,3,3,3,3814,Unfurnished,2,8,5,16,Apartment,3523001
+H1985,Delhi,5,1,3,3037,Semi-Furnished,1,17,11,13,Independent House,16718006
+H1986,Delhi,5,2,2,1231,Unfurnished,2,12,12,13,Apartment,17623964
+H1987,Bangalore,1,1,2,1281,Furnished,0,25,4,11,Independent House,6025931
+H1988,Mumbai,1,4,3,2804,Semi-Furnished,2,14,9,18,Villa,17760827
+H1989,Hyderabad,1,1,3,2982,Furnished,2,2,8,16,Apartment,5838748
+H1990,Pune,5,3,2,2907,Semi-Furnished,2,23,12,14,Apartment,6125202
+H1991,Mumbai,5,4,0,2729,Unfurnished,2,27,4,13,Apartment,21883959
+H1992,Hyderabad,5,4,2,1353,Semi-Furnished,2,9,4,9,Apartment,11553196
+H1993,Hyderabad,3,2,0,2064,Unfurnished,1,8,2,9,Villa,17257935
+H1994,Chennai,5,3,1,3843,Furnished,2,12,9,16,Independent House,12445089
+H1995,Pune,3,4,1,3902,Semi-Furnished,2,15,3,12,Independent House,9938182
+H1996,Chennai,1,3,2,1319,Furnished,0,2,4,14,Villa,24931883
+H1997,Bangalore,1,1,0,674,Semi-Furnished,2,21,14,8,Independent House,17424646
+H1998,Chennai,1,3,2,1893,Unfurnished,0,22,7,13,Apartment,16394285
+H1999,Kolkata,2,4,2,2522,Semi-Furnished,1,14,10,11,Villa,24551549
+H2000,Chennai,2,2,0,3273,Semi-Furnished,1,16,8,11,Independent House,17969096
